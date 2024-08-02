@@ -1,19 +1,14 @@
-from flask import Flask, request, render_template
+import streamlit as st
 import numpy as np
 import pandas as pd
 import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from keras.layers import Input
-from keras.layers import Embedding
-from keras.layers import Flatten
-from keras.layers import Concatenate
-from keras.layers import Dense
-from keras.layers import Dropout
-from keras.models import Model
-
-
+from tensorflow.keras.models import load_model, Model
+from tensorflow.keras.layers import Input, Embedding, Flatten, Concatenate, Dense, Dropout
+from sklearn.model_selection import train_test_split
+import os
 
 # Load your keyword data
 keywords_df = pd.read_csv('keyword.csv')
@@ -83,7 +78,6 @@ label_encoder.fit(all_pages)
 interactions['current_page_encoded'] = label_encoder.transform(interactions['current_page'])
 interactions['next_page_encoded'] = label_encoder.transform(interactions['next_page'])
 
-# Define the NCF model
 num_pages = len(all_pages)
 embedding_dim = 50
 
@@ -104,13 +98,16 @@ output_layer = Dense(1, activation='sigmoid')(dense_2)
 
 ncf_model = Model(inputs=[input_current_page, input_next_page], outputs=output_layer)
 
-ncf_model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-
-# Load or train the model
 model_path = 'model.keras'
-try:
-    ncf_model.load_weights(model_path)
-except:
+
+def train_model():
+    # Split data
+    train_data, test_data = train_test_split(interactions[['current_page_encoded', 'next_page_encoded', 'rating']],
+                                             test_size=0.2,
+                                             random_state=42)
+
+    ncf_model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+
     ncf_model.fit(
         [train_data['current_page_encoded'], train_data['next_page_encoded']],
         train_data['rating'],
@@ -121,32 +118,41 @@ except:
             test_data['rating']
         )
     )
-    ncf_model.save_weights(model_path)
+    
+    # Save the model after training
+    ncf_model.save(model_path)
+    st.write("Model trained and saved successfully!")
 
-app = Flask(__name__)
+def load_trained_model():
+    try:
+        model = load_model(model_path)
+        st.write("Loaded pre-trained model successfully!")
+        return model
+    except Exception as e:
+        st.write("Error loading model:", e)
+        return None
 
-@app.route('/', methods=['GET', 'POST'])
-def index():
-    if request.method == 'POST':
-        user_prompt = request.form['user_prompt']
+st.title('Learning Path Recommender System')
+
+if st.button("Train Model"):
+    train_model()
+
+user_prompt = st.text_input("Enter your prompt:")
+
+if st.button("Get Recommendations"):
+    ncf_model = load_trained_model()
+    if ncf_model:
         top_n = 3
         path_length = 3
         top_pages = match_top_pages(user_prompt, keywords_df, tfidf_matrix, top_n=top_n)
 
-        results = []
         for page_name, _ in top_pages:
             prompt_page_encoded = label_encoder.transform([page_name])[0]
             predicted_pages = ncf_model.predict([prompt_page_encoded * np.ones(num_pages), np.arange(num_pages)])
             confidence_scores = predicted_pages.flatten()
             top_predicted_indices = np.argsort(confidence_scores)[::-1][:path_length]
             predicted_paths = label_encoder.inverse_transform(top_predicted_indices)
-            results.append({
-                'page_name': page_name,
-                'top_predicted_indices': top_predicted_indices.tolist(),
-                'confidence_scores': confidence_scores[top_predicted_indices].tolist(),
-                'predicted_paths': predicted_paths.tolist()
-            })
-
-        return render_template('index.html', user_prompt=user_prompt, results=results)
-
-    return render_template('index.html')
+            
+            st.write(f"Top page: {page_name}")
+            st.write(f"Predicted paths: {predicted_paths.tolist()}")
+            st.write(f"Confidence scores: {confidence_scores[top_predicted_indices].tolist()}")
