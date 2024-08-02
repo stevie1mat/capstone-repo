@@ -1,0 +1,160 @@
+An axon terminal (A) transmits a signal to
+neuron B (receiving). Features: 1.
+Mitochondrion. 2. Synaptic vesicle filled
+with neurotransmitter molecules. 3.
+Autoreceptor. 4. Synaptic cleft with
+neurotransmitter molecules. 5.
+Postsynaptic receptors activated by
+neurotransmitters (induction of a
+postsynaptic potential). 6. Calcium
+channel. 7. Exocytosis of a vesicle. 8.
+Recaptured neurotransmitter.
+Axon terminal
+Axon terminals (also called synaptic boutons, presynaptic
+terminals, or end-feet) are distal terminations of the branches
+of an axon. An axon, also called a nerve fiber, is a long,
+slender projection of a nerve cell that conducts electrical
+impulses called action potentials away from the neuron's cell
+body to transmit those impulses to other neurons, muscle cells,
+or glands. Most presynaptic terminals in the central nervous
+system are formed along the axons (en-passant boutons), not
+at their ends (terminal boutons).
+Functionally, the axon terminal converts an electrical signal
+into a chemical signal. When an action potential arrives at an
+axon terminal (A), the neurotransmitter is released and
+diffuses across the synaptic cleft. If the postsynaptic cell (B) is
+also a neuron, neurotransmitter receptors generate a small
+electrical current that changes the postsynaptic potential. If the
+postsynaptic cell (B) is a muscle cell (neuromuscular junction),
+it contracts.
+Axon terminals are specialized to release neurotransmitters
+very rapidly by exocytosis.[1] Neurotransmitter molecules are
+packaged into synaptic vesicles that cluster beneath the axon
+terminal membrane on the presynaptic side (A) of a synapse.
+Some of these vesicles are docked, i.e., connected to the
+membrane by several specialized proteins, such as the SNARE
+complex. The incoming action potential activates voltage-gated calcium channels, leading to an influx of
+calcium ions into the axon terminal. The SNARE complex reacts to these calcium ions. It forces the
+vesicle's membrane to fuse with the presynaptic membrane, releasing their content into the synaptic cleft
+within 180 μs of calcium entry.[2][3][4] When receptors in the postsynaptic membrane bind this
+neurotransmitter and open ion channels, information is transmitted between neurons (A) and neurons (B).[5]
+To generate an action potential in the postsynaptic neuron, many excitatory synapses must be active at the
+same time.[1]
+Historically, calcium-sensitive dyes were the first tool to quantify the calcium influx into synaptic terminals
+and to investigate the mechanisms of short-term plasticity.[6] The process of exocytosis can be visualized
+with pH-sensitive fluorescent proteins (Synapto-pHluorin): Before release, vesicles are acidic, and the
+fluorescence is quenched. Upon release, they are neutralized, generating a brief flash of green
+fluorescence.[7] Another possibility is constructing a genetically encoded sensor that becomes fluorescent
+Neurotransmitter release
+Imaging the activity of axon terminals
+Structure of a typical neuron
+when 
+bound 
+to 
+a 
+specific
+neurotransmitter, 
+e.g., 
+glutamate.[8]
+This method is sensitive enough to
+detect the fusion of a single transmitter
+vesicle in brain tissue and to measure
+the release probability at individual
+synapses.[9]
+Calyx of Held, a giant axon
+terminal in the auditory system
+Neuromuscular junction, axon
+terminal contacting a muscle
+cell
+Endocytosis to recycle vesicles after use
+Vesicular monoamine transporter, loading vesicles with neurotransmitter.
+Optogenetic methods to measure cellular activity
+1. Purves, Dale; Augustine, George J.; Fitzpatrick, David, eds. (2019). Neuroscience (6th ed.).
+New York: Sinauer Associates / Oxford University Press. ISBN 978-1-60535-841-3.
+2. Llinás R, Steinberg IZ, Walton K (March 1981). "Relationship between presynaptic calcium
+current and postsynaptic potential in squid giant synapse" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC1327434). Biophysical Journal. 33 (3): 323–351. Bibcode:1981BpJ....33..323L
+(https://ui.adsabs.harvard.edu/abs/1981BpJ....33..323L). doi:10.1016/S0006-3495(81)84899-
+0 (https://doi.org/10.1016%2FS0006-3495%2881%2984899-0). PMC 1327434 (https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC1327434). PMID 6261850 (https://pubmed.ncbi.nlm.nih.go
+v/6261850).
+3. Rizo J (August 2018). "Mechanism of neurotransmitter release coming into focus" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC6153415). Protein Science (Review). 27 (8): 1364–
+1391. doi:10.1002/pro.3445 (https://doi.org/10.1002%2Fpro.3445). PMC 6153415 (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC6153415). PMID 29893445 (https://pubmed.ncbi.nlm.ni
+h.gov/29893445). "Research for three decades and major recent advances have provided
+crucial insights into how neurotransmitters are released by Ca2+ -triggered synaptic vesicle
+exocytosis, leading to reconstitution of basic steps that underlie Ca2+ -dependent membrane
+fusion and yielding a model that assigns defined functions for central components of the
+release machinery."
+4. Südhof TC, Rizo J (December 2011). "Synaptic vesicle exocytosis" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC3225952). Cold Spring Harbor Perspectives in Biology. 3 (12):
+a005637. doi:10.1101/cshperspect.a005637 (https://doi.org/10.1101%2Fcshperspect.a0056
+37). PMC 3225952 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3225952).
+PMID 22026965 (https://pubmed.ncbi.nlm.nih.gov/22026965).
+5. Siegelbaum, Steven A. (2021). Kandel, Eric R.; Koester, John D.; Mack, Sarah H. (eds.).
+Principles of neural science (6th ed.). New York: McGraw-Hill. ISBN 978-1-259-64223-4.
+6. Zucker RS, Regehr WG (2002). "Short-term synaptic plasticity". Annual Review of
+Physiology. 64 (1): 355–405. doi:10.1146/annurev.physiol.64.092501.114547 (https://doi.org/
+10.1146%2Fannurev.physiol.64.092501.114547). PMID 11826273 (https://pubmed.ncbi.nlm.
+nih.gov/11826273).
+Dendrite
+Soma
+Axon
+Nucleus
+Node of
+Ranvier
+Axon
+terminal
+Schwann cell
+Myelin sheath
+See also
+References
+7. Burrone J, Li Z, Murthy VN (2006). "Studying vesicle cycling in presynaptic terminals using
+the genetically encoded probe synaptopHluorin". Nature Protocols. 1 (6): 2970–2978.
+doi:10.1038/nprot.2006.449 (https://doi.org/10.1038%2Fnprot.2006.449). PMID 17406557 (ht
+tps://pubmed.ncbi.nlm.nih.gov/17406557). S2CID 29102814 (https://api.semanticscholar.org/
+CorpusID:29102814).
+8. Marvin JS, Borghuis BG, Tian L, Cichon J, Harnett MT, Akerboom J, et al. (February 2013).
+"An optimized fluorescent probe for visualizing glutamate neurotransmission" (https://www.n
+cbi.nlm.nih.gov/pmc/articles/PMC4469972). Nature Methods. 10 (2): 162–170.
+doi:10.1038/nmeth.2333 (https://doi.org/10.1038%2Fnmeth.2333). PMC 4469972 (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC4469972). PMID 23314171 (https://pubmed.ncbi.nlm.ni
+h.gov/23314171).
+9. Dürst CD, Wiegert JS, Schulze C, Helassa N, Török K, Oertner TG (October 2022).
+"Vesicular release probability sets the strength of individual Schaffer collateral synapses" (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576736). Nature Communications. 13 (1):
+6126. doi:10.1038/s41467-022-33565-6 (https://doi.org/10.1038%2Fs41467-022-33565-6).
+PMC 9576736 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576736). PMID 36253353 (h
+ttps://pubmed.ncbi.nlm.nih.gov/36253353).
+Cragg SJ, Greenfield SA (August 1997). "Differential autoreceptor control of somatodendritic
+and axon terminal dopamine release in substantia nigra, ventral tegmental area, and
+striatum" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6573186). The Journal of
+Neuroscience. 17 (15): 5738–5746. doi:10.1523/JNEUROSCI.17-15-05738.1997 (https://doi.
+org/10.1523%2FJNEUROSCI.17-15-05738.1997). PMC 6573186 (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC6573186). PMID 9221772 (https://pubmed.ncbi.nlm.nih.gov/9221772).
+Vaquero CF, de la Villa P (October 1999). "Localisation of the GABA(C) receptors at the
+axon terminal of the rod bipolar cells of the mouse retina". Neuroscience Research. 35 (1):
+1–7. doi:10.1016/S0168-0102(99)00050-4 (https://doi.org/10.1016%2FS0168-0102%2899%
+2900050-4). PMID 10555158 (https://pubmed.ncbi.nlm.nih.gov/10555158). S2CID 53189471
+(https://api.semanticscholar.org/CorpusID:53189471).
+Roffler-Tarlov S, Beart PM, O'Gorman S, Sidman RL (May 1979). "Neurochemical and
+morphological consequences of axon terminal degeneration in cerebellar deep nuclei of
+mice with inherited Purkinje cell degeneration". Brain Research. 168 (1): 75–95.
+doi:10.1016/0006-8993(79)90129-X (https://doi.org/10.1016%2F0006-8993%2879%299012
+9-X). PMID 455087 (https://pubmed.ncbi.nlm.nih.gov/455087). S2CID 19618884 (https://api.s
+emanticscholar.org/CorpusID:19618884).
+Yagi T, Kaneko A (February 1988). "The axon terminal of goldfish retinal horizontal cells: a
+low membrane conductance measured in solitary preparations and its implication to the
+signal conduction from the soma". Journal of Neurophysiology. 59 (2): 482–494.
+doi:10.1152/jn.1988.59.2.482 (https://doi.org/10.1152%2Fjn.1988.59.2.482). PMID 3351572
+(https://pubmed.ncbi.nlm.nih.gov/3351572).
+LTP promotes formation of multiple spine synapses between a single axon terminal and a
+dendrite.Toni N, Buchs PA, Nikonenko I, Bron CR, Muller D (November 1999). "LTP
+promotes formation of multiple spine synapses between a single axon terminal and a
+dendrite". Nature. 402 (6760): 421–425. Bibcode:1999Natur.402..421T (https://ui.adsabs.har
+vard.edu/abs/1999Natur.402..421T). doi:10.1038/46574 (https://doi.org/10.1038%2F46574).
+PMID 10586883 (https://pubmed.ncbi.nlm.nih.gov/10586883). S2CID 205056308 (https://api.
+semanticscholar.org/CorpusID:205056308).
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Axon_terminal&oldid=1221810698"
+Further reading

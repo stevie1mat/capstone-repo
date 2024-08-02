@@ -1,0 +1,461 @@
+Parasympathetic nervous
+system
+Autonomic nervous system innervation,
+showing the parasympathetic
+(craniosacral) systems in blue.
+Details
+Identifiers
+Latin
+pars parasympathica
+divisionis autonomici
+systematis
+Acronym(s) PSNS
+MeSH
+D010275 (https://meshb.
+nlm.nih.gov/record/ui?ui=
+D010275)
+TA98
+A14.3.02.001 (https://ifa
+a.unifr.ch/Public/EntryPag
+e/TA98%20Tree/Entity%2
+0TA98%20EN/14.3.02.00
+1%20Entity%20TA98%20
+EN.htm)
+Parasympathetic nervous system
+The parasympathetic nervous system (PSNS) is one of the
+three divisions of the autonomic nervous system, the others
+being the sympathetic nervous system and the enteric nervous
+system.[1][2] The enteric nervous system is sometimes
+considered part of the autonomic nervous system, and
+sometimes considered an independent system.[3]
+The autonomic nervous system is responsible for regulating the
+body's unconscious actions. The parasympathetic system is
+responsible for stimulation of "rest-and-digest" or "feed-and-
+breed"[4] activities that occur when the body is at rest,
+especially after eating, including sexual arousal, salivation,
+lacrimation (tears), urination, digestion, and defecation. Its
+action is described as being complementary to that of the
+sympathetic nervous system, which is responsible for
+stimulating activities associated with the fight-or-flight
+response.
+Nerve fibres of the parasympathetic nervous system arise from
+the central nervous system. Specific nerves include several
+cranial nerves, specifically the oculomotor nerve, facial nerve,
+glossopharyngeal nerve, and vagus nerve. Three spinal nerves
+in the sacrum (S2–4), commonly referred to as the pelvic
+splanchnic nerves, also act as parasympathetic nerves.
+Owing to its location, the parasympathetic system is commonly
+referred to as having "craniosacral outflow", which stands in
+contrast to the sympathetic nervous system, which is said to
+have "thoracolumbar outflow".[5]
+The parasympathetic nerves are autonomic or visceral 
+[6][7]
+branches 
+of 
+the 
+peripheral 
+nervous 
+system 
+(PNS).
+Parasympathetic nerve supply arises through three primary
+areas:
+1. Certain cranial nerves in the cranium, namely the
+preganglionic parasympathetic nerves (CN III, CN
+VII, CN IX and CN X) usually arise from specific
+nuclei in the central nervous system (CNS) and
+synapse at one of four parasympathetic ganglia:
+ciliary, pterygopalatine, otic, or submandibular. From
+these four ganglia the parasympathetic nerves
+Structure
+TA2
+6661 (https://ta2viewer.o
+penanatomy.org/?id=666
+1)
+FMA
+9907 (https://bioportal.bio
+ontology.org/ontologies/F
+MA/?p=classes&concepti
+d=http%3A%2F%2Fpurl.
+org%2Fsig%2Font%2Ffm
+a%2Ffma9907)
+Anatomical terminology
+complete their journey to target tissues via trigeminal
+branches (ophthalmic nerve, maxillary nerve,
+mandibular nerve).
+2. The vagus nerve (CN X) does not participate in
+these cranial ganglia as most of its parasympathetic
+fibers are destined for a broad array of ganglia on or
+near thoracic viscera (esophagus, trachea, heart,
+lungs) and abdominal viscera (stomach, pancreas,
+liver, kidneys, small intestine, and about half of the
+large intestine). The vagus innervation ends at the
+junction between the midgut and hindgut, just before
+the splenic flexure of the transverse colon.
+3. The pelvic splanchnic efferent preganglionic nerve
+cell bodies reside in the lateral gray horn of the spinal cord at the T12–L1 vertebral levels
+(the spinal cord terminates at the L1–L2 vertebrae with the conus medullaris), and their
+axons exit the vertebral column as S2–S4 spinal nerves through the sacral foramina.[8] Their
+axons continue away from the CNS to synapse at an autonomic ganglion. The
+parasympathetic ganglion where these preganglionic neurons synapse will be close to the
+organ of innervation. This differs from the sympathetic nervous system, where synapses
+between pre- and post-ganglionic efferent nerves in general occur at ganglia that are farther
+away from the target organ.
+As in the sympathetic nervous system, efferent parasympathetic nerve signals are carried from the central
+nervous system to their targets by a system of two neurons. The first neuron in this pathway is referred to as
+the preganglionic or presynaptic neuron. Its cell body sits in the central nervous system and its axon usually
+extends to synapse with the dendrites of a postganglionic neuron somewhere else in the body. The axons of
+presynaptic parasympathetic neurons are usually long, extending from the CNS into a ganglion that is either
+very close to or embedded in their target organ. As a result, the postsynaptic parasympathetic nerve fibers
+are very short.[9]: 
+42 
+The oculomotor nerve is responsible for a number of parasympathetic functions related to the eye.[10] The
+oculomotor PNS fibers originate in the Edinger-Westphal nucleus in the central nervous system and travel
+through the superior orbital fissure to synapse in the ciliary ganglion located just behind the orbit (eye).[11]
+From the ciliary ganglion the postganglionic parasympathetic fibers leave via short ciliary nerve fibers, a
+continuation of the nasociliary nerve (a branch of ophthalmic division of the trigeminal nerve (CN V1)).
+The short ciliary nerves innervate the orbit to control the ciliary muscle (responsible for accommodation)
+and the iris sphincter muscle, which is responsible for miosis or constriction of the pupil (in response to light
+or accommodation). There are two motors that are part of the oculomotor nerve known as the somatic motor
+and visceral motor. The somatic motor is responsible for moving the eye in precise motions and for keeping
+the eye fixated on an object. The visceral motor helps constrict the pupil.[12]
+The parasympathetic aspect of the facial nerve controls secretion of the sublingual and submandibular
+salivary glands, the lacrimal gland, and the glands associated with the nasal cavity. The preganglionic fibers
+originate within the CNS in the superior salivatory nucleus and leave as the intermediate nerve (which some
+consider a separate cranial nerve altogether) to connect with the facial nerve just distal (further out) to it
+surfacing the central nervous system. Just after the facial nerve geniculate ganglion (general sensory
+ganglion) in the temporal bone, the facial nerve gives off two separate parasympathetic nerves. The first is
+the greater petrosal nerve and the second is the chorda tympani. The greater petrosal nerve travels through
+Cranial nerves
+the middle ear and eventually combines with the deep petrosal nerve (sympathetic fibers) to form the nerve
+of the pterygoid canal. The parasympathetic fibers of the nerve of the pterygoid canal synapse at the
+pterygopalatine ganglion, which is closely associated with the maxillary division of the trigeminal nerve
+(CN V2). The postganglionic parasympathetic fibers leave the pterygopalatine ganglion in several
+directions. One division leaves on the zygomatic division of CN V2 and travels on a communicating branch
+to unite with the lacrimal nerve (branch of the ophthalmic nerve of CN V1) before synapsing at the lacrimal
+gland. These parasympathetic to the lacrimal gland control tear production.[13]
+A separate group of parasympathetic leaving from the pterygopalatine ganglion are the descending palatine
+nerves (CN V2 branch), which include the greater and lesser palatine nerves. The greater palatine
+parasympathetic synapse on the hard palate and regulate mucus glands located there. The lesser palatine
+nerve synapses at the soft palate and controls sparse taste receptors and mucus glands. Yet another set of
+divisions from the pterygopalatine ganglion are the posterior, superior, and inferior lateral nasal nerves; and
+the nasopalatine nerves (all branches of CN V2, maxillary division of the trigeminal nerve) that bring
+parasympathetic innervation to glands of the nasal mucosa. The second parasympathetic branch that leaves
+the facial nerve is the chorda tympani. This nerve carries secretomotor fibers to the submandibular and
+sublingual glands. The chorda tympani travels through the middle ear and attaches to the lingual nerve
+(mandibular division of trigeminal, CN V3). After joining the lingual nerve, the preganglionic fibers
+synapse at the submandibular ganglion and send postganglionic fibers to the sublingual and submandibular
+salivary glands.
+The glossopharyngeal nerve has parasympathetic fibers that innervate the parotid salivary gland. The
+preganglionic fibers depart CN IX as the tympanic nerve and continue to the middle ear where they make
+up a tympanic plexus on the cochlear promontory of the mesotympanum. The tympanic plexus of nerves
+rejoin and form the lesser petrosal nerve and exit through the foramen ovale to synapse at the otic ganglion.
+From the otic ganglion postganglionic parasympathetic fibers travel with the auriculotemporal nerve
+(mandibular branch of trigeminal, CN V3) to the parotid salivary gland.
+The vagus nerve, named after the Latin word vagus (because the nerve controls such a broad range of target
+tissues – vagus in Latin literally means "wandering"), has parasympathetic functions that originate in the
+dorsal nucleus of the vagus nerve and the nucleus ambiguus in the CNS. The vagus nerve is an unusual
+cranial parasympathetic in that it does not join the trigeminal nerve in order to get to its target tissues.
+Another peculiarity is that the vagus has an autonomic ganglion associated with it at approximately the level
+of C1 vertebra. The vagus gives no parasympathetic to the cranium. The vagus nerve is hard to track
+definitively due to its ubiquitous nature in the thorax and abdomen so the major contributions will be
+discussed. Several parasympathetic nerves come off the vagus nerve as it enters the thorax. One nerve is the
+recurrent laryngeal nerve, which becomes the inferior laryngeal nerve. From the left vagus nerve the
+recurrent laryngeal nerve hooks around the aorta to travel back up to the larynx and proximal esophagus
+while, from the right vagus nerve, the recurrent laryngeal nerve hooks around the right subclavian artery to
+travel back up to the same location as its counterpart. These different paths are a direct result of
+embryological development of the circulatory system. Each recurrent laryngeal nerve supplies the trachea
+and the esophagus with parasympathetic secretomotor innervation for glands associated with them (and
+other fibers that are not PN).
+Vagus nerve
+Another nerve that comes off the vagus nerves approximately at the level of entering the thorax are the
+cardiac nerves. These cardiac nerves go on to form cardiac and pulmonary plexuses around the heart and
+lungs. As the main vagus nerves continue into the thorax they become intimately linked with the esophagus
+and sympathetic nerves from the sympathetic trunks to form the esophageal plexus. This is very efficient as
+the major function of the vagus nerve from there on will be control of the gut smooth muscles and glands.
+As the esophageal plexus enter the abdomen through the esophageal hiatus anterior and posterior vagus
+trunks form. The vagus trunks then join with preaortic sympathetic ganglion around the aorta to disperse
+with the blood vessels and sympathetic nerves throughout the abdomen. The extent of the parasympathetic
+in the abdomen include the pancreas, kidneys, liver, gall bladder, stomach and gut tube. The vagus
+contribution of parasympathetic continues down the gut tube until the end of the midgut. The midgut ends
+two thirds of the way across the transverse colon near the splenic flexure.[14]
+The pelvic splanchnic nerves, S2–4, work in tandem to innervate the pelvic viscera. Unlike in the cranium,
+where one parasympathetic is in charge of one particular tissue or region, for the most part the pelvic
+splanchnics each contribute fibers to pelvic viscera by traveling to one or more plexuses before being
+dispersed to the target tissue. These plexuses are composed of mixed autonomic nerve fibers
+(parasympathetic and sympathetic) and include the vesical, prostatic, rectal, uterovaginal, and inferior
+hypogastric plexuses. The preganglionic neurons in the pathway do not synapse in a ganglion as in the
+cranium but rather in the walls of the tissues or organs that they innervate. The fiber paths are variable and
+each individual's autonomic nervous system in the pelvis is unique. The visceral tissues in the pelvis that the
+parasympathetic nerve pathway controls include those of the urinary bladder, ureters, urinary sphincter, anal
+sphincter, uterus, prostate, glands, vagina, and penis. Unconsciously, the parasympathetic will cause
+peristaltic movements of the ureters and intestines, moving urine from the kidneys into the bladder and food
+down the intestinal tract and, upon necessity, the parasympathetic will assist in excreting urine from the
+bladder or defecation. Stimulation of the parasympathetic will cause the detrusor muscle (urinary bladder
+wall) to contract and simultaneously relax the internal sphincter muscle between the bladder and the urethra,
+allowing the bladder to void. Also, parasympathetic stimulation of the internal anal sphincter will relax this
+muscle to allow defecation. There are other skeletal muscles involved with these processes but the
+parasympathetic plays a huge role in continence and bowel retention.
+A study published in 2016, suggests that all sacral autonomic output may be sympathetic; indicating that the
+rectum, bladder and reproductive organs may only be innervated by the sympathetic nervous system. This
+suggestion is based on detailed analysis of 15 phenotypic and ontogenetic factors differentiating
+sympathetic from parasympathetic neurons in the mouse. Assuming that the reported findings most likely
+applies to other mammals as well, this perspective suggests a simplified, bipartite architecture of the
+autonomic nervous system, in which the parasympathetic nervous system receives input from cranial nerves
+exclusively and the sympathetic nervous system from thoracic to sacral spinal nerves.[15]
+Pelvic splanchnic nerves
+Autonomic nervous system's jurisdiction to organs in the human body
+Organ
+Nerves[16]
+Spinal column origin[16]
+stomach
+PS: anterior and posterior vagal trunks
+S: greater splanchnic nerves
+T5, T6, T7, T8, T9, sometimes
+T10
+duodenum
+PS: vagus nerves
+S: greater splanchnic nerves
+T5, T6, T7, T8, T9, sometimes
+T10
+jejunum and ileum
+PS: posterior vagal trunks
+S: greater splanchnic nerves
+T5, T6, T7, T8, T9
+spleen
+S: greater splanchnic nerves
+T6, T7, T8
+gallbladder and
+liver
+PS: vagus nerve
+S: celiac plexus
+right phrenic nerve
+T6, T7, T8, T9
+colon
+PS: vagus nerves and pelvic splanchnic nerves
+S: lesser and least splanchnic nerves
+T10, T11, T12 (proximal colon)
+L1, L2, L3, (distal colon)
+pancreatic head
+PS: vagus nerves
+S: thoracic splanchnic nerves
+T8, T9
+appendix
+nerves to superior mesenteric plexus
+T10
+bladder
+PS: pelvic splanchnic nerves to detrusor
+muscles
+S: inferior hypogastric nerves
+S2-S4
+kidneys and ureters
+PS: vagus nerve
+S: thoracic and lumbar splanchnic nerves
+T11, T12
+The afferent fibers of the autonomic nervous system, which transmit sensory information from the internal
+organs of the body back to the central nervous system, are not divided into parasympathetic and
+sympathetic fibers as the efferent fibers are.[9]: 
+34–35  Instead, autonomic sensory information is conducted
+by general visceral afferent fibers.
+General visceral afferent sensations are mostly unconscious visceral motor reflex sensations from hollow
+organs and glands that are transmitted to the CNS. While the unconscious reflex arcs normally are
+undetectable, in certain instances they may send pain sensations to the CNS masked as referred pain. If the
+Function
+Sensation
+peritoneal cavity becomes inflamed or if the bowel is suddenly distended, the body will interpret the afferent
+pain stimulus as somatic in origin. This pain is usually non-localized. The pain is also usually referred to
+dermatomes that are at the same spinal nerve level as the visceral afferent synapse.
+Heart rate is largely controlled by the heart's internal pacemaker activity. Considering a healthy heart, the
+main pacemaker is a collection of cells on the border of the atria and vena cava called the sinoatrial node.
+Heart cells have the ability to generate electrical activity independent of external stimulation. As a result, the
+cells of the node spontaneously generate electrical activity that is subsequently conducted throughout the
+heart, resulting in a regular heart rate.
+In absence of any external stimuli, sinoatrial pacing contributes to maintain the heart rate in the range of 60-
+100 beats per minute (bpm).[17] At the same time, the two branches of the autonomic nervous system act in
+a complementary way increasing or slowing the heart rate. In this context, the vagus nerve acts on sinoatrial
+node slowing its conduction thus actively modulating vagal tone accordingly. This modulation is mediated
+by the neurotransmitter acetylcholine and downstream changes to ionic currents and calcium of heart
+cells.[18]
+The vagus nerve plays a crucial role in heart rate regulation by modulating the response of sinoatrial node;
+vagal tone can be quantified by investigating heart rate modulation induced by vagal tone changes. As a
+general consideration, increased vagal tone (and thus vagal action) is associated with a diminished and more
+variable heart rate.[19][20] The main mechanism by which the parasympathetic nervous system acts on
+vascular and cardiac control is the so-called respiratory sinus arrhythmia (RSA). RSA is described as the
+physiological and rhythmical fluctuation of heart rate at the respiration frequency, characterized by heart rate
+increase during inspiration and decrease during expiration.
+Another role that the parasympathetic nervous system plays is in sexual activity. In males, the cavernous
+nerves from the prostatic plexus stimulate smooth muscles in the fibrous trabeculae of the coiled helicine
+arteries of penis to relax and allow blood to fill the two corpora cavernosa and the corpus spongiosum of the
+penis, making it rigid to prepare for sexual activity. Upon emission of ejaculate, the sympathetics participate
+and cause peristalsis of the ductus deferens and closure of the internal urethral sphincter to prevent semen
+from entering the bladder. At the same time, parasympathetics cause peristalsis of the urethral muscle, and
+the pudendal nerve causes contraction of the bulbospongiosus (skeletal muscle is not via PN), to forcibly
+emit the semen. During remission the penis becomes flaccid again. In the female, there is erectile tissue
+analogous to the male yet less substantial that plays a large role in sexual stimulation. The PN cause release
+of secretions in the female that decrease friction. Also in the female, the parasympathetics innervate the
+fallopian tubes, which helps peristaltic contractions and movement of the oocyte to the uterus for
+implantation. The secretions from the female genital tract aid in sperm migration. The PN (and SN to a
+lesser extent) play a significant role in reproduction.[9]
+Vascular effects
+Sexual activity
+Receptors
+The parasympathetic nervous system uses chiefly acetylcholine (ACh) as its neurotransmitter, although
+peptides (such as cholecystokinin) can be used.[21][22] The ACh acts on two types of receptors, the
+muscarinic and nicotinic cholinergic receptors. Most transmissions occur in two stages: When stimulated,
+the preganglionic neuron releases ACh at the ganglion, which acts on nicotinic receptors of postganglionic
+neurons. The postganglionic neuron then releases ACh to stimulate the muscarinic receptors of the target
+organ.
+The five main types of muscarinic receptors:
+The M1 muscarinic receptors (CHRM1 (https://www.genenames.org/tools/search/#!/genes?q
+uery=CHRM1)) are located in the neural system.
+The M2 muscarinic receptors (CHRM2 (https://www.genenames.org/tools/search/#!/genes?q
+uery=CHRM2)) are located in the heart, and act to bring the heart back to normal after the
+actions of the sympathetic nervous system: slowing down the heart rate, reducing contractile
+forces of the atrial cardiac muscle, and reducing conduction velocity of the sinoatrial node
+and atrioventricular node. They have a minimal effect on the contractile forces of the
+ventricular muscle due to sparse innervation of the ventricles from the parasympathetic
+nervous system.
+The M3 muscarinic receptors (CHRM3 (https://www.genenames.org/tools/search/#!/genes?q
+uery=CHRM3)) are located at many places in the body, such as the endothelial cells of blood
+vessels, as well as the lungs causing bronchoconstriction. The net effect of innervated M3
+receptors on blood vessels is vasodilation, as acetylcholine causes endothelial cells to
+produce nitric oxide, which diffuses to smooth muscle and results in vasodilation. They are
+also in the smooth muscles of the gastrointestinal tract, which help in increasing intestinal
+motility and dilating sphincters. The M3 receptors are also located in many glands that help
+to stimulate secretion in salivary glands and other glands of the body. They are also located
+on the detrusor muscle and urothelium of the bladder, causing contraction.[23]
+The M4 muscarinic receptors: Postganglionic cholinergic nerves, possible CNS effects
+The M5 muscarinic receptors: Possible effects on the CNS
+In vertebrates, nicotinic receptors are broadly classified into two subtypes based on their primary sites of
+expression: muscle-type nicotinic receptors (N1) primarily for somatic motor neurons; and neuronal-type
+nicotinic receptors (N2) primarily for autonomic nervous system.[24]
+Sympathetic and parasympathetic divisions typically function in opposition to each other. The sympathetic
+division typically functions in actions requiring quick responses. The parasympathetic division functions
+with actions that do not require immediate reaction. A mnemonic to summarize the functions of the
+parasympathetic nervous system is SSLUDD (sexual arousal, salivation, lacrimation, urination, digestion
+and defecation).
+Types of muscarinic receptors
+Types of nicotinic receptors
+Relationship to sympathetic nervous system
+Clinical significance
+The functions promoted by activity in the parasympathetic nervous system are associated with our day-to-
+day living. The parasympathetic nervous system promotes digestion and the synthesis of glycogen, and
+allows for normal function and behavior.
+Parasympathetic action helps in digestion and absorption of food by increasing the activity of the intestinal
+musculature, increasing gastric secretion, and relaxing the pyloric sphincter. It is called the “rest and digest”
+division of the ANS.[25]
+The parasympathetic nervous system decreases respiration and heart rate and increases digestion.
+Stimulation of the parasympathetic nervous system results in:
+Constriction of pupils
+Decreased heart rate and blood pressure
+Constriction of bronchial muscles
+Increase in digestion
+Increased production of saliva and mucus
+Increase in urine secretion[26]
+The terminology ‘Parasympathetic nervous system’ was introduced by John Newport Langley in 1921. He
+was the first person who put forward the concept of PSNS as the second division of the autonomic nervous
+system.[27]
+1. Langley, John Newport (1921). The Autonomic Nervous System (https://archive.org/details/a
+utonomicnervous01languoft). Cambridge: Heffer. pp. 10 (https://archive.org/details/autonomi
+cnervous01languoft/page/10). ISBN 9781152710191.
+2. Pocock, Gillian (2006). Human Physiology (3rd ed.). Oxford University Press. pp. 63–64.
+ISBN 978-0-19-856878-0.
+3. "14.1B: Divisions of the Autonomic Nervous System" (https://med.libretexts.org/Bookshelves/
+Anatomy_and_Physiology/Book%3A_Anatomy_and_Physiology_(Boundless)/14%3A_Auto
+nomic_Nervous_System/14.1%3A_Introduction_to_the_Autonomic_Nervous_System/14.1
+B%3A_Divisions_of_the_Autonomic_Nervous_System). Medicine LibreTexts. 2018-07-21.
+Retrieved 2021-11-14.
+4. McCorry, LK (Aug 15, 2007). "Physiology of the autonomic nervous system" (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC1959222). American Journal of Pharmaceutical Education.
+71 (4): 78. doi:10.5688/aj710478 (https://doi.org/10.5688%2Faj710478). PMC 1959222 (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC1959222). PMID 17786266 (https://pubmed.ncbi.
+nlm.nih.gov/17786266).
+5. "- YouTube" (https://www.youtube.com/watch?v=71pCilo8k4M&feature=youtu.be).
+www.youtube.com. Archived (https://ghostarchive.org/varchive/youtube/20211117/71pCilo8k
+4M) from the original on 2021-11-17. Retrieved 2021-05-17.
+6. "visceral nerve fibers - definition of visceral nerve fibers in the Medical dictionary – by the
+Free Online Medical Dictionary, Thesaurus and Encyclopedia" (http://medical-dictionary.thefr
+eedictionary.com/visceral+nerve+fibers). Medical-dictionary.thefreedictionary.com. Retrieved
+2012-07-06.
+History
+References
+7. "Visceral nerve – RightDiagnosis.com" (http://www.wrongdiagnosis.com/medical/visceral_n
+erve.htm). Wrongdiagnosis.com. 2012-02-01. Retrieved 2012-07-06.
+8. "The Vertebral Column and Spinal Cord" (http://www.emory.edu/ANATOMY/AnatomyManua
+l/back.html). www.emery.edu. 1997-08-21. Retrieved 2013-03-21.
+9. Moore, Keith L.; Agur, A. M. R. (2007). Essential Clinical Anatomy (https://books.google.com/
+books?id=Xz8F00Su2SwC) (3rd ed.). Lippincott Williams & Wilkins. ISBN 978-0-7817-6274-
+8.
+10. Rico Garófalo, Xavier (21 June 2019). "Sistema nervioso simpático y parasimpático: qué
+son, diferencias y funciones" (https://medsalud.com/medicina/sistema-simpatico-parasimpati
+co). MedSalud. Retrieved 14 September 2019.
+11. Castillero Mimenza, Oscar (2016). "Sistema nervioso parasimpático: funciones y recorrido"
+(https://psicologiaymente.com/neurociencias/sistema-nervioso-parasimpatico). Psicología y
+Mente.
+12. Joyce, Christopher; Le, Patrick H.; Peterson, Diana C. (2023). "Neuroanatomy, Cranial
+Nerve 3 (Oculomotor)". StatPearls (https://www.ncbi.nlm.nih.gov/books/NBK537126/).
+StatPearls Publishing. Retrieved 28 December 2023.
+13. Dartt, Darlene A. (May 2009). "Neural regulation of lacrimal gland secretory processes:
+Relevance in dry eye diseases" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652637).
+Progress in Retinal and Eye Research. 28 (3): 155–177.
+doi:10.1016/j.preteyeres.2009.04.003 (https://doi.org/10.1016%2Fj.preteyeres.2009.04.003).
+PMC 3652637 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652637).
+14. Netter. Atlas of Human Anatomy, Fourth Ed. Saunders Elsevier. 2003.
+15. Espinosa-Medina, I; Saha, O; Boismoreau, F; Chettouh, Z; Rossi, F; Richardson, WD;
+Brunet, JF (18 November 2016). "The sacral autonomic outflow is sympathetic" (http://discov
+ery.ucl.ac.uk/1530734/2/Richardson_Espinosa%20et%20al%20%28Science%202016%2
+9%20sacral%20autonomic%20outflow.pdf) (PDF). Science. 354 (6314): 893–897.
+Bibcode:2016Sci...354..893E (https://ui.adsabs.harvard.edu/abs/2016Sci...354..893E).
+doi:10.1126/science.aah5454 (https://doi.org/10.1126%2Fscience.aah5454). PMC 6326350
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6326350). PMID 27856909 (https://pubmed.n
+cbi.nlm.nih.gov/27856909).
+16. Unless specified otherwise in the boxes, the source is: Moore, Keith L.; Agur, A. M. R. (2002).
+Essential Clinical Anatomy (https://books.google.com/books?id=PSGWpeMmKC4C)
+(2nd ed.). Lippincott Williams & Wilkins. p. 199. ISBN 978-0-7817-5940-3.
+17. Nunan D, Sandercock GR, Brodie DA (November 2010). "A quantitative systematic review of
+normal values for short-term heart rate variability in healthy adults". Pacing and Clinical
+Electrophysiology. 33 (11): 1407–17. doi:10.1111/j.1540-8159.2010.02841.x (https://doi.org/
+10.1111%2Fj.1540-8159.2010.02841.x). PMID 20663071 (https://pubmed.ncbi.nlm.nih.gov/2
+0663071). S2CID 44378765 (https://api.semanticscholar.org/CorpusID:44378765).
+18. Howland RH (June 2014). "Vagus Nerve Stimulation" (https://www.ncbi.nlm.nih.gov/pmc/arti
+cles/PMC4017164). Current Behavioral Neuroscience Reports. 1 (2): 64–73.
+doi:10.1007/s40473-014-0010-5 (https://doi.org/10.1007%2Fs40473-014-0010-5).
+PMC 4017164 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4017164). PMID 24834378 (h
+ttps://pubmed.ncbi.nlm.nih.gov/24834378).
+19. Diamond LM, Fagundes CP, Butterworth MR (2011). "Attachment Style, Vagal Tone, and
+Empathy During Mother-Adolescent Interactions". Journal of Research on Adolescence. 22
+(1): 165–184. doi:10.1111/j.1532-7795.2011.00762.x (https://doi.org/10.1111%2Fj.1532-779
+5.2011.00762.x).
+20. Grossman P, Wilhelm FH, Spoerle M (August 2004). "Respiratory sinus arrhythmia, cardiac
+vagal control, and daily activity". American Journal of Physiology. Heart and Circulatory
+Physiology. 287 (2): H728–34. doi:10.1152/ajpheart.00825.2003 (https://doi.org/10.1152%2F
+ajpheart.00825.2003). PMID 14751862 (https://pubmed.ncbi.nlm.nih.gov/14751862).
+S2CID 5934042 (https://api.semanticscholar.org/CorpusID:5934042).
+21. Wank, SA (Nov 1995). "Cholecystokinin receptors". The American Journal of Physiology.
+269 (5 Pt 1): G628–46. doi:10.1152/ajpgi.1995.269.5.G628 (https://doi.org/10.1152%2Fajpgi.
+1995.269.5.G628). PMID 7491953 (https://pubmed.ncbi.nlm.nih.gov/7491953).
+22. Takai, N; Shida, T; Uchihashi, K; Ueda, Y; Yoshida, Y (Apr 15, 1998). "Cholecystokinin as
+neurotransmitter and neuromodulator in parasympathetic secretion in the rat submandibular
+gland". Annals of the New York Academy of Sciences. 842 (1): 199–203.
+Bibcode:1998NYASA.842..199T (https://ui.adsabs.harvard.edu/abs/1998NYASA.842..199T).
+doi:10.1111/j.1749-6632.1998.tb09649.x (https://doi.org/10.1111%2Fj.1749-6632.1998.tb09
+649.x). PMID 9599311 (https://pubmed.ncbi.nlm.nih.gov/9599311). S2CID 28329900 (https://
+api.semanticscholar.org/CorpusID:28329900).
+23. Moro, C; Uchiyama, J; Chess-Williams, R (December 2011). "Urothelial/lamina propria
+spontaneous activity and the role of M3 muscarinic receptors in mediating rate responses to
+stretch and carbachol". Urology. 78 (6): 1442.e9–15. doi:10.1016/j.urology.2011.08.039 (http
+s://doi.org/10.1016%2Fj.urology.2011.08.039). PMID 22001099 (https://pubmed.ncbi.nlm.nih.
+gov/22001099).
+24. Colquhoun, David. "Nicotinic acetylcholine receptors" (http://www.ucl.ac.uk/pharmacology/d
+c-bits/medchem-review-03.pdf) (PDF). www.ucl.ac.uk/. University College London. Retrieved
+4 March 2015.
+25. Barrett, Kim E. (2019-01-29). Ganong's review of medical physiology. Barman, Susan M.,,
+Brooks, Heddwen L.,, Yuan, Jason X.-J., 1963-, Preceded by: Ganong, William F. (Twenty-
+sixth ed.). [New York]. ISBN 9781260122404. OCLC 1076268769 (https://www.worldcat.org/
+oclc/1076268769).
+26. "Parasympathetic Nervous System - an overview | ScienceDirect Topics" (https://www.scienc
+edirect.com/topics/medicine-and-dentistry/parasympathetic-nervous-system).
+www.sciencedirect.com. Retrieved 2023-03-07.
+27. Johnson, Joel O. (2013), "Autonomic Nervous System Physiology", Pharmacology and
+Physiology for Anesthesia, Elsevier, pp. 208–217, doi:10.1016/b978-1-4377-1679-5.00012-0
+(https://doi.org/10.1016%2Fb978-1-4377-1679-5.00012-0), ISBN 978-1-4377-1679-5
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Parasympathetic_nervous_system&oldid=1211249433"

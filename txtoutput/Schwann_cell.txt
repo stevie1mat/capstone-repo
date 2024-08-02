@@ -1,0 +1,312 @@
+Schwann cell
+The PNS has satellite cells and
+Schwann cells.
+Identifiers
+MeSH D012583 (https://meshb.nlm.ni
+h.gov/record/ui?ui=D012583)
+FMA
+62121 (https://bioportal.bioontol
+ogy.org/ontologies/FMA/?p=cla
+sses&conceptid=http%3A%2F%
+2Fpurl.org%2Fsig%2Font%2Ff
+ma%2Ffma62121)
+Anatomical terms of neuroanatomy
+Schwann cell
+Schwann cells or neurolemmocytes (named after German
+physiologist Theodor Schwann) are the principal glia of the
+peripheral nervous system (PNS). Glial cells function to support
+neurons and in the PNS, also include satellite cells, olfactory
+ensheathing cells, enteric glia and glia that reside at sensory
+nerve endings, such as the Pacinian corpuscle. The two types of
+Schwann cells are myelinating and nonmyelinating.[1]
+Myelinating Schwann cells wrap around axons of motor and
+sensory neurons to form the myelin sheath. The Schwann cell
+promoter is present in the downstream region of the human
+dystrophin gene that gives shortened transcript that are again
+synthesized in a tissue-specific manner.
+During the development of the PNS, the regulatory
+mechanisms of myelination are controlled by feedforward
+interaction of specific genes, influencing transcriptional
+cascades and shaping the morphology of the myelinated nerve
+fibers.[2]
+Schwann cells are involved in many important aspects of
+peripheral nerve biology—the conduction of nervous impulses
+along axons, nerve development and regeneration, trophic
+support for neurons, production of the nerve extracellular matrix, modulation of neuromuscular synaptic
+activity, and presentation of antigens to T-lymphocytes.
+Charcot–Marie–Tooth 
+disease, 
+Guillain–Barré 
+syndrome 
+(acute 
+inflammatory 
+demyelinating
+polyradiculopathy type), schwannomatosis, chronic inflammatory demyelinating polyneuropathy, and
+leprosy are all neuropathies involving Schwann cells.
+Schwann cells are a variety of glial cells that keep peripheral nerve fibres (both myelinated and
+unmyelinated) alive. In myelinated axons, Schwann cells form the myelin sheath. The sheath is not
+continuous. Individual myelinating Schwann cells cover about 1 mm of an axon[3]—equating to about 1000
+Schwann cells along a 1-m length of the axon. The gaps between adjacent Schwann cells are called nodes
+of Ranvier.
+9-O-Acetyl GD3 ganglioside is an acetylated glycolipid which is found in the cell membranes of many
+types of vertebrate cells. During peripheral nerve regeneration, 9-O-acetyl GD3 is expressed by Schwann
+cells.[4]
+Structure
+Function
+Schwann cells wrapped around an axon
+The vertebrate nervous system relies
+on the myelin sheath for insulation and
+as a method of decreasing membrane
+capacitance in the axon. The action
+potential jumps from node to node, in a
+process called saltatory conduction,
+which can increase conduction velocity
+up to 10 times, without an increase in
+axonal 
+diameter. 
+In 
+this 
+sense,
+Schwann cells are the PNS's analogues
+of 
+the 
+central 
+nervous 
+system's
+oligodendrocytes. 
+However, 
+unlike
+oligodendrocytes, 
+each 
+myelinating
+Schwann cell provides insulation to only one axon (see image). This arrangement permits saltatory
+conduction of action potentials with repropagation at the nodes of Ranvier. In this way, myelination greatly
+increases speed of conduction and saves energy.[5]
+Nonmyelinating Schwann cells are involved in maintenance of axons and are crucial for neuronal survival.
+Some group around smaller axons (External image here (http://www.liv.ac.uk/~rbj/RBJ/rbjteaching/Schwan
+n%20Cells.htm)) and form Remak bundles.
+Myelinating Schwann cells begin to form the myelin sheath in mammals during fetal development and work
+by spiraling around the axon, sometimes with as many as 100 revolutions. A well-developed Schwann cell
+is shaped like a rolled-up sheet of paper, with layers of myelin between each coil. The inner layers of the
+wrapping, which are predominantly membrane material, form the myelin sheath, while the outermost layer
+of nucleated cytoplasm forms the neurilemma. Only a small volume of residual cytoplasm allows
+communication between the inner and outer layers. This is seen histologically as the Schmidt-Lantermann
+incisure.
+Schwann cells are known for their roles in supporting nerve regeneration.[6] Nerves in the PNS consist of
+many axons myelinated by Schwann cells. If damage occurs to a nerve, the Schwann cells aid in digestion
+of its axons (phagocytosis). Following this process, the Schwann cells can guide regeneration by forming a
+type of tunnel that leads toward the target neurons. This tunnel is known as band of Büngner, a guidance
+track for the regenerating axons, which behaves like an endoneural tube. The stump of the damaged axon is
+able to sprout, and those sprouts that grow through the Schwann-cell "tunnel" do so at the rate around
+1  mm/day in good conditions. The rate of regeneration decreases with time. Successful axons can,
+therefore, reconnect with the muscles or organs they previously controlled with the help of Schwann cells,
+but specificity is not maintained and errors are frequent, especially when long distances are involved.[7]
+Because of their ability to impact regeneration of axons, Schwann cells have been connected to preferential
+motor reinnervation, as well. If Schwann cells are prevented from associating with axons, the axons die.
+Regenerating axons will not reach any target unless Schwann cells are there to support them and guide
+them. They have been shown to be in advance of the growth cones.
+Dendrite
+Soma
+Axon
+Nucleus
+Node of
+Ranvier
+Axon terminal
+Schwann cell
+Myelin sheath
+Regeneration
+A Schwann cell in
+culture.
+Schwann cells are essential for the maintenance of healthy axons. They produce a variety of factors,
+including neurotrophins, and also transfer essential molecules across to axons.
+SOX10 is a transcription factor active during embryonic development and
+abundant evidence indicates that it is essential for the generation of glial
+lineages from trunk crest cells.[8][9] When SOX10 is inactivated in mice,
+satellite glia and Schwann cell precursors fail to develop, though neurons are
+generated normally without issue.[8] In the absence of SOX10, neural crest
+cells survive and are free to generate neurons, but glial specification is
+blocked.[9] SOX10 might influence early glial precursors to respond to
+neuregulin 1[8] (see below).
+Neuregulin 1 (NRG1) acts in a number of ways to both promote the formation
+and ensure the survival of immature Schwann cells.[10] During embryonic
+development, NRG1 inhibits the formation of neurons from neural crest cells,
+instead contributing to neural crest cells being led down a path to gliogenesis.
+NRG1 signaling is not, however, required for glial differentiation from the
+neural crest.[11]
+NRG1 plays important roles in the development of neural crest derivatives. It is required for neural crest
+cells to migrate past the site of dorsal root ganglia to find the ventral regions of sympathetic
+gangliogenesis.[12] It is also an essential axon-derived survival factor and a mitogen for Schwann cell
+precursors.[13] It is found in the dorsal root ganglion and motor neurons at the point in time that Schwann
+cell precursors begin to populate spinal nerves and therefore influences Schwann cell survival.[11] In
+embryonic nerves, the transmembrane III isoform likely is the primary variant of NRG1 responsible for
+survival signals. In mice that lack the transmembrane III isoform, Schwann cell precursors are eventually
+eliminated from spinal nerves.[14]
+Myelin protein zero (P0) is a cell-adhesion molecule belonging to the immunoglobulin superfamily and is
+the major component of peripheral myelin, constituting over 50% of the total protein in the sheath.[15][16]
+P0 has been shown to be essential for the formation of compact myelin, as P0 null mutant (P0-) mice
+showed severely aberrant peripheral myelination.[17] Although myelination of large caliber axons was
+initiated in P0- mice, the resulting myelin layers were very thin and poorly compacted. Unexpectedly, P0-
+mice also showed degeneration of both axons and their surround myelin sheaths, suggesting that P0 plays a
+Genetics
+Schwann cell formation
+Sox10
+Neuregulin 1
+Formation of myelin sheath
+P0
+role in maintaining the structural integrity of both myelin formation and the axon with which it is associated.
+P0- mice developed behavioral deficits around 2 weeks of age when mice began to show signs of slight
+trembling. Gross incoordination also arose as the animals developed, while trembling became more severe
+and some older mice developed convulsing behaviors. Despite the array of impaired motor behavior, no
+paralysis was observed in these animals. P0 is also an important gene expressed early within the Schwann
+cell lineage, expressed in Schwann cell precursors after differentiating from migrating neural crest cells
+within the developing embryo.[18]
+Several important transcription factors are also expressed and involved at various stages in development
+changing the features on the Schwann cells from an immature to mature state. One indispensable
+transcription factor expressed during the myelination process is Krox-20. It is a general zinc-finger
+transcription factor and is expressed in the rhombomeres 3 and 5.
+Krox-20 is considered one of the master regulators of PNS myelination and is important in driving
+transcription of specific structural proteins in the myelin. It has been shown to control a set of genes
+responsible for interfering with this feature in the axon changing it from a pro-myelinating to myelinating
+state.[19] In this way, in Krox-20 double knock out mice, it has been recorded that hindbrain segmentation is
+affected as well as myelination of Schwann cell associated axons. Indeed, in these mice, the Schwann cells
+are not able to perform their myelination properly as they only wrap their cytoplasmic processes one and
+half turn around the axon and despite the fact that they still express the early myelin marker, late myelin
+gene products are absent. In addition, recent studies have also proven the importance of this transcription
+factor in maintaining the myelination phenotype (and requires the co-expression of Sox 10) as its
+inactivation leads to dedifferentiation of the Schwann cells.[2]
+Charcot–Marie–Tooth disease (CMT), Guillain–Barré syndrome (GBS, acute inflammatory demyelinating
+polyradiculopathy type), schwannomatosis, and chronic inflammatory demyelinating polyneuropathy
+(CIDP), leprosy, and Zika Virus are all neuropathies involving Schwann cells.[20]
+A number of experimental studies since 2001 have implanted Schwann cells in an attempt to induce
+remyelination in multiple sclerosis-afflicted patients.[21] In the past two decades, many studies have
+demonstrated positive results and potential for Schwann cell transplantation as a therapy for spinal cord
+injury, both in aiding regrowth and myelination of damaged CNS axons.[22] Schwann cell transplants in
+combination with other therapies such as Chondroitinase ABC have also been shown to be effective in
+functional recovery from spinal cord injury.[23]
+Electrophysiology
+Hodgkin–Huxley model
+Mesaxon
+Neurotransmission
+Krox-20
+Clinical significance
+Transplantation
+See also
+Olfactory ensheathing cell
+Perisynaptic schwann cells
+Schwannoma
+List of human cell types derived from the germ layers
+List of distinct cell types in the adult human body
+1. Bhatheja, K; Field, J (2006). "Schwann cells: origins and role in axonal maintenance and
+regeneration". The International Journal of Biochemistry & Cell Biology. 38 (12): 1995–9.
+doi:10.1016/j.biocel.2006.05.007 (https://doi.org/10.1016%2Fj.biocel.2006.05.007).
+PMID 16807057 (https://pubmed.ncbi.nlm.nih.gov/16807057).
+2. Topilko, Piotr; Schneider-Maunoury, Sylvie; Levi, Giovanni; Baron-Van Evercooren, Anne;
+Chennoufi, Amina Ben Younes; Seitanidou, Tania; Babinet, Charles; Charnay, Patrick (1994-
+10-27). "Krox-20 controls myelination in the peripheral nervous system". Nature. 371 (6500):
+796–799. Bibcode:1994Natur.371..796T (https://ui.adsabs.harvard.edu/abs/1994Natur.371..7
+96T). doi:10.1038/371796a0 (https://doi.org/10.1038%2F371796a0). PMID 7935840 (https://
+pubmed.ncbi.nlm.nih.gov/7935840). S2CID 4333028 (https://api.semanticscholar.org/Corpus
+ID:4333028).
+3. Tortora, Gerard J. (2017). Principles of Anatomy and Physiology (15th ed.). USA: Wiley.
+p. 412. ISBN 978-1-119-32064-7.
+4. Túlio Ribeiro-Resende, Victor; Lopes, Michelle (2010). "Involvement of 9-O-Acetyl GD3
+Ganglioside in Mycobacterium leprae Infection of Schwann Cells" (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC2962507). J. Biol. Chem. 285 (44): 34086–34096.
+doi:10.1074/jbc.M110.147272 (https://doi.org/10.1074%2Fjbc.M110.147272). PMC 2962507
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2962507). PMID 20739294 (https://pubmed.n
+cbi.nlm.nih.gov/20739294).
+5. Kalat, James W. Biological Psychology, 9th ed. USA: Thompson Learning, 2007.
+6. Bhatheja, Kanav; Field, Jeffrey (2006). "Schwann cells: Origins and role in axonal
+maintenance and regeneration". The International Journal of Biochemistry & Cell Biology. 38
+(12): 1995–9. doi:10.1016/j.biocel.2006.05.007 (https://doi.org/10.1016%2Fj.biocel.2006.05.
+007). PMID 16807057 (https://pubmed.ncbi.nlm.nih.gov/16807057).
+7. Carlson, Neil R. Physiology of Behavior, 9th ed. USA: Pearson Education, Inc., 2007.
+8. Britisch, S.; et al. (2001). "The transcription factor Sox10 is a key regulator of peripheral glial
+development" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC312607). Genes Dev. 15 (1):
+66–78. doi:10.1101/gad.186601 (https://doi.org/10.1101%2Fgad.186601). PMC 312607 (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC312607). PMID 11156606 (https://pubmed.ncbi.nl
+m.nih.gov/11156606).
+9. Paratore, C., Goerich, D. E., Suter, U., Wegner, M. & Sommer, L. (2001). "Survival and glial
+fate acquisition of neural crest cells are regulated by an interplay between the transcription
+factor Sox10 and extrinsic combinatorial signalling". Development. 128 (20): 3949–3961.
+doi:10.1242/dev.128.20.3949 (https://doi.org/10.1242%2Fdev.128.20.3949). PMID 11641219
+(https://pubmed.ncbi.nlm.nih.gov/11641219).
+10. Shah, N. M.; et al. (1994). "Glial growth factor restricts mammalian neural crest stem cells to
+glial fate". Cell. 77 (3): 349–360. doi:10.1016/0092-8674(94)90150-3 (https://doi.org/10.101
+6%2F0092-8674%2894%2990150-3). PMID 7910115 (https://pubmed.ncbi.nlm.nih.gov/7910
+115). S2CID 20297598 (https://api.semanticscholar.org/CorpusID:20297598).
+References
+11. Jessen, K. R. & Misky, R. (2005). "The origin and development of glial cells in peripheral
+nerves". Nature Reviews Neuroscience. 6 (9): 671–682. doi:10.1038/nrn1746 (https://doi.org/
+10.1038%2Fnrn1746). PMID 16136171 (https://pubmed.ncbi.nlm.nih.gov/16136171).
+S2CID 7540462 (https://api.semanticscholar.org/CorpusID:7540462).
+12. Britisch, S.; et al. (1998). "The ErbB2 and ErbB3 receptors and their ligand, neuregulin-1 are
+essential for development of the sympathetic nervous system" (https://www.ncbi.nlm.nih.gov/
+pmc/articles/PMC316903). Genes Dev. 12 (12): 1825–1836. doi:10.1101/gad.12.12.1825 (htt
+ps://doi.org/10.1101%2Fgad.12.12.1825). PMC 316903 (https://www.ncbi.nlm.nih.gov/pmc/ar
+ticles/PMC316903). PMID 9637684 (https://pubmed.ncbi.nlm.nih.gov/9637684).
+13. Dong, Z.; et al. (1995). "NDF is a neuron-glia signal and regulates survival, proliferation, and
+maturation of rat Schwann cell precursors" (https://doi.org/10.1016%2F0896-6273%2895%2
+990147-7). Neuron. 15 (3): 585–596. doi:10.1016/0896-6273(95)90147-7 (https://doi.org/10.1
+016%2F0896-6273%2895%2990147-7). PMID 7546738 (https://pubmed.ncbi.nlm.nih.gov/75
+46738). S2CID 15332720 (https://api.semanticscholar.org/CorpusID:15332720).
+14. Wolpowitz, D.; et al. (2000). "Cysteine-rich domain isoforms of the neuregulin-1 gene are
+required for maintenance of peripheral synapses" (https://doi.org/10.1016%2Fs0896-6273%
+2800%2980873-9). Neuron. 25 (1): 79–91. doi:10.1016/s0896-6273(00)80873-9 (https://doi.o
+rg/10.1016%2Fs0896-6273%2800%2980873-9). PMID 10707974 (https://pubmed.ncbi.nlm.
+nih.gov/10707974). S2CID 16187922 (https://api.semanticscholar.org/CorpusID:16187922).
+15. Greenfield, S.; Brostoff, S.; Eylar, E. H.; Morell, P. (1973). "Protein composition of myelin of
+the peripheral nervous system". Journal of Neurochemistry. 20 (4): 1207–1216.
+doi:10.1111/j.1471-4159.1973.tb00089.x (https://doi.org/10.1111%2Fj.1471-4159.1973.tb00
+089.x). PMID 4697881 (https://pubmed.ncbi.nlm.nih.gov/4697881). S2CID 30385476 (https://
+api.semanticscholar.org/CorpusID:30385476).
+16. Lemke, G. (1988). "Unwrapping the genes of myelin". Neuron. 1 (7): 535–543.
+doi:10.1016/0896-6273(88)90103-1 (https://doi.org/10.1016%2F0896-6273%2888%299010
+3-1). PMID 2483101 (https://pubmed.ncbi.nlm.nih.gov/2483101). S2CID 27086229 (https://ap
+i.semanticscholar.org/CorpusID:27086229).
+17. Geise, K.; Martini, R.; Lemke, G; Soriano, P.; Schachner, M. (1992). "Mouse P0 Gene
+Disruption Leads to Hypomyelination, Abnormal Expression of Recognition Molecules, and
+Degeneration of Myelin and Axons". Cell. 71 (4): 565–576. doi:10.1016/0092-
+8674(92)90591-y (https://doi.org/10.1016%2F0092-8674%2892%2990591-y).
+PMID 1384988 (https://pubmed.ncbi.nlm.nih.gov/1384988). S2CID 41878912 (https://api.se
+manticscholar.org/CorpusID:41878912).
+18. Jessen, K.; Mirsky, R. (2005). "The origin and development of glial cells in peripheral
+nerves". Nature Reviews Neuroscience. 6 (9): 671–682. doi:10.1038/nrn1746 (https://doi.org/
+10.1038%2Fnrn1746). PMID 16136171 (https://pubmed.ncbi.nlm.nih.gov/16136171).
+S2CID 7540462 (https://api.semanticscholar.org/CorpusID:7540462).
+19. Salzer, James (2015). "Schwann cell myelination" (https://www.ncbi.nlm.nih.gov/pmc/article
+s/PMC4526746). Cold Spring Harbor Perspectives in Biology. 7 (8): a020529.
+doi:10.1101/cshperspect.a020529 (https://doi.org/10.1101%2Fcshperspect.a020529).
+PMC 4526746 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4526746). PMID 26054742 (h
+ttps://pubmed.ncbi.nlm.nih.gov/26054742).
+20. Dhiman, Gaurav; Abraham, R.; Griffin, D. (2019). "Human Schwann cells are susceptible to
+infection with Zika and yellow fever viruses, but not dengue virus" (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC6616448). Scientific Reports. 9 (1): 9951.
+Bibcode:2019NatSR...9.9951D (https://ui.adsabs.harvard.edu/abs/2019NatSR...9.9951D).
+doi:10.1038/s41598-019-46389-0 (https://doi.org/10.1038%2Fs41598-019-46389-0).
+PMC 6616448 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616448). PMID 31289325 (h
+ttps://pubmed.ncbi.nlm.nih.gov/31289325).
+21. "First surgical transplant attempted to repair myelin" (https://web.archive.org/web/200703110
+12601/http://www.findarticles.com/p/articles/mi_m0850/is_4_19/ai_79957646). Inside MS.
+2001. Archived from the original (http://www.findarticles.com/p/articles/mi_m0850/is_4_19/ai
+_79957646) on 2007-03-11.
+22. Oudega, Martin; Xu, Xiao-Ming (2006). "Schwann Cell Transplantation for Repair of the Adult
+Spinal Cord". Journal of Neurotrauma. 23 (3–4): 453–67. doi:10.1089/neu.2006.23.453 (http
+s://doi.org/10.1089%2Fneu.2006.23.453). PMID 16629629 (https://pubmed.ncbi.nlm.nih.gov/
+16629629).
+23. Fouad, Karim; Lisa Schnell; Mary B. Bunge; Martin E. Schwab; Thomas Liebscher; Damien
+D. Pearse (2 February 2005). "Combining Schwann Cell Bridges and Olfactory-Ensheathing
+Glia Grafts with Chondroitinase Promotes Locomotor Recovery after Complete Transection
+of the Spinal Cord" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6725952). The Journal of
+Neuroscience. 25 (5): 1169–78. doi:10.1523/JNEUROSCI.3562-04.2005 (https://doi.org/10.1
+523%2FJNEUROSCI.3562-04.2005). PMC 6725952 (https://www.ncbi.nlm.nih.gov/pmc/artic
+les/PMC6725952). PMID 15689553 (https://pubmed.ncbi.nlm.nih.gov/15689553).
+Diagram at clc.uc.edu (https://web.archive.org/web/20061207152451/http://biology.clc.uc.ed
+u/courses/bio105/nervous.htm)
+Histology image: 21301loa (https://www.bu.edu/phpbin/medlib/histology/p/21301loa.htm) –
+Histology Learning System at Boston University—"Ultrastructure of the Cell: myelinated
+axon and Schwann cell"
+Cell Centered Database—Schwann cell (http://ccdb.ucsd.edu/sand/main?stype=lite&keywor
+d=schwann&Submit=Go&event=display&start=1)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Schwann_cell&oldid=1216872195"
+External links

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask App</title>
+</head>
+<body>
+    <h1>Enter a Prompt</h1>
+    <form method="POST">
+        <label for="user_prompt">Prompt:</label>
+        <input type="text" id="user_prompt" name="user_prompt" required>
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if user_prompt %}
+        <h2>Results for: '{{ user_prompt }}'</h2>
+        {% for result in results %}
+            <h3>Page: {{ result.page_name }}</h3>
+            <p>Top predicted indices: {{ result.top_predicted_indices }}</p>
+            <p>Confidence scores: {{ result.confidence_scores }}</p>
+            <p>Predicted paths: {{ result.predicted_paths }}</p>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>

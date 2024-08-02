@@ -1,0 +1,75 @@
+Sensory nerve
+Details
+Identifiers
+Latin nervus sensorius
+TA98 A14.2.00.022 (https://ifaa.uni
+fr.ch/Public/EntryPage/TA9
+8%20Tree/Entity%20TA98%
+20EN/14.2.00.022%20Entit
+y%20TA98%20EN.htm)
+TA2
+6132 (https://ta2viewer.open
+anatomy.org/?id=6132)
+FMA
+5868 (https://bioportal.bioont
+ology.org/ontologies/FMA/?p
+=classes&conceptid=http%3
+A%2F%2Fpurl.org%2Fsig%2
+Font%2Ffma%2Ffma5868)
+Anatomical terms of neuroanatomy
+Sensory nerve
+A sensory nerve, or afferent nerve, is an anatomic term for a
+nerve that contains exclusively afferent nerve fibers.[1] Nerves
+containing also motor fibers are called mixed. Afferent nerve fibers
+in a sensory nerve carry sensory information toward the central
+nervous system (CNS) from different sensory receptors of sensory
+neurons in the peripheral nervous system.
+A motor nerve carries information from the CNS to the PNS.
+Afferent nerve fibers link the sensory neurons throughout the body,
+in pathways to the relevant processing circuits in the central
+nervous system.[2]
+Afferent nerve fibers are often paired with efferent nerve fibers
+from the motor neurons (that travel from the CNS to the PNS), in
+mixed nerves. Stimuli cause nerve impulses in the receptors and
+alter the potentials, which is known as sensory transduction.[3]
+Afferent nerve fibers leave the sensory neuron from the dorsal root
+ganglia of the spinal cord, and motor commands carried by the efferent fibers leave the cord at the ventral
+roots. The dorsal and some of the ventral fibers join as spinal nerves or mixed nerves.
+Damage to the sensory nerve causes a wide range of symptoms because of the number of functions
+performed by the nerve. Traumatic injuries and other damages to the sensory nerves may lead to peripheral
+neuropathy, with problems such as reduced position sense causing poorer coordination and balance, in
+addition to reduced sensitivity to temperature change and pain, leading to further problems.
+The ability to feel pain or changes in temperature can be affected by damage to the fibers in the sensory
+nerve. This can cause a failure to notice injuries such as a cut or that a wound is becoming infected. There
+may also be a lack of detection of heart attacks or other serious conditions. The lack of detection of pain and
+other sensations is a particularly large problem for those with diabetes, which contributes to the rate of
+lower limb amputations among this population. Overall, the poor sensation and detection may lead to
+changes in skin, hair, joint, and bone damage over the years for many people.
+Motor nerve
+Afferent nerve fiber
+Efferent nerve fiber
+Spinal cord entry
+Nerve damage
+See also
+Sensory neuron
+Motor neuron
+1. "Foundational Model of Anatomy - Sensory nerve - Classes | NCBO BioPortal" (https://biopor
+tal.bioontology.org/ontologies/FMA/?p=classes&conceptid=http%3A%2F%2Fpurl.org%2Fsi
+g%2Font%2Ffma%2Ffma5868). bioportal.bioontology.org. Retrieved 18 May 2021.
+2. Purves, Dale; Augustine, George J.; Fitzpatrick, David; Hall, William C.; LaMantia, Anthony-
+Samuel; White, Leonard E., eds. (2012). Neuroscience (5th ed.). Sunderland, Massachusetts
+U.S.: Sinauer Associates, Inc. ISBN 978-0-87893-695-3.
+3. Carlson, Neil R. (2014). Physiology of Behaviour (11th ed.). Essex, England: Pearson
+Education Limited. ISBN 9780205239399.
+"Sensory nerve" (https://web.archive.org/web/20090628224336/http://www.mercksource.co
+m/pp/us/cns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/six/00007
+1177.htm) at Dorland's Medical Dictionary
+Peripheral Neuropathy (http://www.ninds.nih.gov/disorders/peripheralneuropathy/detail_peri
+pheralneuropathy.htm) from the US NIH
+Neuropathy: Causes, Symptoms and Treatments (http://www.medicalnewstoday.com/article
+s/147963.php) from Medical News Today
+Peripheral Neuropathy (http://www.mayoclinic.org/diseases-conditions/peripheral-neuropath
+y/basics/definition/con-20019948?reDate=05042015) at the Mayo Clinic
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sensory_nerve&oldid=1190392003"
+References
+External links

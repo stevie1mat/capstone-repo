@@ -1,0 +1,300 @@
+The neuron contains dendrites that receives information, a cell body called the soma,
+and an axon that sends information. Schwann cells make activity move faster down
+axon. Synapses allow neurons to activate other neurons. The dendrites receive a
+signal, the axon hillock funnels the signal to the initial segment and the initial
+segment triggers the activity (action potential) that is sent along the axon towards the
+synapse. Please see learnbio.org (https://www.learnbio.org/neuron.html) for
+interactive version.
+Dendrite
+A dendrite (from Greek δένδρον déndron, "tree") or dendron is a branched protoplasmic extension of a
+nerve cell that propagates the electrochemical stimulation received from other neural cells to the cell body,
+or soma, of the neuron from which the dendrites project. Electrical stimulation is transmitted onto dendrites
+by upstream neurons (usually via their axons) via synapses which are located at various points throughout
+the dendritic tree.
+Dendrites play a critical role in integrating these synaptic inputs and in determining the extent to which
+action potentials are produced by the neuron.[1]
+Dendrites are one of two types of protoplasmic protrusions that extrude from the cell body of a neuron, the
+other type being an axon. Axons can be distinguished from dendrites by several features including shape,
+length, and function. Dendrites often taper off in shape and are shorter, while axons tend to maintain a
+constant radius and can be very long. Typically, axons transmit electrochemical signals and dendrites
+receive the electrochemical signals, although some types of neurons in certain species lack specialized
+axons and transmit signals via their dendrites.[3] Dendrites provide an enlarged surface area to receive
+signals from axon terminals of other neurons.[4] The dendrite of a large pyramidal cell receives signals from
+about 30,000 presynaptic neurons.[5] Excitatory synapses terminate on dendritic spines, tiny protrusions
+from the dendrite with a high density of neurotransmitter receptors. Most inhibitory synapses directly
+contact the dendritic shaft.
+Structure and function
+The extensive dendritic tree of two
+hippocampal pyramidal neurons (magenta)
+with all incoming synapses genetically
+labeled (green spots).[2]
+Synaptic activity causes local changes in the electrical
+potential across the plasma membrane of the dendrite. This
+change in membrane potential will passively spread along
+the dendrite, but becomes weaker with distance without an
+action potential. To generate an action potential, many
+excitatory synapses have to be active at the same time,
+leading to strong depolarization of the dendrite and the cell
+body (soma). The action potential, which typically starts at
+the axon hillock, propagates down the length of the axon to
+the axon terminals where it triggers the release of
+neurotransmitters, but also backwards into the dendrite
+(retrograde propagation), providing an important signal for
+spike-timing-dependent plasticity (STDP).[4]
+Most synapses are axodendritic, involving an axon signaling
+to a dendrite. There are also dendrodendritic synapses,
+signaling from one dendrite to another.[6] An autapse is a
+synapse in which the axon of one neuron transmits signals to
+its own dendrite.
+The general structure of the dendrite is used to classify
+neurons into multipolar, bipolar and unipolar types.
+Multipolar neurons are composed of one axon and many
+dendritic trees. Pyramidal cells are multipolar cortical
+neurons with pyramid-shaped cell bodies and large dendrites
+that extend towards the surface of the cortex (apical
+dendrite). Bipolar neurons have two main dendrites at
+opposing ends of the cell body. Many inhibitory neurons
+have this morphology. Unipolar neurons, typical for insects,
+have a stalk that extends from the cell body that separates
+into two branches with one containing the dendrites and the
+other with the terminal buttons. In vertebrates, sensory neurons detecting touch or temperature are
+unipolar.[6][7][8] Dendritic branching can be extensive and in some cases is sufficient to receive as many as
+100,000 inputs to a single neuron.[4]
+The term dendrites was first used in 1889 by Wilhelm His to describe the number of smaller "protoplasmic
+processes" that were attached to a nerve cell.[9] German anatomist Otto Friedrich Karl Deiters is generally
+credited with the discovery of the axon by distinguishing it from the dendrites.
+Some of the first intracellular recordings in a nervous system were made in the late 1930s by Kenneth S.
+Cole and Howard J. Curtis. Swiss Rüdolf Albert von Kölliker and German Robert Remak were the first to
+identify and characterize the axonal initial segment. Alan Hodgkin and Andrew Huxley also employed the
+squid giant axon (1939) and by 1952 they had obtained a full quantitative description of the ionic basis of
+the action potential, leading the formulation of the Hodgkin–Huxley model. Hodgkin and Huxley were
+awarded jointly the Nobel Prize for this work in 1963. The formulas detailing axonal conductance were
+History
+extended to vertebrates in the Frankenhaeuser–Huxley equations. Louis-Antoine Ranvier was the first to
+describe the gaps or nodes found on axons and for this contribution these axonal features are now
+commonly referred to as the Nodes of Ranvier. Santiago Ramón y Cajal, a Spanish anatomist, proposed that
+axons were the output components of neurons.[10] He also proposed that neurons were discrete cells that
+communicated with each other via specialized junctions, or spaces, between cells, now known as a synapse.
+Ramón y Cajal improved a silver staining process known as Golgi's method, which had been developed by
+his rival, Camillo Golgi.[11]
+During the development of dendrites, several factors can
+influence differentiation. These include modulation of
+sensory input, environmental pollutants, body temperature,
+and drug use.[12] For example, rats raised in dark
+environments were found to have a reduced number of
+spines in pyramidal cells located in the primary visual
+cortex and a marked change in distribution of dendrite
+branching in layer 4 stellate cells.[13] Experiments done in
+vitro and in vivo have shown that the presence of afferents
+and input activity per se can modulate the patterns in
+which dendrites differentiate.[14]
+Little is known about the process by which dendrites orient themselves in vivo and are compelled to create
+the intricate branching pattern unique to each specific neuronal class. One theory on the mechanism of
+dendritic arbor development is the Synaptotropic Hypothesis. The synaptotropic hypothesis proposes that
+input from a presynaptic to a postsynaptic cell (and maturation of excitatory synaptic inputs) eventually can
+change the course of synapse formation at dendritic and axonal arbors.[15]
+This synapse formation is required for the development of neuronal structure in the functioning brain. A
+balance between metabolic costs of dendritic elaboration and the need to cover receptive field presumably
+determine the size and shape of dendrites. A complex array of extracellular and intracellular cues modulates
+dendrite development including transcription factors, receptor-ligand interactions, various signaling
+pathways, local translational machinery, cytoskeletal elements, Golgi outposts and endosomes. These
+contribute to the organization of the dendrites on individual cell bodies and the placement of these dendrites
+in the neuronal circuitry. For example, it was shown that β-actin zipcode binding protein 1 (ZBP1)
+contributes to proper dendritic branching.
+Other important transcription factors involved in the morphology of dendrites include CUT, Abrupt, Collier,
+Spineless, ACJ6/drifter, CREST, NEUROD1, CREB, NEUROG2 etc. Secreted proteins and cell surface
+receptors includes neurotrophins and tyrosine kinase receptors, BMP7, Wnt/dishevelled, EPHB 1–3,
+Semaphorin/plexin-neuropilin, slit-robo, netrin-frazzled, reelin. Rac, CDC42 and RhoA serve as
+cytoskeletal regulators and the motor protein includes KIF5, dynein, LIS1. Important secretory and
+endocytic pathways controlling the dendritic development include DAR3 /SAR1, DAR2/Sec23,
+Dendrite development
+DAR6/Rab1 etc. All these molecules interplay with each other in controlling dendritic morphogenesis
+including the acquisition of type specific dendritic arborization, the regulation of dendrite size and the
+organization of dendrites emanating from different neurons.[1][16]
+Dendritic arborization, also known as dendritic branching, is a multi-step biological process by which
+neurons form new dendritic trees and branches to create new synapses.[1] Dendrites in many organisms
+assume different morphological patterns of branching. The morphology of dendrites such as branch density
+and grouping patterns are highly correlated to the function of the neuron. Malformation of dendrites is also
+tightly correlated to impaired nervous system function.[14]
+Branching morphologies may assume an adendritic structure (not having a branching structure, or not tree-
+like), or a tree-like radiation structure. Tree-like arborization patterns can be spindled (where two dendrites
+radiate from opposite poles of a cell body with few branches, see bipolar neurons ), spherical (where
+dendrites radiate in a part or in all directions from a cell body, see cerebellar granule cells), laminar (where
+dendrites can either radiate planarly, offset from cell body by one or more stems, or multi-planarly, see
+retinal horizontal cells, retinal ganglion cells, retinal amacrine cells respectively), cylindrical (where
+dendrites radiate in all directions in a cylinder, disk-like fashion, see pallidal neurons), conical (dendrites
+radiate like a cone away from cell body, see pyramidal cells), or fanned (where dendrites radiate like a flat
+fan as in Purkinje cells).
+The structure and branching of a neuron's dendrites, as well as the availability and variation of voltage-
+gated ion conductance, strongly influences how the neuron integrates the input from other neurons. This
+integration is both temporal, involving the summation of stimuli that arrive in rapid succession, as well as
+spatial, entailing the aggregation of excitatory and inhibitory inputs from separate branches.[17]
+Dendrites were once thought to merely convey electrical stimulation passively. This passive transmission
+means that voltage changes measured at the cell body are the result of activation of distal synapses
+propagating the electric signal towards the cell body without the aid of voltage-gated ion channels. Passive
+cable theory describes how voltage changes at a particular location on a dendrite transmit this electrical
+signal through a system of converging dendrite segments of different diameters, lengths, and electrical
+properties. Based on passive cable theory one can track how changes in a neuron's dendritic morphology
+impacts the membrane voltage at the cell body, and thus how variation in dendrite architectures affects the
+overall output characteristics of the neuron.[18][19]
+Action potentials initiated at the axon hillock propagate back into the dendritic arbor. These back-
+propagating action potentials depolarize the dendritic membrane and provide a crucial signal for synapse
+modulation and long-term potentiation. Back-propagation is not completely passive, but modulated by the
+presence of dendritic voltage-gated potassium channels. Furthermore, in certain types of neurons, a train of
+back-propagating action potentials can induce a calcium action potential (a dendritic spike) at dendritic
+initiation zones.[20][21]
+Types of dendritic patterns
+Electrical properties
+Plasticity
+Dendrites themselves appear to be capable of plastic changes during the adult life of animals, including
+invertebrates.[22] Neuronal dendrites have various compartments known as functional units that are able to
+compute incoming stimuli. These functional units are involved in processing input and are composed of the
+subdomains of dendrites such as spines, branches, or groupings of branches. Therefore, plasticity that leads
+to changes in the dendrite structure will affect communication and processing in the cell. During
+development, dendrite morphology is shaped by intrinsic programs within the cell's genome and extrinsic
+factors such as signals from other cells. But in adult life, extrinsic signals become more influential and cause
+more significant changes in dendrite structure compared to intrinsic signals during development. In females,
+the dendritic structure can change as a result of physiological conditions induced by hormones during
+periods such as pregnancy, lactation, and following the estrous cycle. This is particularly visible in
+pyramidal cells of the CA1 region of the hippocampus, where the density of dendrites can vary up to
+30%.[14]
+Recent experimental observations suggest that adaptation is performed in the neuronal dendritic trees, where
+the timescale of adaptation was observed to be as low as several seconds only.[23][24] Certain machine
+learning architectures based on dendritic trees have shown to simplify the learning algorithm without
+affecting performance.[25]
+1. Urbanska M, Blazejczyk M, Jaworski J (2008). "Molecular basis of dendritic arborization".
+Acta Neurobiologiae Experimentalis. 68 (2): 264–288. PMID 18511961 (https://pubmed.ncbi.
+nlm.nih.gov/18511961).
+2. Perez-Alvarez, Alberto; Fearey, Brenna C.; O’Toole, Ryan J.; Yang, Wei; Arganda-Carreras,
+Ignacio; Lamothe-Molina, Paul J.; Moeyaert, Benjamien; Mohr, Manuel A.; Panzera, Lauren
+C.; Schulze, Christian; Schreiter, Eric R.; Wiegert, J. Simon; Gee, Christine E.; Hoppa,
+Michael B.; Oertner, Thomas G. (2020-05-18). "Freeze-frame imaging of synaptic activity
+using SynTagMA" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235013). Nature
+Communications. 11 (1): 2464. doi:10.1038/s41467-020-16315-4 (https://doi.org/10.1038%2
+Fs41467-020-16315-4). ISSN 2041-1723 (https://www.worldcat.org/issn/2041-1723).
+PMC 7235013 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7235013). PMID 32424147 (h
+ttps://pubmed.ncbi.nlm.nih.gov/32424147).
+3. Yau KW (December 1976). "Receptive fields, geometry and conduction block of sensory
+neurones in the central nervous system of the leech" (https://www.ncbi.nlm.nih.gov/pmc/articl
+es/PMC1307715). The Journal of Physiology. 263 (3): 513–538.
+doi:10.1113/jphysiol.1976.sp011643 (https://doi.org/10.1113%2Fjphysiol.1976.sp011643).
+PMC 1307715 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1307715). PMID 1018277 (htt
+ps://pubmed.ncbi.nlm.nih.gov/1018277).
+4. Alberts B (2009). Essential Cell Biology (3rd ed.). New York: Garland Science. ISBN 978-0-
+8153-4129-1.
+5. Eyal, Guy; Verhoog, Matthijs B.; Testa-Silva, Guilherme; Deitcher, Yair; Benavides-Piccione,
+Ruth; DeFelipe, Javier; de Kock, Christiaan P. J.; Mansvelder, Huibert D.; Segev, Idan (2018-
+06-29). "Human Cortical Pyramidal Neurons: From Spines to Spikes via Models" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC6034553). Frontiers in Cellular Neuroscience. 12: 181.
+doi:10.3389/fncel.2018.00181 (https://doi.org/10.3389%2Ffncel.2018.00181). ISSN 1662-
+5102 (https://www.worldcat.org/issn/1662-5102). PMC 6034553 (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC6034553). PMID 30008663 (https://pubmed.ncbi.nlm.nih.gov/30008663).
+6. Carlson NR (2013). Physiology of Behavior (11th ed.). Boston: Pearson. ISBN 978-0-205-
+23939-9.
+References
+7. Pinel JP (2011). Biopsychology (8th ed.). Boston: Allyn & Bacon. ISBN 978-0-205-83256-9.
+8. Jan YN, Jan LY (May 2010). "Branching out: mechanisms of dendritic arborization" (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3079328). Nature Reviews. Neuroscience. 11 (5):
+316–328. doi:10.1038/nrn2836 (https://doi.org/10.1038%2Fnrn2836). PMC 3079328 (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3079328). PMID 20404840 (https://pubmed.ncbi.nl
+m.nih.gov/20404840).
+9. Finger S (1994). Origins of neuroscience : a history of explorations into brain function. Oxford
+University Press. p. 44. ISBN 9780195146943. OCLC 27151391 (https://www.worldcat.org/o
+clc/27151391). "The nerve cell with its uninterrupted processes was described by Otto
+Friedrich Karl Deiters (1834-1863) in a work that was completed by Max Schultze (1825-
+1874) in 1865, two years after Deiters died of typhoid fever. This work portrayed the cell body
+with a single chief "axis cylinder" and a number of smaller "protoplasmic processes" (see
+figure 3.19). The latter would become known as "dendrites", a term coined by Wilhelm His
+(1831-1904) in 1889."
+10. Debanne D, Campanac E, Bialowas A, Carlier E, Alcaraz G (April 2011). "Axon physiology"
+(https://hal-amu.archives-ouvertes.fr/hal-01766861/file/Debanne-Physiol-Rev-2011.pdf)
+(PDF). Physiological Reviews. 91 (2): 555–602. doi:10.1152/physrev.00048.2009 (https://do
+i.org/10.1152%2Fphysrev.00048.2009). PMID 21527732 (https://pubmed.ncbi.nlm.nih.gov/2
+1527732). Archived (https://web.archive.org/web/20200505155633/https://hal-amu.archives-
+ouvertes.fr/hal-01766861/file/Debanne-Physiol-Rev-2011.pdf) (PDF) from the original on
+2020-05-05.
+11. López-Muñoz F, Boya J, Alamo C (October 2006). "Neuron theory, the cornerstone of
+neuroscience, on the centenary of the Nobel Prize award to Santiago Ramón y Cajal". Brain
+Research Bulletin. 70 (4–6): 391–405. doi:10.1016/j.brainresbull.2006.07.010 (https://doi.or
+g/10.1016%2Fj.brainresbull.2006.07.010). PMID 17027775 (https://pubmed.ncbi.nlm.nih.go
+v/17027775). S2CID 11273256 (https://api.semanticscholar.org/CorpusID:11273256).
+12. McEwen BS (September 2010). "Stress, sex, and neural adaptation to a changing
+environment: mechanisms of neuronal remodeling" (https://www.ncbi.nlm.nih.gov/pmc/article
+s/PMC2946089). Annals of the New York Academy of Sciences. 1204 (Suppl): E38–E59.
+Bibcode:2010NYASA1204...38M (https://ui.adsabs.harvard.edu/abs/2010NYASA1204...38
+M). doi:10.1111/j.1749-6632.2010.05568.x (https://doi.org/10.1111%2Fj.1749-6632.2010.05
+568.x). PMC 2946089 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2946089).
+PMID 20840167 (https://pubmed.ncbi.nlm.nih.gov/20840167).
+13. Borges S, Berry M (July 1978). "The effects of dark rearing on the development of the visual
+cortex of the rat". The Journal of Comparative Neurology. 180 (2): 277–300.
+doi:10.1002/cne.901800207 (https://doi.org/10.1002%2Fcne.901800207). PMID 659662 (htt
+ps://pubmed.ncbi.nlm.nih.gov/659662). S2CID 42749947 (https://api.semanticscholar.org/Co
+rpusID:42749947).
+14. Tavosanis G (January 2012). "Dendritic structural plasticity". Developmental Neurobiology.
+72 (1): 73–86. doi:10.1002/dneu.20951 (https://doi.org/10.1002%2Fdneu.20951).
+PMID 21761575 (https://pubmed.ncbi.nlm.nih.gov/21761575). S2CID 2055017 (https://api.se
+manticscholar.org/CorpusID:2055017).
+15. Cline H, Haas K (March 2008). "The regulation of dendritic arbor development and plasticity
+by glutamatergic synaptic input: a review of the synaptotrophic hypothesis" (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC2375708). The Journal of Physiology. 586 (6): 1509–1517.
+doi:10.1113/jphysiol.2007.150029 (https://doi.org/10.1113%2Fjphysiol.2007.150029).
+PMC 2375708 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2375708). PMID 18202093 (h
+ttps://pubmed.ncbi.nlm.nih.gov/18202093).
+16. Perycz M, Urbanska AS, Krawczyk PS, Parobczak K, Jaworski J (April 2011). "Zipcode
+binding protein 1 regulates the development of dendritic arbors in hippocampal neurons" (htt
+p://www.jneurosci.org/content/jneuro/31/14/5271.full.pdf) (PDF). The Journal of
+Neuroscience. 31 (14): 5271–5285. doi:10.1523/JNEUROSCI.2387-10.2011 (https://doi.org/
+10.1523%2FJNEUROSCI.2387-10.2011). PMC 6622686 (https://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC6622686). PMID 21471362 (https://pubmed.ncbi.nlm.nih.gov/21471362).
+Archived (https://web.archive.org/web/20170922035952/http://www.jneurosci.org/content/jne
+uro/31/14/5271.full.pdf) (PDF) from the original on 2017-09-22.
+17. Kandel ER (2003). Principles of neural science (https://archive.org/details/isbn_9780838577
+011) (4th ed.). Cambridge: McGraw Hill. ISBN 0-8385-7701-6.
+18. Koch C (1999). Biophysics of computation : information processing in single neurons. New
+York [u.a.]: Oxford Univ. Press. ISBN 0-19-510491-9.
+19. Häusser M (2008). Dendrites (2nd ed.). Oxford: Oxford University Press. ISBN 978-0-19-
+856656-4.
+20. Gidon, Albert; Zolnik, Timothy Adam; Fidzinski, Pawel; Bolduan, Felix; Papoutsi, Athanasia;
+Poirazi, Panayiota; Holtkamp, Martin; Vida, Imre; Larkum, Matthew Evan (2020-01-03).
+"Dendritic action potentials and computation in human layer 2/3 cortical neurons" (https://doi.
+org/10.1126%2Fscience.aax6239). Science. 367 (6473): 83–87.
+doi:10.1126/science.aax6239 (https://doi.org/10.1126%2Fscience.aax6239). ISSN 0036-
+8075 (https://www.worldcat.org/issn/0036-8075). PMID 31896716 (https://pubmed.ncbi.nlm.n
+ih.gov/31896716).
+21. Larkum, Matthew E.; Wu, Jiameng; Duverdin, Sarah A.; Gidon, Albert (2022). "The Guide to
+Dendritic Spikes of the Mammalian Cortex In Vitro and In Vivo" (https://doi.org/10.1016%2Fj.
+neuroscience.2022.02.009). Neuroscience. 489: 15–33.
+doi:10.1016/j.neuroscience.2022.02.009 (https://doi.org/10.1016%2Fj.neuroscience.2022.0
+2.009). PMID 35182699 (https://pubmed.ncbi.nlm.nih.gov/35182699).
+22. Michmizos D, Koutsouraki E, Asprodini E, Baloyannis S. 2011. Synaptic Plasticity: A Unified
+Model to Address Some Persisting Questions. International Journal of Neuroscience, 121(6):
+289-304. https://www.tandfonline.com/doi/abs/10.3109/00207454.2011.556283
+23. Hodassman S, Vardi R, Tugendhaft Y, Goldental A, Kanter I (April 2022). "Efficient dendritic
+learning as an alternative to synaptic plasticity hypothesis" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC9051213). Scientific Reports. 12 (1): 6571. Bibcode:2022NatSR..12.6571H (ht
+tps://ui.adsabs.harvard.edu/abs/2022NatSR..12.6571H). doi:10.1038/s41598-022-10466-8
+(https://doi.org/10.1038%2Fs41598-022-10466-8). PMC 9051213 (https://www.ncbi.nlm.nih.g
+ov/pmc/articles/PMC9051213). PMID 35484180 (https://pubmed.ncbi.nlm.nih.gov/3548418
+0).
+24. Sardi S, Vardi R, Goldental A, Sheinin A, Uzan H, Kanter I (March 2018). "Adaptive nodes
+enrich nonlinear cooperative learning beyond traditional adaptation by links" (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC5865176). Scientific Reports. 8 (1): 5100.
+Bibcode:2018NatSR...8.5100S (https://ui.adsabs.harvard.edu/abs/2018NatSR...8.5100S).
+doi:10.1038/s41598-018-23471-7 (https://doi.org/10.1038%2Fs41598-018-23471-7).
+PMC 5865176 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5865176). PMID 29572466 (h
+ttps://pubmed.ncbi.nlm.nih.gov/29572466).
+25. Meir Y, Ben-Noam I, Tzach Y, Hodassman S, Kanter I (January 2023). "Learning on tree
+architectures outperforms a convolutional feedforward network" (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC9886946). Scientific Reports. 13 (1): 962. doi:10.1038/s41598-023-
+27986-6 (https://doi.org/10.1038%2Fs41598-023-27986-6). PMC 9886946 (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC9886946). PMID 36717568 (https://pubmed.ncbi.nlm.nih.gov/3
+6717568).
+Histology image: 3_09 (http://www.ouhsc.edu/histology/Glass%20slides/3_09.jpg) at the
+University of Oklahoma Health Sciences Center - "Slide 3 Spinal cord"
+Dendritic Tree - Cell Centered Database (http://ccdb.ucsd.edu/sand/main?stype=lite&keywor
+d=dendritic%20tree&Submit=Go&event=display&start=1)
+Stereo images of dendritic trees in Kryptopterus electroreceptor organs (https://web.archive.o
+rg/web/20120402103223/http://www.detraditie.nl/sdt_sdtreferenceseries/sdt_rsi_2011_dendr
+ites.pdf)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Dendrite&oldid=1220926344"
+External links

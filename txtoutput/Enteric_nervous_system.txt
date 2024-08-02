@@ -1,0 +1,300 @@
+Enteric nervous system
+The enteric nervous system is
+embedded in the lining of the
+gastrointestinal system.
+Identifiers
+Acronym(s) ENS
+MeSH
+D017615 (https://meshb.
+nlm.nih.gov/record/ui?ui=
+D017615)
+FMA
+66070 (https://bioportal.bi
+oontology.org/ontologies/
+FMA/?p=classes&concep
+tid=http%3A%2F%2Fpurl.
+org%2Fsig%2Font%2Ffm
+a%2Ffma66070)
+Anatomical terminology
+Layers of the Alimentary Canal. The
+wall of the alimentary canal has four
+basic tissue layers: the mucosa,
+submucosa, muscularis, and serosa.
+Enteric nervous system
+The enteric nervous system (ENS) or intrinsic nervous
+system is one of the three main divisions of the autonomic
+nervous system (ANS), the other being the sympathetic (SNS)
+and parasympathetic nervous system (PSNS), and consists of a
+mesh-like system of neurons that governs the function of the
+gastrointestinal tract.[1] It is capable of acting independently of
+the SNS and PSNS, although it may be influenced by them.
+The ENS is nicknamed the "second brain".[2][3] It is derived
+from neural crest cells.[4][5]
+The enteric nervous system is capable of operating
+independently of the brain and spinal cord,[6] but is thought to
+rely on innervation from the vagus nerve and prevertebral
+ganglia in healthy subjects. However, studies have shown that
+the system is operable with a severed vagus nerve.[7] The
+neurons of the enteric nervous system control the motor
+functions of the system, in addition to the secretion of
+gastrointestinal enzymes. These neurons communicate through
+many neurotransmitters similar to the CNS, including
+acetylcholine, dopamine, and serotonin. The large presence of
+serotonin and dopamine in the intestines are key areas of
+research for neurogastroenterology.[8][9][10]
+The enteric nervous system in humans consists of some 500
+million neurons[11] (including the various types of Dogiel
+cells),[1][12] 0.5% of the number of neurons in the brain, five times
+as many as the one hundred million neurons in the human spinal
+cord,[13] and about 2⁄3 as many as in the whole nervous system of a
+cat. The enteric nervous system is embedded in the lining of the
+gastrointestinal system, beginning in the esophagus and extending
+down to the anus.[13]
+The neurons of the ENS are collected into two types of ganglia:
+myenteric (Auerbach's) and submucosal (Meissner's) plexuses.[14]
+Myenteric plexuses are located between the inner and outer layers
+of the muscularis externa, while submucosal plexuses are located in
+the submucosa.
+Structure
+Auerbach's plexus
+Auerbach's plexus, also known as the myenteric plexus, is a collection of fibers and postganglionic
+autonomic cell bodies that lie between the circular and longitudinal layers of the muscularis externa in the
+gastrointestinal tract. It was discovered and named by German neuropathologist Leopold Auerbach. These
+neurons provide motor inputs to both layers of the muscularis externa and provide both parasympathetic and
+sympathetic input. The anatomy of the plexus is similar to the anatomy of the central nervous system. The
+plexus includes sensory receptors, such as chemoreceptors and mechanoreceptors, that are used to provide
+sensory input to the interneurons in the enteric nervous system. The plexus is the parasympathetic nucleus
+of origin for the vagus nerve and communicates with the medulla oblongata through both the anterior and
+posterior vagal nerves.
+The submucosal plexus (also known as Meissner's plexus) is found in the submucosal layer of the
+gastrointestinal tract.[15] It was discovered and named by German physiologist Georg Meissner. It functions
+as a pathway for the innervation in the mucosa layer of the gastrointestinal wall.
+The ENS is capable of autonomous functions[16] like the coordination of reflexes; although it receives
+considerable innervation from the autonomic nervous system, it can and does operate independently of the
+brain and the spinal cord.[17] Its study is the focus of neurogastroenterology.
+The enteric nervous system has been described as a "second brain" for several reasons. The enteric nervous
+system can operate autonomously. It normally communicates with the central nervous system (CNS)
+through the parasympathetic (e.g., via the vagus nerve) and sympathetic (e.g., via the prevertebral ganglia)
+nervous systems. However, vertebrate studies show that when the vagus nerve is severed, the enteric
+nervous system continues to function.[7]
+In vertebrates, the enteric nervous system includes efferent neurons, afferent neurons, and interneurons, all
+of which make the enteric nervous system capable of carrying reflexes and acting as an integrating center in
+the absence of CNS input. The sensory neurons report on mechanical and chemical conditions. Through
+intestinal muscles, the motor neurons control peristalsis and churning of intestinal contents. Other neurons
+control the secretion of enzymes. The enteric nervous system also makes use of more than
+30  neurotransmitters, most of which are identical to the ones found in CNS, such as acetylcholine,
+dopamine, and serotonin. More than 90% of the body's serotonin lies in the gut, as well as about 50% of the
+body's dopamine, which is currently being studied to further our understanding of its utility in the
+brain.[18][19][20]
+The enteric nervous system has the capacity to alter its response depending on such factors as bulk and
+nutrient composition.[21] In addition, the ENS contains support cells which are similar to astroglia of the
+brain and a diffusion barrier around the capillaries surrounding ganglia which is similar to the blood–brain
+barrier of cerebral blood vessels.[22]
+Submucosal plexus
+Function
+Complexity
+Peristalsis
+A simplified image showing
+peristalsis
+Peristalsis is a series of radially symmetrical contractions and
+relaxations of muscles which propagate down a muscular tube. In
+humans and other mammals, peristalsis is found in the smooth
+muscles of the digestive tract to propel contents through the digestive
+system. The word is derived from New Latin and comes from the
+Greek peristallein, "to wrap around," from peri-, "around" + stallein,
+"to place". Peristalsis was discovered in 1899 by the work of
+physiologists William Bayliss and Ernest Starling. Working on the
+small intestines of dogs, they found that the response of increasing the
+pressure in the intestine caused the contraction of the muscle wall
+above the point of stimulation and the relaxation of the muscle wall
+below the point of stimulation.[23][6]
+Segmentation contractions are the contractions in intestines carried
+out by the smooth muscle walls. Unlike peristalsis, which involves
+the contraction and relaxation of muscles in one direction,
+segmentation occurs simultaneously in both directions as the circular
+muscles alternatively contract. This allows for thorough mixing of
+intestinal contents, known as chyme, to allow greater absorption.
+The secretion of gastrointestinal hormones, such as gastrin and secretin, is regulated through cholinergic
+neurons residing in the walls of the digestive tract. Hormone secretion is controlled by the vagovagal reflex,
+where the neurons in the digestive tract communicate through both afferent and efferent pathways with the
+vagus nerve.[24]
+Neurogastroenterology encompasses the study of the brain, the gut, and their interactions with relevance
+to the understanding and management of gastrointestinal motility and functional gastrointestinal disorders.
+Specifically, neurogastroenterology focuses on the functions, malfunctions, and the malformations of the
+sympathetic, parasympathetic, and enteric divisions of the digestive tract.[25] The term also describes a
+medical sub-specialism of gastroenterology dedicated to the treatment of motility and functional
+gastrointestinal disorders.
+Segmentation
+Secretion
+Clinical significance
+Functional gastrointestinal disorders
+Functional gastrointestinal (GI) disorders are a class of gastrointestinal disorders where there is a
+malfunction in the normal activities of the gastrointestinal tract, but there are no structural abnormalities that
+can explain the cause. There are rarely any tests that can detect the presence of these disorders. Clinical
+research in neurogastroenterology focuses mainly on the study of common functional gastrointestinal
+disorders such as irritable bowel syndrome, the most common functional GI disorder.[26]
+Motility 
+disorders 
+are 
+the 
+second 
+classification 
+of 
+gastrointestinal 
+disorder 
+studied 
+by
+neurogastroenterologists. Motility disorders are divided by what they affect, with four regions: The
+esophagus, the stomach, the small intestines, and the large intestines. Clinical research in
+neurogastroenterology focuses mainly on the study of common motility disorders such as gastroesophageal
+reflux disease, the damage of the mucosa of the esophagus caused by rising stomach acid through the lower
+esophageal sphincter.[27]
+ENS function can be damaged by ischemia.[28] Transplantation, previously described as a theoretical
+possibility,[29] has been a clinical reality in the United States since 2011 and is regularly performed at some
+hospitals.
+The myenteric plexus
+of a rabbit. X 50.
+ 
+The submucosal
+plexus of a rabbit. X
+50.
+American Neurogastroenterology and Motility Society[30]
+European Society of Neurogastroenterology and Motility[31]
+Neurogastroenterology & Motility
+Basal electrical rhythm
+Homeostatic emotion
+Gut–brain axis
+Motility disorders
+Gut ischaemia
+Additional images
+Neurogastroenterology societies
+See also
+Human gastrointestinal tract
+1. Furness JB (15 April 2008). The Enteric Nervous System (https://books.google.com/books?i
+d=pvkpdNHhI6cC&pg=PA35). John Wiley & Sons. pp. 35–38. ISBN 978-1-4051-7344-5.
+2. Dorland's (2012). Dorland's Illustrated Medical Dictionary (32nd ed.). Elsevier Saunders.
+p. 1862. ISBN 978-1-4160-6257-8.
+3. Pocock G, Richards C (2006). Human Physiology The Basis of Medicine (Third ed.). Oxford
+University Press. p. 63. ISBN 978-0-19-856878-0.
+4. Barlow AJ, Wallace AS, Thapar N, Burns AJ (May 2008). "Critical numbers of neural crest
+cells are required in the pathways from the neural tube to the foregut to ensure complete
+enteric nervous system formation". Development. 135 (9): 1681–1691.
+doi:10.1242/dev.017418 (https://doi.org/10.1242%2Fdev.017418). PMID 18385256 (https://p
+ubmed.ncbi.nlm.nih.gov/18385256). S2CID 7401456 (https://api.semanticscholar.org/Corpus
+ID:7401456).
+5. Burns AJ, Thapar N (October 2006). "Advances in ontogeny of the enteric nervous system".
+Neurogastroenterology and Motility. 18 (10): 876–887. doi:10.1111/j.1365-
+2982.2006.00806.x (https://doi.org/10.1111%2Fj.1365-2982.2006.00806.x). PMID 16961690
+(https://pubmed.ncbi.nlm.nih.gov/16961690). S2CID 34066966 (https://api.semanticscholar.o
+rg/CorpusID:34066966).
+6. Gershon M (1998). The Second Brain (https://archive.org/details/secondbrainscien00gers/pa
+ge/2). New York: HarperCollins. pp. 2–7 (https://archive.org/details/secondbrainscien00gers/
+page/2). ISBN 0-06-018252-0.
+7. Li Y, Owyang C (September 2003). "Musings on the wanderer: what's new in our
+understanding of vago-vagal reflexes? V. Remodeling of vagus and enteric neural circuitry
+after vagal injury". American Journal of Physiology. Gastrointestinal and Liver Physiology.
+285 (3): G461–G469. doi:10.1152/ajpgi.00119.2003 (https://doi.org/10.1152%2Fajpgi.00119.
+2003). PMID 12909562 (https://pubmed.ncbi.nlm.nih.gov/12909562).
+8. Pasricha PJ. "Stanford Hospital: Brain in the Gut - Your Health" (https://www.youtube.com/w
+atch?v=UXx4WTVU34Y). YouTube.
+9. Martinucci I, Blandizzi C, de Bortoli N, Bellini M, Antonioli L, Tuccori M, et al. (2015).
+"Genetics and pharmacogenetics of aminergic transmitter pathways in functional
+gastrointestinal disorders". Pharmacogenomics. 16 (5): 523–539. doi:10.2217/pgs.15.12 (htt
+ps://doi.org/10.2217%2Fpgs.15.12). hdl:11577/3166305 (https://hdl.handle.net/11577%2F31
+66305). PMID 25916523 (https://pubmed.ncbi.nlm.nih.gov/25916523).
+10. Smitka K, Papezova H, Vondra K, Hill M, Hainer V, Nedvidkova J (2013). "The role of
+"mixed" orexigenic and anorexigenic signals and autoantibodies reacting with appetite-
+regulating neuropeptides and peptides of the adipose tissue-gut-brain axis: relevance to
+food intake and nutritional status in patients with anorexia nervosa and bulimia nervosa" (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782835). International Journal of
+Endocrinology. 2013: 483145. doi:10.1155/2013/483145 (https://doi.org/10.1155%2F2013%
+2F483145). PMC 3782835 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782835).
+PMID 24106499 (https://pubmed.ncbi.nlm.nih.gov/24106499).
+11. Young E. "Gut Instincts: The secrets of your second brain" (https://www.newscientist.com/arti
+cle/mg21628951.900-gut-instincts-the-secrets-of-your-second-brain.html). New Scientist.
+Retrieved 8 April 2015.; alternate source at website: "NeuroScienceStuff" (https://web.archiv
+e.org/web/20130504175954/http://neurosciencestuff.tumblr.com/post/38271759345/gut-insti
+ncts-the-secrets-of-your-second-brain). Archived from the original (https://neurosciencestuff.t
+umblr.com/post/38271759345/gut-instincts-the-secrets-of-your-second-brain) on 4 May 2013.
+References
+12. p. 921 (https://archive.org/stream/anatomyofhumanbo1918gray#page/921/mode/2up)
+13. Hall JE (2011). "General Principles of Gastrointestinal Function". Guyton and Hal Textbook
+of Medical Physiology (12th ed.). Saunders Elsevier. p. 755. ISBN 978-1416045748.
+14. "The Enteric Nervous System" (http://www.vivo.colostate.edu/hbooks/pathphys/digestion/bas
+ics/gi_nervous.html). Retrieved 29 November 2008.
+15. Ross, Michael H, and Wojciech Pawlina. Histology: A Text and Atlas with Correlated Cell
+and Molecular Biology. Baltimore, MD: Lippincott Williams & Wilkins, 2006
+16. "enteric nervous system" (https://web.archive.org/web/20090628224336/http://www.merckso
+urce.com/pp/us/cns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/eig
+ht/000105286.htm) at Dorland's Medical Dictionary
+17. Gershon, 1998 & 17.
+18. Pasricha PJ. Brain in the Gut (https://www.youtube.com/watch?v=UXx4WTVU34Y) (video).
+Your Health. Stanford Hospital.
+19. Martinucci I, Blandizzi C, de Bortoli N, Bellini M, Antonioli L, Tuccori M, et al. (2015).
+"Genetics and pharmacogenetics of aminergic transmitter pathways in functional
+gastrointestinal disorders". Pharmacogenomics. 16 (5): 523–539. doi:10.2217/pgs.15.12 (htt
+ps://doi.org/10.2217%2Fpgs.15.12). hdl:11577/3166305 (https://hdl.handle.net/11577%2F31
+66305). PMID 25916523 (https://pubmed.ncbi.nlm.nih.gov/25916523).
+20. Smitka K, Papezova H, Vondra K, Hill M, Hainer V, Nedvidkova J (2013). "The role of
+"mixed" orexigenic and anorexigenic signals and autoantibodies reacting with appetite-
+regulating neuropeptides and peptides of the adipose tissue-gut-brain axis: relevance to
+food intake and nutritional status in patients with anorexia nervosa and bulimia nervosa" (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782835). International Journal of
+Endocrinology. 2013: 483145. doi:10.1155/2013/483145 (https://doi.org/10.1155%2F2013%
+2F483145). PMC 3782835 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782835).
+PMID 24106499 (https://pubmed.ncbi.nlm.nih.gov/24106499).
+21. Neunlist M, Schemann M (July 2014). "Nutrient-induced changes in the phenotype and
+function of the enteric nervous system" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4214
+652). The Journal of Physiology. 592 (14). Wiley: 2959–2965.
+doi:10.1113/jphysiol.2014.272948 (https://doi.org/10.1113%2Fjphysiol.2014.272948).
+PMC 4214652 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4214652). PMID 24907307 (h
+ttps://pubmed.ncbi.nlm.nih.gov/24907307). S2CID 37969390 (https://api.semanticscholar.or
+g/CorpusID:37969390).
+22. Silverthorn DU (2007). Human Physiology. San Francisco, CA: Pearson Education, Inc.
+23. Keet AS. "The Pyloric Sphincteric Cylinder in health and disease" (http://med.plig.org/index.
+html). Retrieved 18 November 2013.
+24. Herman MA, Cruz MT, Sahibzada N, Verbalis J, Gillis RA (January 2009). "GABA signaling
+in the nucleus tractus solitarius sets the level of activity in dorsal motor nucleus of the vagus
+cholinergic neurons in the vagovagal circuit" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC
+2636929). American Journal of Physiology. Gastrointestinal and Liver Physiology. 296 (1):
+G101–G111. doi:10.1152/ajpgi.90504.2008 (https://doi.org/10.1152%2Fajpgi.90504.2008).
+PMC 2636929 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636929). PMID 19008339 (h
+ttps://pubmed.ncbi.nlm.nih.gov/19008339).
+25. Wood JD, Alpers DH, Andrews PL (September 1999). "Fundamentals of
+neurogastroenterology" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1766686). Gut. 45
+(Suppl 2): II6–II16. doi:10.1136/gut.45.2008.ii6 (https://doi.org/10.1136%2Fgut.45.2008.ii6).
+PMC 1766686 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1766686). PMID 10457039 (h
+ttps://pubmed.ncbi.nlm.nih.gov/10457039).
+26. Kumar A, Rinwa P, Sharma N (2012). "Irritable Bowel Syndrome: A Review". J Phys Pharm
+Adv. 2 (2): 97–108.
+27. DeVault KR, Castell DO (June 1999). "Updated guidelines for the diagnosis and treatment of
+gastroesophageal reflux disease. The Practice Parameters Committee of the American
+College of Gastroenterology" (https://doi.org/10.1111%2Fj.1572-0241.1999.1123_a.x). The
+American Journal of Gastroenterology. 94 (6): 1434–1442. doi:10.1111/j.1572-
+0241.1999.1123_a.x (https://doi.org/10.1111%2Fj.1572-0241.1999.1123_a.x).
+PMID 10364004 (https://pubmed.ncbi.nlm.nih.gov/10364004). S2CID 32509777 (https://api.s
+emanticscholar.org/CorpusID:32509777).
+28. Linhares GK, Martins JL, Fontanezzi F, Patrício F, Montero EF (2007). "Do lesions of the
+enteric nervous system occur following intestinal ischemia/reperfusion?" (https://doi.org/10.1
+590%2FS0102-86502007000200008). Acta Cirurgica Brasileira. 22 (2): 120–124.
+doi:10.1590/S0102-86502007000200008 (https://doi.org/10.1590%2FS0102-865020070002
+00008). PMID 17375218 (https://pubmed.ncbi.nlm.nih.gov/17375218).
+29. Gershon MD (April 2007). "Transplanting the enteric nervous system: a step closer to
+treatment for aganglionosis" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1856867). Gut.
+56 (4): 459–461. doi:10.1136/gut.2006.107748 (https://doi.org/10.1136%2Fgut.2006.10774
+8). PMC 1856867 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1856867).
+PMID 17369379 (https://pubmed.ncbi.nlm.nih.gov/17369379).
+30. ANMS - American Neurogastroenterology and Motility Society (http://www.motilitysociety.or
+g/)
+31. ESNM - European Society for Neurogastroenterology & Motility (http://www.esnm.eu/)
+Grosell M, Farrell AP, Brauner CJ, eds. (2010). Fish Physiology: The Multifunctional Gut of
+Fish (https://books.google.com/books?id=eddWw_nyRlYC&q=%22Fish+Physiology%3A+T
+he+Multifunctional+Gut+of+Fish%22). Academic Press. ISBN 978-0-08-096136-1.
+Gershon MD (1999). The Second Brain: A Groundbreaking New Understanding of Nervous
+Disorders of the Stomach and Intestine. Harper Perennial. ISBN 978-0-06-093072-1.
+Nosek TM. "Section 6/6ch2/s6ch2_29" (https://web.archive.org/web/20160324124828/http://
+humanphysiology.tuars.com/program/section6/6ch2/s6ch2_29.htm). Essentials of Human
+Physiology. Archived from the original (http://humanphysiology.tuars.com/program/section6/6
+ch2/s6ch2_29.htm) on 2016-03-24.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Enteric_nervous_system&oldid=1217510835"
+Further references

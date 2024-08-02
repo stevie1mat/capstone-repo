@@ -1,0 +1,532 @@
+Sympathetic nervous system
+Schematic illustration showing the
+sympathetic nervous system with
+sympathetic cord and target organs.
+Details
+Identifiers
+Latin
+pars sympathica
+divisionis autonomici
+systematis nervosi
+Acronym(s) SNS
+MeSH
+D013564 (https://meshb.
+nlm.nih.gov/record/ui?ui=
+D013564)
+TA98
+A14.3.01.001 (https://ifa
+a.unifr.ch/Public/EntryPag
+e/TA98%20Tree/Entity%2
+0TA98%20EN/14.3.01.00
+1%20Entity%20TA98%20
+EN.htm)
+TA2
+6601 (https://ta2viewer.o
+penanatomy.org/?id=660
+1)
+Sympathetic nervous system
+The sympathetic nervous system (SNS) is one of the three
+divisions of the autonomic nervous system, the others being the
+parasympathetic nervous system and the enteric nervous
+system.[1][2] The enteric nervous system is sometimes
+considered part of the autonomic nervous system, and
+sometimes considered an independent system.[3]
+The autonomic nervous system functions to regulate the body's
+unconscious actions. The sympathetic nervous system's primary
+process is to stimulate the body's fight or flight response. It is,
+however, constantly active at a basic level to maintain
+homeostasis.[4] The sympathetic nervous system is described as
+being antagonistic to the parasympathetic nervous system. The
+latter stimulates the body to "feed and breed" and to (then)
+"rest-and-digest".
+The SNS has a major role in various physiological processes
+such as blood glucose levels, body temperature, cardiac output,
+and immune system function. The formation of sympathetic
+neurons being observed at embryonic stage of life and its
+development during aging shows its significance in health; its
+dysfunction has shown to be linked to various health
+disorders.[5]
+There are two kinds of neurons involved in the transmission of
+any signal through the sympathetic system: pre-ganglionic and
+post-ganglionic. The shorter preganglionic neurons originate in
+the thoracolumbar division of the spinal cord specifically at T1
+to L2~L3, and travel to a ganglion, often one of the
+paravertebral 
+ganglia, 
+where 
+they 
+synapse 
+with 
+a
+postganglionic neuron. From there, the long postganglionic
+neurons extend across most of the body.[6]
+At the synapses within the ganglia, preganglionic neurons
+release acetylcholine, a neurotransmitter that activates nicotinic
+acetylcholine receptors on postganglionic neurons. In response
+to 
+this 
+stimulus, 
+the 
+postganglionic 
+neurons 
+release
+norepinephrine, which activates adrenergic receptors that are
+present on the peripheral target tissues. The activation of target
+Structure
+FMA
+9906 (https://bioportal.bio
+ontology.org/ontologies/F
+MA/?p=classes&concepti
+d=http%3A%2F%2Fpurl.
+org%2Fsig%2Font%2Ffm
+a%2Ffma9906)
+Anatomical terminology
+The sympathetic nervous system
+extends from the thoracic to lumbar
+vertebrae and has connections with
+the thoracic, abdominal, and pelvic
+plexuses.
+tissue receptors causes the effects associated with the
+sympathetic system. However, there are three important
+exceptions:[7]
+1. Postganglionic neurons of sweat glands release
+acetylcholine for the activation of muscarinic
+receptors, except for areas of thick skin, the palms
+and the plantar surfaces of the feet, where
+norepinephrine is released and acts on adrenergic
+receptors. This leads to the activation of sudomotor function which is assessed by
+electrochemical skin conductance.
+2. Chromaffin cells of the adrenal medulla are analogous to post-ganglionic neurons; the
+adrenal medulla develops in tandem with the sympathetic nervous system and acts as a
+modified sympathetic ganglion. Within this endocrine gland, pre-ganglionic neurons synapse
+with chromaffin cells, triggering the release of two transmitters: a small proportion of
+norepinephrine, and more substantially, epinephrine. The synthesis and release of
+epinephrine as opposed to norepinephrine is another distinguishing feature of chromaffin
+cells compared to postganglionic sympathetic neurons.[8]
+3. Postganglionic sympathetic nerves terminating in the kidney release dopamine, which acts
+on dopamine D1 receptors of blood vessels to control how much blood the kidney filters.
+Dopamine is the immediate metabolic precursor to norepinephrine, but is nonetheless a
+distinct signaling molecule.[9]
+Sympathetic nerves arise from near the middle of the spinal cord in
+the intermediolateral nucleus of the lateral grey column, beginning
+at the first thoracic vertebra of the vertebral column and are thought
+to extend to the second or third lumbar vertebra. Because its cells
+begin in the thoracolumbar division – the thoracic and lumbar
+regions of the spinal cord – the sympathetic nervous system is said
+to have a thoracolumbar outflow. Axons of these nerves leave the
+spinal cord through the anterior root. They pass near the spinal
+(sensory) ganglion, where they enter the anterior rami of the spinal
+nerves. However, unlike somatic innervation, they quickly separate
+out through white rami connectors (so called from the shiny white
+sheaths of myelin around each axon) that connect to either the
+paravertebral (which lie near the vertebral column) or prevertebral
+(which lie near the aortic bifurcation) ganglia extending alongside
+the spinal column.
+To reach target organs and glands, the axons must travel long
+distances in the body, and, to accomplish this, many axons relay
+their message to a second cell through synaptic transmission. The
+ends of the axons link across a space, the synapse, to the dendrites
+of the second cell. The first cell (the presynaptic cell) sends a
+neurotransmitter across the synaptic cleft where it activates the
+second cell (the postsynaptic cell). The message is then carried to
+the final destination.
+Organization
+Scheme showing structure of a
+typical spinal nerve. 1. Somatic
+efferent. 2. Somatic afferent. 3,4,5.
+Sympathetic efferent. 6,7.
+Sympathetic afferent.
+Presynaptic nerves' axons terminate in either the paravertebral
+ganglia or prevertebral ganglia. There are four different paths an
+axon can take before reaching its terminal. In all cases, the axon
+enters the paravertebral ganglion at the level of its originating spinal
+nerve. After this, it can then either synapse in this ganglion, ascend
+to a more superior or descend to a more inferior paravertebral
+ganglion and synapse there, or it can descend to a prevertebral
+ganglion and synapse there with the postsynaptic cell.[10]
+The postsynaptic cell then goes on to innervate the targeted end
+effector (i.e. gland, smooth muscle, etc.). Because paravertebral and
+prevertebral ganglia are close to the spinal cord, presynaptic
+neurons are much shorter than their postsynaptic counterparts,
+which must extend throughout the body to reach their destinations.
+A notable exception to the routes mentioned above is the
+sympathetic innervation of the suprarenal (adrenal) medulla. In this
+case, presynaptic neurons pass through paravertebral ganglia, on through prevertebral ganglia and then
+synapse directly with suprarenal tissue. This tissue consists of cells that have pseudo-neuron like qualities in
+that when activated by the presynaptic neuron, they will release their neurotransmitter (epinephrine) directly
+into the bloodstream.
+In the sympathetic nervous system and other components of the peripheral nervous system, these synapses
+are made at sites called ganglia. The cell that sends its fiber is called a preganglionic cell, while the cell
+whose fiber leaves the ganglion is called a postganglionic cell. As mentioned previously, the preganglionic
+cells of the sympathetic nervous system are located between the first thoracic segment and the third lumbar
+segments of the spinal cord. Postganglionic cells have their cell bodies in the ganglia and send their axons to
+target organs or glands.
+The ganglia include not just the sympathetic trunks but also the cervical ganglia (superior, middle and
+inferior), which send sympathetic nerve fibers to the head and thorax organs, and the celiac and mesenteric
+ganglia, which send sympathetic fibers to the gut.
+Sympathetic nervous system –
+Information transmits through it
+affecting various organs.
+Autonomic nervous system's jurisdiction to organs in the human body
+Organ
+Nerves[11]
+Spinal column origin[11]
+stomach
+PS: anterior and posterior vagal trunks
+S: greater splanchnic nerves
+T5, T6, T7, T8, T9, sometimes
+T10
+duodenum
+PS: vagus nerves
+S: greater splanchnic nerves
+T5, T6, T7, T8, T9, sometimes
+T10
+jejunum and ileum
+PS: posterior vagal trunks
+S: greater splanchnic nerves
+T5, T6, T7, T8, T9
+spleen
+S: greater splanchnic nerves
+T6, T7, T8
+gallbladder and
+liver
+PS: vagus nerve
+S: celiac plexus
+right phrenic nerve
+T6, T7, T8, T9
+colon
+PS: vagus nerves and pelvic splanchnic nerves
+S: lesser and least splanchnic nerves
+T10, T11, T12 (proximal colon)
+L1, L2, L3, (distal colon)
+pancreatic head
+PS: vagus nerves
+S: thoracic splanchnic nerves
+T8, T9
+appendix
+nerves to superior mesenteric plexus
+T10
+bladder
+PS: pelvic splanchnic nerves to detrusor
+muscles
+S: inferior hypogastric nerves
+S2-S4
+kidneys and ureters
+PS: vagus nerve
+S: thoracic and lumbar splanchnic nerves
+T11, T12
+Messages travel through the sympathetic nervous system in a bi-
+directional flow. Efferent messages can trigger changes in different
+parts of the body simultaneously. For example, the sympathetic
+nervous system can accelerate heart rate; widen bronchial passages;
+decrease motility (movement) of the large intestine; constrict blood
+vessels; increase peristalsis in the oesophagus; cause pupillary
+dilation, piloerection (goose bumps) and perspiration (sweating);
+and raise blood pressure. One exception is with certain blood
+vessels such as those in the cerebral and coronary arteries, which
+dilate (rather than constrict) with an increase in sympathetic tone.
+This is because of a proportional increase in the presence of β2
+adrenergic receptors rather than α1 receptors. β2 receptors promote vessel dilation instead of constriction
+like α1 receptors. An alternative explanation is that the primary (and direct) effect of sympathetic stimulation
+Information transmission
+Organ
+Effect
+Eye
+Dilates pupil
+Heart
+Increases rate and force of contraction
+Lungs
+Dilates bronchioles via circulating adrenaline[13]
+Blood vessels
+Dilate in skeletal muscle[14]
+Digestive system
+Constricts in gastrointestinal organs
+Sweat glands
+Activates sudomotor function and sweat secretion
+Digestive tract
+Inhibits peristalsis
+Kidney
+Increases renin secretion
+Penis
+Causes erection
+Ductus deferens
+Promotes emission prior to ejaculation
+Examples of sympathetic system action on various organs[8] except where otherwise
+indicated.
+on coronary arteries is vasoconstriction followed by a secondary vasodilation caused by the release of
+vasodilatory metabolites due to the sympathetically increased cardiac inotropy and heart rate. This
+secondary vasodilation caused by the primary vasoconstriction is termed functional sympatholysis, the
+overall effect of which on coronary arteries is dilation.[12] The target synapse of the postganglionic neuron
+is mediated by adrenergic receptors and is activated by either norepinephrine (noradrenaline) or epinephrine
+(adrenaline).
+The sympathetic nervous system is
+responsible for up- and down-regulating
+many homeostatic mechanisms in living
+organisms. Fibers from the SYNS
+innervate tissues in almost every organ
+system, 
+providing 
+at 
+least 
+some
+regulation of functions as diverse as
+pupil diameter, gut motility, and urinary
+system output and function.[15] It is
+perhaps best known for mediating the
+neuronal and hormonal stress response
+commonly known as the fight-or-flight
+response. This response is also known
+as sympatho-adrenal response of the
+body, as the preganglionic sympathetic
+fibers that end in the adrenal medulla
+(but also all other sympathetic fibers)
+secrete acetylcholine, which activates the great secretion of adrenaline (epinephrine) and to a lesser extent
+noradrenaline (norepinephrine) from it. Therefore, this response that acts primarily on the cardiovascular
+system is mediated directly via impulses transmitted through the sympathetic nervous system and indirectly
+via catecholamines secreted from the adrenal medulla.
+The sympathetic nervous system is responsible for priming the body for action, particularly in situations
+threatening survival.[16] One example of this priming is in the moments before waking, in which
+sympathetic outflow spontaneously increases in preparation for action.
+Sympathetic nervous system stimulation causes vasoconstriction of most blood vessels, including many of
+those in the skin, the digestive tract, and the kidneys. This occurs as a result of activation of alpha-1
+adrenergic receptors by norepinephrine released by post-ganglionic sympathetic neurons. These receptors
+exist throughout the vasculature of the body but are inhibited and counterbalanced by beta-2 adrenergic
+receptors (stimulated by epinephrine release from the adrenal glands) in the skeletal muscles, the heart, the
+lungs, and the brain during a sympathoadrenal response. The net effect of this is a shunting of blood away
+from the organs not necessary to the immediate survival of the organism and an increase in blood flow to
+those organs involved in intense physical activity.
+Function
+Sensation
+The afferent fibers of the autonomic nervous system, which transmit sensory information from the internal
+organs of the body back to the central nervous system (or CNS), are not divided into parasympathetic and
+sympathetic fibers as the efferent fibers are.[17] Instead, autonomic sensory information is conducted by
+general visceral afferent fibers.
+General visceral afferent sensations are mostly unconscious visceral motor reflex sensations from hollow
+organs and glands that are transmitted to the CNS. While the unconscious reflex arcs normally are
+undetectable, in certain instances they may send pain sensations to the CNS masked as referred pain. If the
+peritoneal cavity becomes inflamed or if the bowel is suddenly distended, the body will interpret the afferent
+pain stimulus as somatic in origin. This pain is usually non-localized. The pain is also usually referred to
+dermatomes that are at the same spinal nerve level as the visceral afferent synapse.
+Together with the other component of the autonomic nervous system, the parasympathetic nervous system,
+the sympathetic nervous system aids in the control of most of the body's internal organs. Reaction to stress
+—as in the flight-or-fight response—is thought to be elicited by the sympathetic nervous system and to
+counteract the parasympathetic system, which works to promote maintenance of the body at rest. The
+comprehensive functions of both the parasympathetic and sympathetic nervous systems are not so
+straightforward, but this is a useful rule of thumb.[4][18]
+It was originally believed that the sympathetic nervous system arose with jawed vertebrates.[19] However,
+the sea lamprey (Petromyzon marinus), a jawless vertebrate, has been found to contain the key building
+blocks and developmental controls of a sympathetic nervous system.[20] Nature described this research as a
+"landmark study" that "point to a remarkable diversification of sympathetic neuron populations among
+vertebrate classes and species".[21]
+The dysfunction of the sympathetic nervous system is linked to many health disorders, such as heart failure,
+gastrointestinal problems, immune dysfunction as well as, metabolic disorders like, hypertension and
+diabetes. Highlighting the importance of the sympathetic nervous system for health.
+The sympathetic stimulation of metabolic tissues is required for the maintenance of metabolic regulation and
+feedback loops. The dysregulation of this system leads to an increased risk of neuropathy within metabolic
+tissues and therefore can worsen or precipitate metabolic disorders. An example of this includes the
+retraction of sympathetic neurons due to leptin resistance, which is linked to obesity.[22] Another example,
+although more research is required, is the observed link that diabetes results in the impairment of synaptic
+transmission due to the inhibition of acetylcholine receptors as a result of high blood glucose levels. The
+loss of sympathetic neurons is also associated with the reduction of insulin secretion and impaired glucose
+tolerance, further exacerbating the disorder.[23]
+The sympathetic nervous system holds a major role in long-term regulation of hypertension, whereby the
+central nervous system stimulates sympathetic nerve activity in specific target organs or tissues via
+neurohumoral signals. In terms of hypertension, the overactivation of the sympathetic system results in
+Relationship with the parasympathetic nervous system
+Origins
+Disorders
+vasoconstriction and increased heart rate resulting in increased blood pressure. In turn, increasing the
+potential of the development of cardiovascular disease.[24]
+In heart failure, the sympathetic nervous system increases its activity, leading to increased force of muscular
+contractions that in turn increases the stroke volume, as well as peripheral vasoconstriction to maintain
+blood pressure. However, these effects accelerate disease progression, eventually increasing mortality in
+heart failure.[25]
+Sympathicotonia is a stimulated[26] condition of the sympathetic nervous system, marked by vascular
+spasm,[27] elevated blood pressure,[27] and goose bumps.[27]
+Heightened sympathetic nervous system activity is also linked to various mental health disorders such as,
+anxiety disorders and post-traumatic stress disorder (PTSD). It is suggested that the overactivation of the
+SNS results in the increased severity of PTSD symptoms. In accordance with disorders like hypertension
+and cardiovascular disease mentioned above, PTSD is also linked with the increased risk of developing
+mentioned diseases, further correlating the link between these disorders and the SNS.[28]
+The sympathetic nervous system is sensitive to stress, studies suggest that the chronic dysfunction of the
+sympathetic system results in migraines, due to the vascular changes associated with tension headaches.
+Individuals with migraine attacks are exhibited to have symptoms that are associated with sympathetic
+dysfunction, which include reduced levels of plasma norepinephrine levels, sensitivity of the peripheral
+adrenergic receptors.[29]
+Insomnia is a sleeping disorder, that makes falling or staying asleep difficult, this disruption in sleep results
+in sleep deprivation and various symptoms, with the severity depending on whether the insomnia is acute or
+chronic. The most favoured hypothesis for the cause of insomnia is the hyperarousal hypothesis, which is
+known as a collective over-activation of various systems in the body, this over-activation includes the
+hyperactivity of the SNS. Whereby during sleep cycle disruption sympathetic baroreflex function and
+neural cardiovascular responses become impaired.[30][31]
+However more research is still required, as methods used in measuring SNS biological measures are not so
+reliable due to the sensitivity of the SNS, many factors easily effect its activity, like stress, environment,
+timing of day, and disease. These factors can impact results significantly and for more accurate results
+extremely invasive methods are required, such as microneurography. The difficultly of measuring the SNS
+activity does not only apply to insomnia, but also with various disorders previously discussed. However,
+overtime with advancements in technology and techniques in research studies the disruption of the SNS and
+its impact on the human body will be explored further. [32][33]
+The name of this system can be traced to the concept of sympathy, in the sense of "connection between
+parts", first used medically by Galen.[34] In the 18th century, Jacob B. Winslow applied the term
+specifically to nerves.[35]
+The concept that an independent part of the nervous system coordinates body functions had its origin in the
+works of Galen (129–199), who proposed that nerves distributed spirits throughout the body. From animal
+dissections he concluded that there were extensive interconnections from the spinal cord to the viscera and
+from one organ to another. He proposed that this system fostered a concerted action or 'sympathy' of the
+History and etymology
+organs. Little changed until the Renaissance when Bartolomeo Eustacheo (1545) depicted the sympathetic
+nerves, the vagus and adrenal glands in anatomical drawings. Jacobus Winslow (1669–1760), a Danish-
+born professor working in Paris, popularised the term 'sympathetic nervous system' in 1732 to describe the
+chain of ganglia and nerves which were connected to the thoracic and lumbar spinal cord.[36]
+Cremaster muscle
+Cremasteric reflex
+Epinephrine
+History of catecholamine research
+Limbic system
+Norepinephrine
+Sympathetic ganglia
+Sympathetic trunk
+Sympathicolysis
+1. Dorland's (2012). Dorland's Illustrated Medical Dictionary (32nd ed.). Elsevier Saunders.
+p. 1862. ISBN 978-1-4160-6257-8.
+2. Pocock G, Richards C (2006). Human Physiology The Basis of Medicine (Third ed.). Oxford
+University Press. p. 63. ISBN 978-0-19-856878-0.
+3. "14.1B: Divisions of the Autonomic Nervous System" (https://med.libretexts.org/Bookshelves/
+Anatomy_and_Physiology/Book%3A_Anatomy_and_Physiology_(Boundless)/14%3A_Auto
+nomic_Nervous_System/14.1%3A_Introduction_to_the_Autonomic_Nervous_System/14.1
+B%3A_Divisions_of_the_Autonomic_Nervous_System). Medicine LibreTexts. 2018-07-21.
+Retrieved 2021-07-21.
+4. Brodal P (2004). The Central Nervous System: Structure and Function (https://books.google.
+com/books?id=WdATFQ0YUrMC&pg=PA369) (3 ed.). Oxford University Press US. pp. 369–
+396. ISBN 0-19-516560-8.
+5. Scott-Solomon, Emily; Boehm, Erica; Kuruvilla, Rejji (November 2021). "The sympathetic
+nervous system in development and disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PM
+C8530968). Nature Reviews Neuroscience. 22 (11): 685–702. doi:10.1038/s41583-021-
+00523-y (https://doi.org/10.1038%2Fs41583-021-00523-y). PMC 8530968 (https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC8530968). PMID 34599308 (https://pubmed.ncbi.nlm.nih.gov/3
+4599308).
+6. Drake RL, Vogl W, Mitchell AM, Gray H (2005). Gray's Anatomy for Students (https://books.go
+ogle.com/books?id=SJBqAAAAMAAJ) (1 ed.). Elsevier. pp. 76–84. ISBN 0-443-06612-4.
+7. Rang HP, Dale MM, Ritter JM, Flower RJ (2007). Rang and Dale's Pharmacology (https://bo
+oks.google.com/books?id=mtNy9DgYCIgC&q=0443069115) (6 ed.). Elsevier. p. 135.
+ISBN 978-0-443-06911-6.
+8. Silverthorn, Dee Unglaub (2009). Human Physiology: An Integrated Approach (https://books.
+google.com/books?id=32dHPgAACAAJ&q=0321541308) (4 ed.). Pearson/Benjamin
+Cummings. pp. 379–386. ISBN 978-0-321-54130-7.
+See also
+References
+9. Cuevas S, Villar VA, Jose PA, Armando I (August 2013). "Renal dopamine receptors,
+oxidative stress, and hypertension" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC379474
+1). Int J Mol Sci. 14 (9): 17553–72. doi:10.3390/ijms140917553 (https://doi.org/10.3390%2Fij
+ms140917553). PMC 3794741 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3794741).
+PMID 23985827 (https://pubmed.ncbi.nlm.nih.gov/23985827).
+10. "Divisions of the autonomic nervous system - sympathetic division pathways" (https://web.ar
+chive.org/web/20230218104009/https://content.byui.edu/file/a236934c-3c60-4fe9-90aa-d34
+3b3e3a640/1/module10/readings/divisions_nerve_system.html). Brigham Young University–
+Idaho. Archived from the original (https://content.byui.edu/file/a236934c-3c60-4fe9-90aa-d34
+3b3e3a640/1/module10/readings/divisions_nerve_system.html#:~:text=The%20cell%20bodi
+es%20of%20the,and%20enter%20a%20spinal%20nerve.) on 18 February 2023. Retrieved
+31 March 2023.
+11. Unless specified otherwise in the boxes, the source is: Moore, Keith L.; Agur, A. M. R. (2002).
+Essential Clinical Anatomy (https://books.google.com/books?id=PSGWpeMmKC4C)
+(2nd ed.). Lippincott Williams & Wilkins. p. 199. ISBN 978-0-7817-5940-3.
+12. Klabunde RE (2012). Cardiovascular physiology concepts (in Hungarian). Philadelphia, PA:
+Lippincott Williams & Wilkins/Wolters Kluwer. p. 160. ISBN 978-1-4511-1384-6.
+OCLC 712765593 (https://www.worldcat.org/oclc/712765593).
+13. Hlastala MP, Berger AJ (2001). Physiology of respiration. Oxford: Oxford University Press.
+p. 177. ISBN 0-19-513846-5. OCLC 44545198 (https://www.worldcat.org/oclc/44545198).
+14. Jänig W (2006). The integrative action of the autonomic nervous system : neurobiology of
+homeostasis. Cambridge, UK: Cambridge University Press. pp. 132–135. ISBN 978-0-511-
+22617-5. OCLC 191696146 (https://www.worldcat.org/oclc/191696146).
+15. Moro C, Tajouri L, Chess-Williams R (January 2013). "Adrenoceptor function and expression
+in bladder urothelium and lamina propria". Urology. 81 (1): 211.e1–7.
+doi:10.1016/j.urology.2012.09.011 (https://doi.org/10.1016%2Fj.urology.2012.09.011).
+PMID 23200975 (https://pubmed.ncbi.nlm.nih.gov/23200975).
+16. Ornstein RE (1992). The Evolution of Consciousness: of Darwin, Freud, and Cranial Fire:
+The Origins of the Way We Think (https://archive.org/details/evolutionofconsc0000orns).
+New York: Simon & Schuster. ISBN 0-671-79224-5.
+17. Moore KL, Agur AM (2007). Essential clinical anatomy. Philadelphia, PA: Lippincott Williams
+& Wilkins. pp. 34–35. ISBN 978-0-7817-6274-8. OCLC 63279568 (https://www.worldcat.org/
+oclc/63279568).
+18. Sherwood L (2008). Human Physiology: From Cells to Systems (https://books.google.com/bo
+oks?id=gOmpysGBC90C&pg=PT268) (7 ed.). Cengage Learning. p. 240. ISBN 978-0-495-
+39184-5.
+19. Nicol, J. A. Colin (1952). "AUTONOMIC NERVOUS SYSTEMS IN LOWER CHORDATES".
+Biological Reviews. 27 (1): 1–48. doi:10.1111/j.1469-185X.1952.tb01361.x (https://doi.org/1
+0.1111%2Fj.1469-185X.1952.tb01361.x). ISSN 1464-7931 (https://www.worldcat.org/issn/14
+64-7931).
+20. Edens, Brittany M.; Stundl, Jan; Urrutia, Hugo A.; Bronner, Marianne E. (2024). "Neural crest
+origin of sympathetic neurons at the dawn of vertebrates". Nature. 629 (8010): 121–126.
+doi:10.1038/s41586-024-07297-0 (https://doi.org/10.1038%2Fs41586-024-07297-0).
+ISSN 0028-0836 (https://www.worldcat.org/issn/0028-0836).
+21. Ernsberger, Uwe; Rohrer, Hermann (2024). "The sympathetic nervous system arose in the
+earliest vertebrates". Nature. 629 (8010): 46–48. doi:10.1038/d41586-024-01017-4 (https://d
+oi.org/10.1038%2Fd41586-024-01017-4). ISSN 0028-0836 (https://www.worldcat.org/issn/00
+28-0836).
+22. Liu, Kaili; Yang, Lu; Wang, Gang; Liu, Jiaqi; Zhao, Xuan; Wang, Yi; Li, Jiali; Yang, Jing
+(March 2021). "Metabolic stress drives sympathetic neuropathy within the liver" (https://doi.or
+g/10.1016%2Fj.cmet.2021.01.012). Cell Metabolism. 33 (3): 666–675.e4.
+doi:10.1016/j.cmet.2021.01.012 (https://doi.org/10.1016%2Fj.cmet.2021.01.012).
+PMID 33545051 (https://pubmed.ncbi.nlm.nih.gov/33545051).
+23. Scott-Solomon, Emily; Boehm, Erica; Kuruvilla, Rejji (2021). "The sympathetic nervous
+system in development and disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC853096
+8). Nature Reviews Neuroscience. 22 (11): 685–702. doi:10.1038/s41583-021-00523-y (http
+s://doi.org/10.1038%2Fs41583-021-00523-y). PMC 8530968 (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC8530968). PMID 34599308 (https://pubmed.ncbi.nlm.nih.gov/34599308).
+24. DeLalio, Leon J.; Sved, Alan F.; Stocker, Sean D. (May 2020). "Sympathetic Nervous System
+Contributions to Hypertension: Updates and Therapeutic Relevance" (https://www.ncbi.nlm.n
+ih.gov/pmc/articles/PMC7534536). Canadian Journal of Cardiology. 36 (5): 712–720.
+doi:10.1016/j.cjca.2020.03.003 (https://doi.org/10.1016%2Fj.cjca.2020.03.003).
+PMC 7534536 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534536). PMID 32389344 (h
+ttps://pubmed.ncbi.nlm.nih.gov/32389344).
+25. Triposkiadis F, Karayannis G, Giamouzis G, Skoularigis J, Louridas G, Butler J (November
+2009). "The sympathetic nervous system in heart failure physiology, pathophysiology, and
+clinical implications" (https://doi.org/10.1016%2Fj.jacc.2009.05.015). J Am Coll Cardiol. 54
+(19): 1747–62. doi:10.1016/j.jacc.2009.05.015 (https://doi.org/10.1016%2Fj.jacc.2009.05.01
+5). PMID 19874988 (https://pubmed.ncbi.nlm.nih.gov/19874988).
+26. thefreedictionary.com (http://medical-dictionary.thefreedictionary.com/sympathicotonia)
+Citing: Dorland's Medical Dictionary for Health Consumers. © 2007
+27. thefreedictionary.com (http://medical-dictionary.thefreedictionary.com/sympathicotonia)
+Citing: The American Heritage Medical Dictionary Copyright © 2007
+28. Fonkoue, Ida T.; Marvar, Paul J.; Norrholm, Seth; Li, Yunxiao; Kankam, Melanie L.; Jones,
+Toure N.; Vemulapalli, Monica; Rothbaum, Barbara; Bremner, J. Douglas; Le, Ngoc-Anh;
+Park, Jeanie (1 January 2020). "Symptom severity impacts sympathetic dysregulation and
+inflammation in post-traumatic stress disorder (PTSD)" (https://www.ncbi.nlm.nih.gov/pmc/art
+icles/PMC6906238). Brain, Behavior, and Immunity. 83: 260–269.
+doi:10.1016/j.bbi.2019.10.021 (https://doi.org/10.1016%2Fj.bbi.2019.10.021). PMC 6906238
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6906238). PMID 31682970 (https://pubmed.n
+cbi.nlm.nih.gov/31682970).
+29. Peroutka, Stephen J. (2004). "Migraine: A Chronic Sympathetic Nervous System Disorder".
+Headache: The Journal of Head and Face Pain. 44: 53–64. doi:10.1111/j.1526-
+4610.2004.04011.x (https://doi.org/10.1111%2Fj.1526-4610.2004.04011.x). PMID 14979884
+(https://pubmed.ncbi.nlm.nih.gov/14979884). S2CID 25278702 (https://api.semanticscholar.o
+rg/CorpusID:25278702).
+30. Carter, Jason R; Grimaldi, Daniela; Fonkoue, Ida T; Medalie, Lisa; Mokhlesi, Babak; Van
+Cauter, Eve (1 June 2018). "Assessment of sympathetic neural activity in chronic insomnia:
+evidence for elevated cardiovascular risk" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC59
+95193). Sleep. 41 (6). doi:10.1093/sleep/zsy048 (https://doi.org/10.1093%2Fsleep%2Fzsy04
+8). PMC 5995193 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995193).
+31. Greenlund, Ian M.; Carter, Jason R. (1 March 2022). "Sympathetic neural responses to sleep
+disorders and insufficiencies" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8836729).
+American Journal of Physiology. Heart and Circulatory Physiology. 322 (3): H337–H349.
+doi:10.1152/ajpheart.00590.2021 (https://doi.org/10.1152%2Fajpheart.00590.2021).
+PMC 8836729 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8836729).
+32. Grimaldi, Daniela; Goldstein, Michael R.; Carter, Jason R. (September 2019). "Insomnia and
+cardiovascular autonomic control". Autonomic Neuroscience. 220: 102551.
+doi:10.1016/j.autneu.2019.05.003 (https://doi.org/10.1016%2Fj.autneu.2019.05.003).
+33. Weissman, David G.; Mendes, Wendy Berry (1 April 2021). "Correlation of sympathetic and
+parasympathetic nervous system activity during rest and acute stress tasks". International
+Journal of Psychophysiology. 162: 60–68. doi:10.1016/j.ijpsycho.2021.01.015 (https://doi.or
+g/10.1016%2Fj.ijpsycho.2021.01.015).
+34. Barboi A (February 12, 2013). "Sympathy, Sympathetic. Evolution of a Concept and
+Relevance to Current Understanding of Autonomic Disorders (S57.005)" (https://n.neurology.
+org/content/80/7_Supplement/S57.005). Neurology.org. American Academy of Neurology.
+Retrieved December 30, 2022.
+35. Olry R (August 1996). "Winslow's contribution to our understanding of the cervical portion of
+the sympathetic nervous system". J Hist Neurosci. 5 (2): 190–6.
+doi:10.1080/09647049609525666 (https://doi.org/10.1080%2F09647049609525666).
+PMID 11619046 (https://pubmed.ncbi.nlm.nih.gov/11619046).
+36. Todman D (2008). " 'Autonomic' nervous system" (https://doi.org/10.1159%2F000148695).
+Eur Neurol. 60 (4): 215–6. doi:10.1159/000148695 (https://doi.org/10.1159%2F000148695).
+PMID 18667826 (https://pubmed.ncbi.nlm.nih.gov/18667826).
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sympathetic_nervous_system&oldid=1226226459"

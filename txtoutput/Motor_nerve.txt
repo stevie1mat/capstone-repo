@@ -1,0 +1,136 @@
+Motor nerve
+Motor nerve of ox
+Details
+Identifiers
+Latin nervus motorius
+FMA
+5867 (https://bioportal.bioontolo
+gy.org/ontologies/FMA/?p=class
+es&conceptid=http%3A%2F%2F
+purl.org%2Fsig%2Font%2Ffm
+a%2Ffma5867)
+Anatomical terms of neuroanatomy
+Motor nerve
+A motor nerve, or efferent nerve, is a nerve that contains
+exclusively efferent nerve fibers and transmits motor signals
+from the central nervous system (CNS) to the muscles of the
+body. This is different from the motor neuron, which includes a
+cell body and branching of dendrites, while the nerve is made
+up of a bundle of axons. Motor nerves act as efferent nerves
+which carry information out from the CNS to muscles, as
+opposed to afferent nerves (also called sensory nerves), which
+transfer signals from sensory receptors in the periphery to the
+CNS.[1] Efferent nerves can also connect to glands or other
+organs/issues instead of muscles (and so motor nerves are not
+equivalent to efferent nerves).[2][3] The vast majority of nerves
+contain both sensory and motor fibers and are therefore called
+mixed nerves.[4]
+Motor nerve fibers transduce signals from the CNS to
+peripheral neurons of proximal muscle tissue. Motor nerve axon
+terminals innervate skeletal and smooth muscle, as they are
+heavily involved in muscle control. Motor nerves tend to be
+rich in acetylcholine vesicles because the motor nerve, a bundle
+of motor nerve axons that deliver motor signals and signal for
+movement and motor control.[5] Calcium vesicles reside in the
+axon terminals of the motor nerve bundles. The high calcium
+concentration outside of presynaptic motor nerves increases the
+size of end-plate potentials (EPPs).[6]
+Within motor nerves, each axon is wrapped by the
+endoneurium, which is a layer of connective tissue that surrounds the myelin sheath. Bundles of axons are
+called fascicles, which are wrapped in perineurium. All of the fascicles wrapped in the perineurium are
+wound together and wrapped by a final layer of connective tissue known as the epineurium. These
+protective tissues defend nerves from injury, pathogens and help to maintain nerve function. Layers of
+connective tissue maintain the rate at which nerves conduct action potentials.[7]
+Structure and function
+Protective tissues
+Motor nerves wrapped in endoneurium
+Most motor pathways originate in the motor cortex of the brain. Signals run down the brainstem and spinal
+cord ipsilaterally, on the same side, and exit the spinal cord at the ventral horn of the spinal cord on either
+side. Motor nerves communicate with the muscle cells they innervate through motor neurons once they exit
+the spinal cord.[1][7]
+Motor nerves can vary based on the subtype of motor neuron they are associate with.[8]
+Alpha motor neurons target extrafusal muscle fibers. The motor nerves associated with these neurons
+innervate extrafusal fibers and are responsible for muscle contraction. These nerve fibers have the largest
+diameter of the motor neurons and require the highest conduction velocity of the three types.[8]
+Beta motor neurons innervate intrafusal fibers of muscle spindles. These nerves are responsible for signaling
+slow twitch muscle fibers.[8]
+Gamma motor neurons, unlike alpha motor neurons, are not directly involved in muscle contraction. The
+nerves associated with these neurons do not send signals that directly adjust the shortening or lengthening of
+muscle fibers. However, these nerves are important in keeping muscle spindles taut.[8]
+Spinal cord exit
+Motor nerve types
+Alpha
+Beta
+Gamma
+Neurodegeneration
+Neural stem cells seen in green
+Motor neural degeneration is the progressive weakening of neural tissues and connections in the nervous
+system. Muscles begin to weaken as there are no longer any motor nerves or pathways that allows for
+muscle innervation. Motor neuron diseases can be viral, genetic or be a result of environmental factors. The
+exact causes remain unclear, however many experts believe that toxic and environmental factors play a
+large role.[9]
+There are problems with neuroregeneration due to many sources,
+both internal and external. There is a weak regenerative ability of
+nerves and new nerve cells cannot simply be made. The outside
+environment can also play a role in nerve regeneration. Neural stem
+cells (NSCs), however, are able to differentiate into many different
+types of nerve cells. This is one way that nerves can "repair"
+themselves. NSC transplant into damaged areas usually leads to the
+cells differentiating into astrocytes which assists the surrounding
+neurons. Schwann cells have the ability to regenerate, but the
+capacity that these cells can repair nerve cells declines as time goes
+on as well as distance the Schwann cells are from site of
+damage.[10][11][12][13]
+Sensory nerve
+Afferent nerve fiber
+Efferent nerve fiber
+Sensory neuron
+Motor neuron (efferent neuron)
+1. Slater, Clarke R. (2015-11-01). "The functional organization of motor nerve terminals".
+Progress in Neurobiology. 134: 55–103. doi:10.1016/j.pneurobio.2015.09.004 (https://doi.or
+g/10.1016%2Fj.pneurobio.2015.09.004). ISSN 0301-0082 (https://www.worldcat.org/issn/03
+01-0082). PMID 26439950 (https://pubmed.ncbi.nlm.nih.gov/26439950). S2CID 207407321
+(https://api.semanticscholar.org/CorpusID:207407321).
+2. "Efferent Nerve - an overview" (https://www.sciencedirect.com/topics/medicine-and-dentistry/
+efferent-nerve). Science Direct. Retrieved 2021-02-19.
+3. "Motor Nerve - an overview" (https://www.sciencedirect.com/topics/medicine-and-dentistry/m
+otor-nerve). Science Direct. Retrieved 2021-02-19.
+4. Glass, Jonathan D (2018-03-19). "Neuromuscular Disease: Protecting the nerve terminals"
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5858932). eLife. 7. doi:10.7554/eLife.35664
+(https://doi.org/10.7554%2FeLife.35664). ISSN 2050-084X (https://www.worldcat.org/issn/20
+50-084X). PMC 5858932 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5858932).
+PMID 29553367 (https://pubmed.ncbi.nlm.nih.gov/29553367).
+5. Purves, Dale (2012). Neuroscience 5th Edition. Sunderland, Mass.
+Neuroregeneration
+See also
+References
+6. Jang, Sung Ho; Lee, Han Do (December 2017). "Gait recovery by activation of the
+unaffected corticoreticulospinal tract in a stroke patient: A case report" (https://www.ncbi.nlm.
+nih.gov/pmc/articles/PMC5815724). Medicine. 96 (50): e9123.
+doi:10.1097/MD.0000000000009123 (https://doi.org/10.1097%2FMD.0000000000009123).
+ISSN 0025-7974 (https://www.worldcat.org/issn/0025-7974). PMC 5815724 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC5815724). PMID 29390312 (https://pubmed.ncbi.nlm.nih.gov/
+29390312).
+7. C., Guyton, Arthur (2006). Textbook of medical physiology. Hall, John E. (John Edward),
+1946- (11th ed.). Philadelphia: Elsevier Saunders. ISBN 978-0721602400. OCLC 56661571
+(https://www.worldcat.org/oclc/56661571).
+8. Gray, Henry (1989). Gray's anatomy. Williams, Peter L. (Peter Llewellyn), Gray, Henry, 1825-
+1861. (37th ed.). Edinburgh: C. Livingstone. ISBN 978-0443041778. OCLC 18350581 (http
+s://www.worldcat.org/oclc/18350581).
+9. "Motor Neuron Disease" (https://www.medicalnewstoday.com/articles/164342.php).
+10. "Peripheral Nerve Disorders - Columbia Neurosurgery" (https://www.columbianeurosurgery.
+org/conditions/peripheral-nerve-disorders). Columbia Neurosurgery. Retrieved 2018-03-26.
+11. Gordon, Tessa (2016-05-01). "Nerve Regeneration: Understanding Biology and Its Influence
+on Return of Function After Nerve Transfers". Hand Clinics. 32 (2): 103–117.
+doi:10.1016/j.hcl.2015.12.001 (https://doi.org/10.1016%2Fj.hcl.2015.12.001). ISSN 0749-
+0712 (https://www.worldcat.org/issn/0749-0712). PMID 27094884 (https://pubmed.ncbi.nlm.n
+ih.gov/27094884).
+12. Huang, Lixiang; Wang, Gan (2017). "The Effects of Different Factors on the Behavior of
+Neural Stem Cells" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5735681). Stem Cells
+International. 2017: 9497325. doi:10.1155/2017/9497325 (https://doi.org/10.1155%2F2017%
+2F9497325). ISSN 1687-966X (https://www.worldcat.org/issn/1687-966X). PMC 5735681 (ht
+tps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5735681). PMID 29358957 (https://pubmed.ncb
+i.nlm.nih.gov/29358957).
+13. "Nerve Injuries - OrthoInfo - AAOS" (https://orthoinfo.aaos.org/en/diseases--conditions/nerve-
+injuries/). Retrieved 2018-03-26.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Motor_nerve&oldid=1223623522"

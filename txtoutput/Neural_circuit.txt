@@ -1,0 +1,262 @@
+Anatomy of a multipolar neuron
+From "Texture of the Nervous System of Man and
+the Vertebrates" by Santiago Ramón y Cajal. The
+figure illustrates the diversity of neuronal
+morphologies in the auditory cortex.
+Neural circuit
+A neural circuit is a population of neurons
+interconnected by synapses to carry out a specific
+function when activated.[1] Multiple neural circuits
+interconnect with one another to form large scale brain
+networks.[2]
+Neural circuits have inspired the design of artificial
+neural 
+networks, 
+though 
+there 
+are 
+significant
+differences.
+Early treatments of neural networks can be found in
+Herbert Spencer's Principles of Psychology, 3rd
+edition (1872), Theodor Meynert's Psychiatry (1884),
+William James' Principles of Psychology (1890), and
+Sigmund Freud's Project for a Scientific Psychology
+(composed 1895).[3] The first rule of neuronal learning
+was described by Hebb in 1949, in the Hebbian theory.
+Thus, Hebbian pairing of pre-synaptic and post-
+synaptic activity can substantially alter the dynamic
+characteristics of the synaptic connection and therefore
+either facilitate or inhibit signal transmission. In 1959,
+the neuroscientists, Warren Sturgis McCulloch and
+Walter Pitts published the first works on the processing
+of neural networks.[4] They showed theoretically that
+networks of artificial neurons could implement logical,
+arithmetic, and symbolic functions. Simplified models
+of biological neurons were set up, now usually called
+perceptrons or artificial neurons. These simple models
+accounted for neural summation (i.e., potentials at the
+post-synaptic membrane will summate in the cell
+body). Later models also provided for excitatory and
+inhibitory synaptic transmission.
+The connections between neurons in the brain are much more complex than those of the artificial neurons
+used in the connectionist neural computing models of artificial neural networks. The basic kinds of
+connections between neurons are synapses: both chemical and electrical synapses.
+Early study
+Connections between neurons
+Proposed organization of motor-
+semantic neural circuits for action
+language comprehension. Gray dots
+represent areas of language
+comprehension, creating a network
+for comprehending all language. The
+semantic circuit of the motor
+system, particularly the motor
+representation of the legs (yellow
+dots), is incorporated when leg-
+related words are comprehended.
+Adapted from Shebani et al. (2013)
+The establishment of synapses enables the connection of neurons
+into millions of overlapping, and interlinking neural circuits.
+Presynaptic proteins called neurexins are central to this process.[5]
+One principle by which neurons work is neural summation –
+potentials at the postsynaptic membrane will sum up in the cell
+body. If the depolarization of the neuron at the axon hillock goes
+above threshold an action potential will occur that travels down the
+axon to the terminal endings to transmit a signal to other neurons.
+Excitatory and inhibitory synaptic transmission is realized mostly by
+excitatory 
+postsynaptic 
+potentials 
+(EPSPs), 
+and 
+inhibitory
+postsynaptic potentials (IPSPs).
+On the electrophysiological level, there are various phenomena
+which alter the response characteristics of individual synapses
+(called synaptic plasticity) and individual neurons (intrinsic
+plasticity). These are often divided into short-term plasticity and
+long-term plasticity. Long-term synaptic plasticity is often
+contended to be the most likely memory substrate. Usually, the term
+"neuroplasticity" refers to changes in the brain that are caused by
+activity or experience.
+Connections display temporal and spatial characteristics. Temporal characteristics refers to the continuously
+modified activity-dependent efficacy of synaptic transmission, called spike-timing-dependent plasticity. It
+has been observed in several studies that the synaptic efficacy of this transmission can undergo short-term
+increase (called facilitation) or decrease (depression) according to the activity of the presynaptic neuron.
+The induction of long-term changes in synaptic efficacy, by long-term potentiation (LTP) or depression
+(LTD), depends strongly on the relative timing of the onset of the excitatory postsynaptic potential and the
+postsynaptic action potential. LTP is induced by a series of action potentials which cause a variety of
+biochemical responses. Eventually, the reactions cause the expression of new receptors on the cellular
+membranes of the postsynaptic neurons or increase the efficacy of the existing receptors through
+phosphorylation.
+Backpropagating action potentials cannot occur because after an action potential travels down a given
+segment of the axon, the m gates on voltage-gated sodium channels close, thus blocking any transient
+opening of the h gate from causing a change in the intracellular sodium ion (Na+) concentration, and
+preventing the generation of an action potential back towards the cell body. In some cells, however, neural
+backpropagation does occur through the dendritic branching and may have important effects on synaptic
+plasticity and computation.
+A neuron in the brain requires a single signal to a neuromuscular junction to stimulate contraction of the
+postsynaptic muscle cell. In the spinal cord, however, at least 75 afferent neurons are required to produce
+firing. This picture is further complicated by variation in time constant between neurons, as some cells can
+experience their EPSPs over a wider period of time than others.
+Model of a neural circuit in the
+cerebellum
+While in synapses in the developing brain synaptic depression has been particularly widely observed it has
+been speculated that it changes to facilitation in adult brains.
+An example of a neural circuit is the trisynaptic circuit in the
+hippocampus. Another is the Papez circuit linking the hypothalamus
+to the limbic lobe. There are several neural circuits in the cortico-
+basal ganglia-thalamo-cortical loop. These circuits carry information
+between the cortex, basal ganglia, thalamus, and back to the cortex.
+The largest structure within the basal ganglia, the striatum, is seen
+as having its own internal microcircuitry.[6]
+Neural circuits in the spinal cord called central pattern generators
+are responsible for controlling motor instructions involved in
+rhythmic behaviours. Rhythmic behaviours include walking,
+urination, and ejaculation. The central pattern generators are made
+up of different groups of spinal interneurons.[7]
+There are four principal types of neural circuits that are responsible for a broad scope of neural functions.
+These circuits are a diverging circuit, a converging circuit, a reverberating circuit, and a parallel after-
+discharge circuit.[8]
+In a diverging circuit, one neuron synapses with a number of postsynaptic cells. Each of these may synapse
+with many more making it possible for one neuron to stimulate up to thousands of cells. This is exemplified
+in the way that thousands of muscle fibers can be stimulated from the initial input from a single motor
+neuron.[8]
+In a converging circuit, inputs from many sources are converged into one output, affecting just one neuron
+or a neuron pool. This type of circuit is exemplified in the respiratory center of the brainstem, which
+responds to a number of inputs from different sources by giving out an appropriate breathing pattern.[8]
+A reverberating circuit produces a repetitive output. In a signalling procedure from one neuron to another in
+a linear sequence, one of the neurons may send a signal back to initiating neuron. Each time that the first
+neuron fires, the other neuron further down the sequence fire again sending it back to the source. This
+restimulates the first neuron and also allows the path of transmission to continue to its output. A resulting
+repetitive pattern is the outcome that only stops if one or more of the synapses fail, or if an inhibitory feed
+from another source causes it to stop. This type of reverberating circuit is found in the respiratory center that
+sends signals to the respiratory muscles, causing inhalation. When the circuit is interrupted by an inhibitory
+signal the muscles relax causing exhalation. This type of circuit may play a part in epileptic seizures.[8]
+In a parallel after-discharge circuit, a neuron inputs to several chains of neurons. Each chain is made up of a
+different number of neurons but their signals converge onto one output neuron. Each synapse in the circuit
+acts to delay the signal by about 0.5 msec, so that the more synapses there are, the longer is the delay to the
+Circuitry
+output neuron. After the input has stopped, the output will go on firing for some time. This type of circuit
+does not have a feedback loop as does the reverberating circuit. Continued firing after the stimulus has
+stopped is called after-discharge. This circuit type is found in the reflex arcs of certain reflexes.[8]
+Different neuroimaging techniques have been developed to investigate the activity of neural circuits and
+networks. The use of "brain scanners" or functional neuroimaging to investigate the structure or function of
+the brain is common, either as simply a way of better assessing brain injury with high-resolution pictures, or
+by examining the relative activations of different brain areas. Such technologies may include functional
+magnetic resonance imaging (fMRI), brain positron emission tomography (brain PET), and computed axial
+tomography (CAT) scans. Functional neuroimaging uses specific brain imaging technologies to take scans
+from the brain, usually when a person is doing a particular task, in an attempt to understand how the
+activation of particular brain areas is related to the task. In functional neuroimaging, especially fMRI, which
+measures hemodynamic activity (using BOLD-contrast imaging) which is closely linked to neural activity,
+PET, and electroencephalography (EEG) is used.
+Connectionist models serve as a test platform for different hypotheses of representation, information
+processing, and signal transmission. Lesioning studies in such models, e.g. artificial neural networks, where
+parts of the nodes are deliberately destroyed to see how the network performs, can also yield important
+insights in the working of several cell assemblies. Similarly, simulations of dysfunctional neurotransmitters
+in neurological conditions (e.g., dopamine in the basal ganglia of Parkinson's patients) can yield insights
+into the underlying mechanisms for patterns of cognitive deficits observed in the particular patient group.
+Predictions from these models can be tested in patients or via pharmacological manipulations, and these
+studies can in turn be used to inform the models, making the process iterative.
+The modern balance between the connectionist approach and the single-cell approach in neurobiology has
+been achieved through a lengthy discussion. In 1972, Barlow announced the single neuron revolution: "our
+perceptions are caused by the activity of a rather small number of neurons selected from a very large
+population of predominantly silent cells."[9] This approach was stimulated by the idea of grandmother cell
+put forward two years earlier. Barlow formulated "five dogmas" of neuron doctrine. Recent studies of
+'grandmother cell' and sparse coding phenomena develop and modify these ideas.[10] The single cell
+experiments used intracranial electrodes in the medial temporal lobe (the hippocampus and surrounding
+cortex). Modern development of concentration of measure theory (stochastic separation theorems) with
+applications to artificial neural networks give mathematical background to unexpected effectiveness of small
+neural ensembles in high-dimensional brain.[11]
+Sometimes neural circuitries can become pathological and cause problems such as in Parkinson's disease
+when the basal ganglia are involved.[12] Problems in the Papez circuit can also give rise to a number of
+neurodegenerative disorders including Parkinson's.
+Feedback
+List of regions in the human brain
+Study methods
+Clinical significance
+See also
+Network science
+Neural coding
+Neural engineering
+Neural oscillation
+Pulse-coupled networks
+Systems neuroscience
+Connectomics
+Nerve tract
+Neural pathway
+Nerve plexus
+1. Purves, Dale (2011). Neuroscience (5th ed.). Sunderland, Mass.: Sinauer. p. 507.
+ISBN 9780878936953.
+2. "Neural Circuits | Centre of Excellence for Integrative Brain Function" (https://www.brainfunct
+ion.edu.au/research/research-themes/neural-circuits/). Centre of Excellence for Integrative
+Brain Function. 13 June 2016. Retrieved 4 June 2018.
+3. Michael S. C. Thomas; James L. McClelland. "Connectionist models of cognition" (https://we
+b.archive.org/web/20150906120214/http://psych.stanford.edu/~jlm/papers/ThomasMcCIPCa
+mbEncy.pdf) (PDF). Stanford University. Archived from the original (http://psych.stanford.edu/
+~jlm/papers/ThomasMcCIPCambEncy.pdf) (PDF) on 2015-09-06. Retrieved 2015-08-31.
+4. J. Y. Lettvin; H. R. Maturana; W. S. McCulloch; W. H. Pitts (1959), "What the frog's eye tells
+the frog's brain.", Proc. Inst. Radio Engr., no. 47, pp. 1940–1951
+5. Südhof, TC (2 November 2017). "Synaptic Neurexin Complexes: A Molecular Code for the
+Logic of Neural Circuits" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694349). Cell. 171
+(4): 745–769. doi:10.1016/j.cell.2017.10.024 (https://doi.org/10.1016%2Fj.cell.2017.10.024).
+PMC 5694349 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5694349). PMID 29100073 (h
+ttps://pubmed.ncbi.nlm.nih.gov/29100073).
+6. Stocco, Andrea; Lebiere, Christian; Anderson, John R. (2010). "Conditional Routing of
+Information to the Cortex: A Model of the Basal Ganglia's Role in Cognitive Coordination" (htt
+ps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3064519). Psychological Review. 117 (2): 541–
+74. doi:10.1037/a0019077 (https://doi.org/10.1037%2Fa0019077). PMC 3064519 (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC3064519). PMID 20438237 (https://pubmed.ncbi.nlm.ni
+h.gov/20438237).
+7. Guertin, PA (2012). "Central pattern generator for locomotion: anatomical, physiological, and
+pathophysiological considerations" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC356743
+5). Frontiers in Neurology. 3: 183. doi:10.3389/fneur.2012.00183 (https://doi.org/10.3389%2F
+fneur.2012.00183). PMC 3567435 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3567435).
+PMID 23403923 (https://pubmed.ncbi.nlm.nih.gov/23403923).
+8. Saladin, K (2011). Human anatomy (3rd ed.). McGraw-Hill. p. 364. ISBN 9780071222075.
+9. Barlow, HB (December 1, 1972). "Single units and sensation: a neuron doctrine for
+perceptual psychology?" (https://doi.org/10.1068%2Fp010371). Perception. 1 (4): 371–394.
+doi:10.1068/p010371 (https://doi.org/10.1068%2Fp010371). PMID 4377168 (https://pubmed.
+ncbi.nlm.nih.gov/4377168). S2CID 17487970 (https://api.semanticscholar.org/CorpusID:174
+87970).
+References
+10. Quian Quiroga, R; Reddy, L; Kreiman, G; Koch, C; Fried, I (Jun 23, 2005). "Invariant visual
+representation by single neurons in the human brain" (https://resolver.caltech.edu/CaltechAU
+THORS:20130816-103222719). Nature. 435 (7045): 1102–1107.
+Bibcode:2005Natur.435.1102Q (https://ui.adsabs.harvard.edu/abs/2005Natur.435.1102Q).
+doi:10.1038/nature03687 (https://doi.org/10.1038%2Fnature03687). PMID 15973409 (https://
+pubmed.ncbi.nlm.nih.gov/15973409).
+11. Gorban, Alexander N.; Makarov, Valeri A.; Tyukin, Ivan Y. (July 2019). "The unreasonable
+effectiveness of small neural ensembles in high-dimensional brain" (https://doi.org/10.1016%
+2Fj.plrev.2018.09.005). Physics of Life Reviews. 29: 55–88. arXiv:1809.07656 (https://arxiv.o
+rg/abs/1809.07656). Bibcode:2019PhLRv..29...55G (https://ui.adsabs.harvard.edu/abs/2019
+PhLRv..29...55G). doi:10.1016/j.plrev.2018.09.005 (https://doi.org/10.1016%2Fj.plrev.2018.0
+9.005). PMID 30366739 (https://pubmed.ncbi.nlm.nih.gov/30366739).
+12. French, IT; Muthusamy, KA (2018). "A Review of the Pedunculopontine Nucleus in
+Parkinson's Disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933166). Frontiers in
+Aging Neuroscience. 10: 99. doi:10.3389/fnagi.2018.00099 (https://doi.org/10.3389%2Ffnag
+i.2018.00099). PMC 5933166 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5933166).
+PMID 29755338 (https://pubmed.ncbi.nlm.nih.gov/29755338).
+Intrinsic plasticity (http://www.scholarpedia.org/article/Intrinsic_plasticity) Robert H.
+Cudmore, Niraj S. Desai Scholarpedia 3(2):1363. doi:10.4249/scholarpedia.1363
+Comparison of Neural Networks in the Brain and Artificial Neural Networks (https://web.archi
+ve.org/web/20040807104201/http://www.his.sunderland.ac.uk/ps/worksh2/denham.pdf)
+Lecture notes at MIT OpenCourseWare (https://web.archive.org/web/20051024152350/http://
+ocw.mit.edu/OcwWeb/Brain-and-Cognitive-Sciences/9-95-AResearch-Topics-in-Neuroscien
+ceJanuary--IAP-2003/LectureNotes/)
+Computation in the Brain (http://www.willamette.edu/~gorr/classes/cs449/brain.html)
+Biological Neural Network Toolbox (http://www.ymer.org/amir/software/biological-neural-net
+works-toolbox/) - A free Matlab toolbox for simulating networks of several different types of
+neurons
+WormWeb.org: Interactive Visualization of the C. elegans Neural Network (http://wormweb.or
+g/neuralnet.html) - C. elegans, a nematode with 302 neurons, is the only organism for whom
+the entire neural network has been uncovered. Use this site to browse through the network
+and to search for paths between any 2 neurons.
+Introduction to Neurons and Neuronal Networks (http://nba.uth.tmc.edu/neuroscience/s1/intro
+duction.html), Neuroscience Online (electronic neuroscience textbook)
+Delaying Pulse Networks (Wave Interference Networks) (http://www.gfai.de/~heinz/publicatio
+ns/NI/index.htm)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Neural_circuit&oldid=1218755138"
+Further reading
+External links

@@ -1,0 +1,644 @@
+Prefrontal cortex
+Brodmann areas, 8, 9, 10, 11, 12, 13, 14, 24,
+25, 32, 44, 45, 46, and 47 are all in the
+prefrontal cortex[1]
+Details
+Part of
+Frontal lobe
+Parts
+Superior frontal gyrus
+Middle frontal gyrus
+Inferior frontal gyrus
+Artery
+Anterior cerebral
+Middle cerebral
+Vein
+Superior sagittal sinus
+Identifiers
+Latin
+cortex praefrontalis
+MeSH
+D017397 (https://meshb.nlm.ni
+h.gov/record/ui?ui=D017397)
+NeuroNames 2429 (http://braininfo.rprc.washi
+ngton.edu/centraldirectory.asp
+x?ID=2429)
+NeuroLex ID
+nlx_anat_090801 (http://uri.neui
+nfo.org/nif/nifstd/nlx_anat_0908
+01), ilx_0109209 (http://uri.neui
+nfo.org/nif/nifstd/ilx_0109209)
+FMA
+224850 (https://bioportal.bioont
+ology.org/ontologies/FMA/?p=cl
+asses&conceptid=http%3A%2
+F%2Fpurl.org%2Fsig%2Font%2
+Ffma%2Ffma224850)
+Anatomical terms of neuroanatomy
+Prefrontal cortex
+In mammalian brain anatomy, the prefrontal cortex
+(PFC) covers the front part of the frontal lobe of the
+cerebral cortex. It is the association cortex in the frontal
+lobe.[2] The PFC contains the Brodmann areas BA8,
+BA9, BA10, BA11, BA12, BA13, BA14, BA24,
+BA25, BA32, BA44, BA45, BA46, and BA47.[1]
+This brain region is involved in a wide range of higher-
+order cognitive functions, including speech formation
+(Broca's area), gaze (frontal eye fields), working
+memory (dorsolateral prefrontal cortex), and risk
+processing (e.g. ventromedial prefrontal cortex). The
+basic activity of this brain region is considered to be
+orchestration of thoughts and actions in accordance
+with internal goals.[3] Many authors have indicated an
+integral link between a person's will to live, personality,
+and the functions of the prefrontal cortex.[4]
+This brain region has been implicated in executive
+functions, such as planning, decision making, working
+memory, personality expression, moderating social
+behavior and controlling certain aspects of speech and
+language.[5][6][7][8] Executive function relates to
+abilities to differentiate among conflicting thoughts,
+determine good and bad, better and best, same and
+different, future consequences of current activities,
+working toward a defined goal, prediction of outcomes,
+expectation based on actions, and social "control" (the
+ability to suppress urges that, if not suppressed, could
+lead to socially unacceptable outcomes).
+The frontal cortex supports concrete rule learning, with
+more anterior regions supporting rule learning at higher
+levels of abstraction.[9]
+There are three possible ways to define the prefrontal
+cortex:
+Structure
+Definition
+as the granular frontal cortex
+as the projection zone of the medial dorsal nucleus of the thalamus
+as that part of the frontal cortex whose electrical stimulation does not evoke movements
+The prefrontal cortex has been defined based on cytoarchitectonics by the presence of a cortical granular
+layer IV. It is not entirely clear who first used this criterion. Many of the early cytoarchitectonic researchers
+restricted the use of the term prefrontal to a much smaller region of cortex including the gyrus rectus and the
+gyrus rostralis (Campbell, 1905; G. E. Smith, 1907; Brodmann, 1909; von Economo and Koskinas, 1925).
+In 1935, however, Jacobsen used the term prefrontal to distinguish granular prefrontal areas from agranular
+motor and premotor areas.[10] In terms of Brodmann areas, the prefrontal cortex traditionally includes areas
+8, 9, 10, 11, 12, 13, 14, 24, 25, 32, 44, 45, 46, and 47,[1] however, not all of these areas are strictly granular
+– 44 is dysgranular, caudal 11 and orbital 47 are agranular.[11] The main problem with this definition is that
+it works well only in primates but not in nonprimates, as the latter lack a granular layer IV.[12]
+To define the prefrontal cortex as the projection zone of the mediodorsal nucleus of the thalamus builds on
+the work of Rose and Woolsey,[13] who showed that this nucleus projects to anterior and ventral parts of the
+brain in nonprimates, however, Rose and Woolsey termed this projection zone "orbitofrontal." It seems to
+have been Akert, who, for the first time in 1964, explicitly suggested that this criterion could be used to
+define homologues of the prefrontal cortex in primates and nonprimates.[14] This allowed the establishment
+of homologies despite the lack of a granular frontal cortex in nonprimates.
+The projection zone definition is still widely accepted today (e.g. Fuster[15]), although its usefulness has
+been questioned.[11][16] Modern tract tracing studies have shown that projections of the mediodorsal
+nucleus of the thalamus are not restricted to the granular frontal cortex in primates. As a result, it was
+suggested to define the prefrontal cortex as the region of cortex that has stronger reciprocal connections
+with the mediodorsal nucleus than with any other thalamic nucleus.[12] Uylings et al.[12] acknowledge,
+however, that even with the application of this criterion, it might be rather difficult to define the prefrontal
+cortex unequivocally.
+A third definition of the prefrontal cortex is the area of frontal cortex whose electrical stimulation does not
+lead to observable movements. For example, in 1890 David Ferrier[17] used the term in this sense. One
+complication with this definition is that the electrically "silent" frontal cortex includes both granular and
+non-granular areas.[11]
+According to Striedter,[18] the PFC of humans can be delineated into two functionally, morphologically, and
+evolutionarily different regions: the ventromedial PFC (vmPFC) consisting of:
+1. the ventral prefrontal cortex (VPFC)
+2. the medial prefrontal cortex present in all mammals (MPFC)
+and the lateral prefrontal cortex (LPFC), consisting of:
+Granular frontal cortex
+Projection zone
+Electrically silent area of frontal cortex
+Subdivisions
+1. the dorsolateral prefrontal
+cortex (DLPFC)
+2. the ventrolateral prefrontal
+cortex (VLPFC) present only in
+primates.
+The LPFC contains the Brodmann
+areas BA8, BA9, BA10, BA45,
+BA46, and BA47. Some researchers
+also include BA44. The vmPFC
+contains the Brodmann areas BA12,
+BA25, BA32, BA33, BA24, BA11,
+BA13, and BA14.
+The table below shows different ways
+to subdivide parts of the human
+prefrontal 
+cortex 
+based 
+upon
+Brodmann areas.[1]
+8
+9
+10
+46
+45
+47
+44
+12
+25
+32
+33
+24
+11
+13
+14
+lateral
+ventromedial
+dorsolateral
+ventrolateral
+medial
+ventral
+The dorsolateral prefrontal cortex is composed of the BA8, BA9, BA10, and BA46.[1]
+The ventrolateral prefrontal cortex is composed of areas BA45, BA47, and BA44.[1]
+The medial prefrontal cortex (mPFC) is composed of BA12, BA25, and anterior cingulate
+cortex: BA32, BA33, BA24.[1] Within that area is the dorsal nexus, which interconnects many
+parts of the brain.[19]
+The ventral prefrontal cortex is composed of areas BA11, BA13, and BA14.[1] (Also see
+the definition of the orbitofrontal cortex.)
+The dorsolateral prefrontal cortex contains BA8, including the frontal eye fields.[1]
+The ventrolateral prefrontal cortex contains BA45 which is part of Broca's area.[20] Some
+researchers also include BA44 the other part of Broca's area.
+The prefrontal cortex is highly interconnected with much of the brain, including extensive connections with
+other cortical, subcortical and brain stem sites.[21] The dorsal prefrontal cortex is especially interconnected
+with brain regions involved with attention, cognition and action,[22] while the ventral prefrontal cortex
+Interconnections
+interconnects with brain regions involved with emotion.[23] The prefrontal cortex also receives inputs from
+the brainstem arousal systems, and its function is particularly dependent on its neurochemical
+environment.[24] Thus, there is coordination between one's state of arousal and mental state.[25] The
+interplay between the prefrontal cortex and socioemotional system of the brain is relevant for adolescent
+development, as proposed by the Dual Systems Model.
+The medial prefrontal cortex has been implicated in the generation of slow-wave sleep (SWS), and
+prefrontal atrophy has been linked to decreases in SWS.[26] Prefrontal atrophy occurs naturally as
+individuals age, and it has been demonstrated that older adults experience impairments in memory
+consolidation as their medial prefrontal cortices degrade.[26] In older adults, instead of being transferred and
+stored in the neocortex during SWS, memories start to remain in the hippocampus where they were
+encoded, as evidenced by increased hippocampal activation compared to younger adults during recall tasks,
+when subjects learned word associations, slept, and then were asked to recall the learned words.[26]
+The ventrolateral prefrontal cortex (VLPFC) has been implicated in various aspects of speech production
+and language comprehension. The VLPFC is richly connected to various regions of the brain including the
+lateral and medial temporal lobe, the superior temporal cortex, the infertemporal cortex, the perirhinal
+cortex, and the parahippoccampal cortex.[27] These brain areas are implicated in memory retrieval and
+consolidation, language processing, and association of emotions. These connections allow the VLPFC to
+mediate explicit and implicit memory retrieval and integrate it with language stimulus to help plan coherent
+speech.[28] In other words, choosing the correct words and staying "on topic" during conversation come
+from the VLPFC.
+The original studies of Fuster and of Goldman-Rakic emphasized the fundamental ability of the prefrontal
+cortex to represent information not currently in the environment, and the central role of this function in
+creating the "mental sketch pad". Goldman-Rakic spoke of how this representational knowledge was used
+to intelligently guide thought, action, and emotion, including the inhibition of inappropriate thoughts,
+distractions, actions, and feelings.[29] In this way, working memory can be seen as fundamental to attention
+and behavioral inhibition. Fuster speaks of how this prefrontal ability allows the wedding of past to future,
+allowing both cross-temporal and cross-modal associations in the creation of goal-directed, perception-
+action cycles.[30] This ability to represent underlies all other higher executive functions.
+Shimamura proposed Dynamic Filtering Theory to describe the role of the prefrontal cortex in executive
+functions. The prefrontal cortex is presumed to act as a high-level gating or filtering mechanism that
+enhances goal-directed activations and inhibits irrelevant activations. This filtering mechanism enables
+executive control at various levels of processing, including selecting, maintaining, updating, and rerouting
+activations. It has also been used to explain emotional regulation.[31]
+Miller and Cohen proposed an Integrative Theory of Prefrontal Cortex Function, that arises from the
+original work of Goldman-Rakic and Fuster. The two theorize that "cognitive control stems from the active
+maintenance of patterns of activity in the prefrontal cortex that represents goals and means to achieve them.
+They provide bias signals to other brain structures whose net effect is to guide the flow of activity along
+Function
+Executive function
+neural pathways that establish the proper mappings between inputs, internal states, and outputs needed to
+perform a given task".[32] In essence, the two theorize that the prefrontal cortex guides the inputs and
+connections, which allows for cognitive control of our actions.
+The prefrontal cortex is of significant importance when top-down processing is needed. Top-down
+processing by definition is when behavior is guided by internal states or intentions. According to the two,
+"The PFC is critical in situations when the mappings between sensory inputs, thoughts, and actions either
+are weakly established relative to other existing ones or are rapidly changing".[32] An example of this can
+be portrayed in the Wisconsin Card Sorting Test (WCST). Subjects engaging in this task are instructed to
+sort cards according to the shape, color, or number of symbols appearing on them. The thought is that any
+given card can be associated with a number of actions and no single stimulus-response mapping will work.
+Human subjects with PFC damage are able to sort the card in the initial simple tasks, but unable to do so as
+the rules of classification change.
+Miller and Cohen conclude that the implications of their theory can explain how much of a role the PFC has
+in guiding control of cognitive actions. In the researchers' own words, they claim that, "depending on their
+target of influence, representations in the PFC can function variously as attentional templates, rules, or goals
+by providing top-down bias signals to other parts of the brain that guide the flow of activity along the
+pathways needed to perform a task".[32]
+Experimental data indicate a role for the prefrontal cortex in mediating normal sleep physiology, dreaming
+and sleep-deprivation phenomena.[33]
+When analyzing and thinking about attributes of other individuals, the medial prefrontal cortex is activated,
+however, it is not activated when contemplating the characteristics of inanimate objects.[34]
+Studies using fMRI have shown that the medial prefrontal cortex (mPFC), specifically the anterior medial
+prefrontal cortex (amPFC), may modulate mimicry behavior. Neuroscientists are suggesting that social
+priming influences activity and processing in the amPFC, and that this area of the prefrontal cortex
+modulates mimicry responses and behavior.[35]
+As of recent, researchers have used neuroimaging techniques to find that along with the basal ganglia, the
+prefrontal cortex is involved with learning exemplars, which is part of the exemplar theory, one of the three
+main ways our mind categorizes things. The exemplar theory states that we categorize judgements by
+comparing it to a similar past experience within our stored memories.[36]
+A 2014 meta-analysis by Professor Nicole P.Yuan from the University of Arizona found that larger
+prefrontal cortex volume and greater PFC cortical thickness were associated with better executive
+performance.[37]
+A widely accepted theory regarding the function of the brain's prefrontal cortex is that it serves as a store of
+short-term memory. This idea was first formulated by Jacobsen, who reported in 1936 that damage to the
+primate prefrontal cortex caused short-term memory deficits.[39] Karl Pribram and colleagues (1952)
+identified the part of the prefrontal cortex responsible for this deficit as area 46, also known as the
+dorsolateral prefrontal cortex (dlPFC).[40] More recently, Goldman-Rakic and colleagues (1993) evoked
+short-term memory loss in localized regions of space by temporary inactivation of portions of the dlPFC.[41]
+Attention and memory
+Lebedev et al. experiment that dissociated representation of spatial attention from representation of
+spatial memory in prefrontal cortex [38]
+Once
+the
+concept of working memory (see also Baddeley's model of working memory) was established in
+contemporary neuroscience by Alan Baddeley (1986), these neuropsychological findings contributed to the
+theory that the prefrontal cortex implements working memory and, in some extreme formulations, only
+working memory.[42] In the 1990s this theory developed a wide following, and it became the predominant
+theory of PF function, especially for nonhuman primates. The concept of working memory used by
+proponents of this theory focused mostly on the short-term maintenance of information, and rather less on
+the manipulation or monitoring of such information or on the use of that information for decisions.
+Consistent with the idea that the prefrontal cortex functions predominantly in maintenance memory, delay-
+period activity in the PF has often been interpreted as a memory trace. (The phrase "delay-period activity"
+applies to neuronal activity that follows the transient presentation of an instruction cue and persists until a
+subsequent "go" or "trigger" signal.)
+To explore alternative interpretations of delay-period activity in the prefrontal cortex, Lebedev et al. (2004)
+investigated the discharge rates of single prefrontal neurons as monkeys attended to a stimulus marking one
+location while remembering a different, unmarked location.[38] Both locations served as potential targets of
+a saccadic eye movement. Although the task made intensive demands on short-term memory, the largest
+proportion of prefrontal neurons represented attended locations, not remembered ones. These findings
+showed that short-term memory functions cannot account for all, or even most, delay-period activity in the
+part of the prefrontal cortex explored. The authors suggested that prefrontal activity during the delay-period
+contributes more to the process of attentional selection (and selective attention) than to memory
+storage.[8][43]
+Various areas of the prefrontal cortex have been implicated in a multitude of critical functions regarding
+speech production, language comprehension, and response planning before speaking.[7] Cognitive
+neuroscience has shown that the left ventrolateral prefrontal cortex is vital in the processing of words and
+sentences.
+Speech production and language
+The right prefrontal cortex has been found to be responsible for coordinating the retrieval of explicit
+memory for use in speech, whereas the deactivation of the left is responsible for mediating implicit memory
+retrieval to be used in verb generation.[7] Recollection of nouns (explicit memory) is impaired in some
+amnesic patients with damaged right prefrontal cortices, but verb generation remains intact because of its
+reliance on left prefrontal deactivation.[28]
+Many researchers now include BA45 in the prefrontal cortex because together with BA44 it makes up an
+area of the frontal lobe called Broca's area.[20] Broca's Area is widely considered the output area of the
+language production pathway in the brain (as opposed to Wernicke's area in the medial temporal lobe,
+which is seen as the language input area). BA45 has been shown to be implicated for the retrieval of
+relevant semantic knowledge to be used in conversation/speech.[7] The right lateral prefrontal cortex
+(RLPFC) is implicated in the planning of complex behavior, and together with bilateral BA45, they act to
+maintain focus and coherence during speech production.[28] However, left BA45 has been shown to be
+activated significantly while maintaining speech coherence in young people. Older people have been shown
+to recruit the right BA45 more so than their younger counterparts.[28] This aligns with the evidence of
+decreased lateralization in other brain systems during aging.
+In addition, this increase in BA45 and RLPFC activity in combination of BA47 in older patients has been
+shown to contribute to "off-topic utterances." The BA47 area in the prefrontal cortex is implicated in
+"stimulus-driven" retrieval of less-salient knowledge than is required to contribute to a conversation.[28] In
+other words, elevated activation of the BA47 together with altered activity in BA45 and the broader
+RLPFC has been shown to contribute to the inclusion of less relevant information and irrelevant tangential
+conversational speech patterns in older subjects.
+In the last few decades, brain imaging systems have been used to determine brain region volumes and nerve
+linkages. Several studies have indicated that reduced volume and interconnections of the frontal lobes with
+other brain regions is observed in patients diagnosed with mental disorders; those subjected to repeated
+stressors;[44] those who excessively consume sexually explicit materials;[45] suicides;[46] criminals;
+sociopaths; those affected by lead poisoning;[47] It is believed that at least some of the human abilities to
+feel guilt or remorse, and to interpret reality, are dependent on a well-functioning prefrontal cortex.[48] The
+advanced neurocircuitry and self-regulatory function of the human prefrontal cortex is also associated with
+the higher sentience in humans,[49] as the prefrontal cortex in humans occupies a far larger percentage of
+the brain than in any other animal. It is theorized that, as the brain has tripled in size over five million years
+of human evolution,[50] the prefrontal cortex has increased in size sixfold.[51]
+A review on executive functions in healthy exercising individuals noted that the left and right halves of the
+prefrontal cortex, which is divided by the medial longitudinal fissure, appears to become more
+interconnected in response to consistent aerobic exercise.[52] Two reviews of structural neuroimaging
+research indicate that marked improvements in prefrontal and hippocampal gray matter volume occur in
+healthy adults that engage in medium intensity exercise for several months.[53][54]
+Clinical significance
+Chronic intake of alcohol leads to persistent alterations in brain function including altered decision-making
+ability. The prefrontal cortex of chronic alcoholics has been shown to be vulnerable to oxidative DNA
+damage and neuronal cell death.[55]
+Perhaps the seminal case in prefrontal cortex function is that of Phineas Gage, whose left frontal lobe was
+destroyed when a large iron rod was driven through his head in an 1848 accident. The standard presentation
+is that, although Gage retained normal memory, speech and motor skills, his personality changed radically:
+He became irritable, quick-tempered, and impatient—characteristics he did not previously display — so that
+friends described him as "no longer Gage"; and, whereas he had previously been a capable and efficient
+worker, afterward he was unable to complete.[56] However, careful analysis of primary evidence shows that
+descriptions of Gage's psychological changes are usually exaggerated when held against the description
+given by Gage's doctor, the most striking feature being that changes described years after Gage's death are
+far more dramatic than anything reported while he was alive.[57][58]
+Subsequent studies on patients with prefrontal injuries have shown that the patients verbalized what the
+most appropriate social responses would be under certain circumstances. Yet, when actually performing,
+they instead pursued behavior aimed at immediate gratification, despite knowing the longer-term results
+would be self-defeating.
+The interpretation of this data indicates that not only are skills of comparison and understanding of eventual
+outcomes harbored in the prefrontal cortex but the prefrontal cortex (when functioning correctly) controls
+the mental option to delay immediate gratification for a better or more rewarding longer-term gratification
+result. This ability to wait for a reward is one of the key pieces that define optimal executive function of the
+human brain.
+There is much current research devoted to understanding the role of the prefrontal cortex in neurological
+disorders. Clinical trials have begun on certain drugs that have been shown to improve prefrontal cortex
+function, including guanfacine, which acts through the alpha-2A adrenergic receptor. A downstream target
+of this drug, the HCN channel, is one of the most recent areas of exploration in prefrontal cortex
+pharmacology.[59]
+History
+Etymology
+The term "prefrontal" as describing a part of the brain appears to have been introduced by Richard Owen in
+1868.[10] For him, the prefrontal area was restricted to the anterior-most part of the frontal lobe
+(approximately corresponding to the frontal pole). It has been hypothesized that his choice of the term was
+based on the prefrontal bone present in most amphibians and reptiles.[10]
+Animation, prefrontal
+cortex of left cerebral
+hemisphere (shown in
+red)
+ 
+Front view
+ 
+Lateral view
+ 
+Medial perspective
+Lobotomy
+Interference theory
+Self-model theory of subjectivity
+Dorsomedial prefrontal cortex
+Ventromedial prefrontal cortex
+1. Murray E, Wise S, Grahatle K (2016). "Chapter 1: The History of Memory Systems" (https://bo
+oks.google.com/books?id=eMNjDQAAQBAJ&pg=PA24). The Evolution of Memory Systems:
+Ancestors, Anatomy, and Adaptations (1st ed.). Oxford University Press. pp. 22–24.
+ISBN 978-0-19-150995-7. Retrieved 12 March 2017.
+2. "Prefrontal Cortex - an overview | ScienceDirect Topics" (https://www.sciencedirect.com/topic
+s/veterinary-science-and-veterinary-medicine/prefrontal-cortex). www.sciencedirect.com.
+Retrieved 2024-02-08.
+3. Miller EK, Freedman DJ, Wallis JD (August 2002). "The prefrontal cortex: categories,
+concepts and cognition" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693009).
+Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences.
+357 (1424): 1123–1136. doi:10.1098/rstb.2002.1099 (https://doi.org/10.1098%2Frstb.2002.1
+099). PMC 1693009 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693009).
+PMID 12217179 (https://pubmed.ncbi.nlm.nih.gov/12217179).
+Additional images
+See also
+References
+4. DeYoung CG, Hirsh JB, Shane MS, Papademetris X, Rajeevan N, Gray JR (June 2010).
+"Testing predictions from personality neuroscience. Brain structure and the big five" (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3049165). Psychological Science. 21 (6): 820–828.
+doi:10.1177/0956797610370159 (https://doi.org/10.1177%2F0956797610370159).
+PMC 3049165 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049165). PMID 20435951 (h
+ttps://pubmed.ncbi.nlm.nih.gov/20435951).
+5. João, Rafael Batista; Filgueiras, Raquel Mattos (2018-10-03), Starcevic, Ana; Filipovic,
+Branislav (eds.), "Frontal Lobe: Functional Neuroanatomy of Its Circuitry and Related
+Disconnection Syndromes" (http://www.intechopen.com/books/prefrontal-cortex/frontal-lobe-f
+unctional-neuroanatomy-of-its-circuitry-and-related-disconnection-syndromes), Prefrontal
+Cortex, InTech, doi:10.5772/intechopen.79571 (https://doi.org/10.5772%2Fintechopen.7957
+1), ISBN 978-1-78923-903-4, retrieved 2023-06-24
+6. Yang Y, Raine A (November 2009). "Prefrontal structural and functional brain imaging
+findings in antisocial, violent, and psychopathic individuals: a meta-analysis" (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC2784035). Psychiatry Research. 174 (2): 81–88.
+doi:10.1016/j.pscychresns.2009.03.012 (https://doi.org/10.1016%2Fj.pscychresns.2009.03.0
+12). PMC 2784035 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2784035).
+PMID 19833485 (https://pubmed.ncbi.nlm.nih.gov/19833485).
+7. Gabrieli JD, Poldrack RA, Desmond JE (February 1998). "The role of left prefrontal cortex in
+language and memory" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33815). Proceedings
+of the National Academy of Sciences of the United States of America. 95 (3): 906–913.
+Bibcode:1998PNAS...95..906G (https://ui.adsabs.harvard.edu/abs/1998PNAS...95..906G).
+doi:10.1073/pnas.95.3.906 (https://doi.org/10.1073%2Fpnas.95.3.906). PMC 33815 (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC33815). PMID 9448258 (https://pubmed.ncbi.nlm.ni
+h.gov/9448258).
+8. Baldauf D, Desimone R (April 2014). "Neural mechanisms of object-based attention" (https://
+doi.org/10.1126%2Fscience.1247003). Science. 344 (6182): 424–427.
+Bibcode:2014Sci...344..424B (https://ui.adsabs.harvard.edu/abs/2014Sci...344..424B).
+doi:10.1126/science.1247003 (https://doi.org/10.1126%2Fscience.1247003).
+PMID 24763592 (https://pubmed.ncbi.nlm.nih.gov/24763592). S2CID 34728448 (https://api.s
+emanticscholar.org/CorpusID:34728448).
+9. Badre D, Kayser AS, D'Esposito M (April 2010). "Frontal cortex and the discovery of abstract
+action rules" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990347). Neuron. 66 (2): 315–
+326. doi:10.1016/j.neuron.2010.03.025 (https://doi.org/10.1016%2Fj.neuron.2010.03.025).
+PMC 2990347 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990347). PMID 20435006 (h
+ttps://pubmed.ncbi.nlm.nih.gov/20435006).
+10. Finger S (1994). Origins of neuroscience: a history of explorations into brain function. Oxford
+[Oxfordshire]: Oxford University Press. ISBN 978-0-19-514694-3.
+11. Preuss TM (1995). "Do rats have prefrontal cortex? The rose-woolsey-akert program
+reconsidered". Journal of Cognitive Neuroscience. 7 (1): 1–24. doi:10.1162/jocn.1995.7.1.1
+(https://doi.org/10.1162%2Fjocn.1995.7.1.1). PMID 23961750 (https://pubmed.ncbi.nlm.nih.g
+ov/23961750). S2CID 2856619 (https://api.semanticscholar.org/CorpusID:2856619).
+12. Uylings HB, Groenewegen HJ, Kolb B (November 2003). "Do rats have a prefrontal cortex?".
+Behavioural Brain Research. 146 (1–2): 3–17. doi:10.1016/j.bbr.2003.09.028 (https://doi.org/
+10.1016%2Fj.bbr.2003.09.028). PMID 14643455 (https://pubmed.ncbi.nlm.nih.gov/1464345
+5). S2CID 32136463 (https://api.semanticscholar.org/CorpusID:32136463).
+13. Rose JE, Woolsey CN (1948). "The orbitofrontal cortex and its connections with the
+mediodorsal nucleus in rabbit, sheep and cat". Research Publications – Association for
+Research in Nervous and Mental Disease. 27: 210–232. PMID 18106857 (https://pubmed.nc
+bi.nlm.nih.gov/18106857).
+14. Preuss TM, Goldman-Rakic PS (August 1991). "Myelo- and cytoarchitecture of the granular
+frontal cortex and surrounding regions in the strepsirhine primate Galago and the anthropoid
+primate Macaca". The Journal of Comparative Neurology. 310 (4): 429–474.
+doi:10.1002/cne.903100402 (https://doi.org/10.1002%2Fcne.903100402). PMID 1939732 (ht
+tps://pubmed.ncbi.nlm.nih.gov/1939732). S2CID 34575725 (https://api.semanticscholar.org/
+CorpusID:34575725).
+15. Fuster JM (2008). The Prefrontal Cortex (4th ed.). Boston: Academic Press. ISBN 978-0-12-
+373644-4.
+16. Markowitsch HJ, Pritzel M (1979). "The prefrontal cortex: Projection area of the thalamic
+mediodorsal nucleus?" (https://doi.org/10.3758%2Fbf03326611). Physiological Psychology.
+7 (1): 1–6. doi:10.3758/bf03326611 (https://doi.org/10.3758%2Fbf03326611).
+17. Ferrier D (June 1890). "The Croonian Lectures on Cerebral Localisation" (https://www.ncbi.n
+lm.nih.gov/pmc/articles/PMC2207859). British Medical Journal. 1 (1537): 1349–1355.
+doi:10.1136/bmj.1.1537.1349 (https://doi.org/10.1136%2Fbmj.1.1537.1349). PMC 2207859
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2207859). PMID 20753055 (https://pubmed.n
+cbi.nlm.nih.gov/20753055).
+18. Striedter GF (2005). Principles of brain evolution (https://psycnet.apa.org/record/2004-21314-
+000). Sinauer Associates. ISBN 978-0-87893-820-9.
+19. Sheline, Yvette; Yan, Shizi (2010). "Resting-state functional MRI in depression unmasks
+increased connectivity between networks via the dorsal nexus" (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC2890754). PNAS. 107 (24): 11020–11025.
+Bibcode:2010PNAS..10711020S (https://ui.adsabs.harvard.edu/abs/2010PNAS..10711020
+S). doi:10.1073/pnas.1000446107 (https://doi.org/10.1073%2Fpnas.1000446107).
+PMC 2890754 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2890754). PMID 20534464 (h
+ttps://pubmed.ncbi.nlm.nih.gov/20534464).
+20. "Broca area | anatomy" (https://www.britannica.com/science/Broca-area). Encyclopedia
+Britannica. Retrieved 2019-12-12.
+21. Alvarez JA, Emory E (March 2006). "Executive function and the frontal lobes: a meta-analytic
+review". Neuropsychology Review. 16 (1): 17–42. doi:10.1007/s11065-006-9002-x (https://d
+oi.org/10.1007%2Fs11065-006-9002-x). PMID 16794878 (https://pubmed.ncbi.nlm.nih.gov/1
+6794878). S2CID 207222975 (https://api.semanticscholar.org/CorpusID:207222975).
+22. Goldman-Rakic PS (1988). "Topography of cognition: parallel distributed networks in primate
+association cortex". Annual Review of Neuroscience. 11: 137–156.
+doi:10.1146/annurev.ne.11.030188.001033 (https://doi.org/10.1146%2Fannurev.ne.11.0301
+88.001033). PMID 3284439 (https://pubmed.ncbi.nlm.nih.gov/3284439).
+23. Price JL (June 1999). "Prefrontal cortical networks related to visceral function and mood".
+Annals of the New York Academy of Sciences. 877 (1): 383–396.
+Bibcode:1999NYASA.877..383P (https://ui.adsabs.harvard.edu/abs/1999NYASA.877..383
+P). doi:10.1111/j.1749-6632.1999.tb09278.x (https://doi.org/10.1111%2Fj.1749-6632.1999.tb
+09278.x). PMID 10415660 (https://pubmed.ncbi.nlm.nih.gov/10415660). S2CID 37564764 (h
+ttps://api.semanticscholar.org/CorpusID:37564764).
+24. Robbins TW, Arnsten AF (2009). "The neuropsychopharmacology of fronto-executive
+function: monoaminergic modulation" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC28631
+27). Annual Review of Neuroscience. 32: 267–287.
+doi:10.1146/annurev.neuro.051508.135535 (https://doi.org/10.1146%2Fannurev.neuro.0515
+08.135535). PMC 2863127 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863127).
+PMID 19555290 (https://pubmed.ncbi.nlm.nih.gov/19555290).
+25. Arnsten AF, Paspalas CD, Gamo NJ, Yang Y, Wang M (August 2010). "Dynamic Network
+Connectivity: A new form of neuroplasticity" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2
+914830). Trends in Cognitive Sciences. 14 (8): 365–375. doi:10.1016/j.tics.2010.05.003 (http
+s://doi.org/10.1016%2Fj.tics.2010.05.003). PMC 2914830 (https://www.ncbi.nlm.nih.gov/pmc/
+articles/PMC2914830). PMID 20554470 (https://pubmed.ncbi.nlm.nih.gov/20554470).
+26. Mander BA, Rao V, Lu B, Saletin JM, Lindquist JR, Ancoli-Israel S, et al. (March 2013).
+"Prefrontal atrophy, disrupted NREM slow waves and impaired hippocampal-dependent
+memory in aging" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286370). Nature
+Neuroscience. 16 (3): 357–364. doi:10.1038/nn.3324 (https://doi.org/10.1038%2Fnn.3324).
+PMC 4286370 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4286370). PMID 23354332 (h
+ttps://pubmed.ncbi.nlm.nih.gov/23354332).
+27. Kuhl BA, Wagner AD (2009-01-01). "Strategic Control of Memory". In Squire LR (ed.).
+Encyclopedia of Neuroscience. Academic Press. pp. 437–444. doi:10.1016/b978-
+008045046-9.00424-1 (https://doi.org/10.1016%2Fb978-008045046-9.00424-1). ISBN 978-
+0-08-045046-9.
+28. Hoffman P (January 2019). "Reductions in prefrontal activation predict off-topic utterances
+during speech production" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6355898). Nature
+Communications. 10 (1): 515. Bibcode:2019NatCo..10..515H (https://ui.adsabs.harvard.edu/
+abs/2019NatCo..10..515H). doi:10.1038/s41467-019-08519-0 (https://doi.org/10.1038%2Fs4
+1467-019-08519-0). PMC 6355898 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC635589
+8). PMID 30705284 (https://pubmed.ncbi.nlm.nih.gov/30705284).
+29. Goldman-Rakic PS (October 1996). "The prefrontal landscape: implications of functional
+architecture for understanding human mentation and the central executive". Philosophical
+Transactions of the Royal Society of London. Series B, Biological Sciences. 351 (1346):
+1445–1453. doi:10.1098/rstb.1996.0129 (https://doi.org/10.1098%2Frstb.1996.0129).
+JSTOR 3069191 (https://www.jstor.org/stable/3069191). PMID 8941956 (https://pubmed.ncb
+i.nlm.nih.gov/8941956).
+30. Fuster JM, Bodner M, Kroger JK (May 2000). "Cross-modal and cross-temporal association
+in neurons of frontal cortex". Nature. 405 (6784): 347–351. Bibcode:2000Natur.405..347F (htt
+ps://ui.adsabs.harvard.edu/abs/2000Natur.405..347F). doi:10.1038/35012613 (https://doi.org/
+10.1038%2F35012613). PMID 10830963 (https://pubmed.ncbi.nlm.nih.gov/10830963).
+S2CID 4421762 (https://api.semanticscholar.org/CorpusID:4421762).
+31. Shimamura AP (2000). "The role of the prefrontal cortex in dynamic filtering" (https://doi.org/1
+0.3758%2FBF03331979). Psychobiology. 28 (2): 207–218. doi:10.3758/BF03331979 (http
+s://doi.org/10.3758%2FBF03331979). S2CID 140274181 (https://api.semanticscholar.org/Co
+rpusID:140274181).
+32. Miller EK, Cohen JD (2001). "An integrative theory of prefrontal cortex function". Annual
+Review of Neuroscience. 24: 167–202. doi:10.1146/annurev.neuro.24.1.167 (https://doi.org/1
+0.1146%2Fannurev.neuro.24.1.167). PMID 11283309 (https://pubmed.ncbi.nlm.nih.gov/1128
+3309). S2CID 7301474 (https://api.semanticscholar.org/CorpusID:7301474).
+33. Muzur A, Pace-Schott EF, Hobson JA (November 2002). "The prefrontal cortex in sleep".
+Trends in Cognitive Sciences. 6 (11): 475–481. doi:10.1016/S1364-6613(02)01992-7 (http
+s://doi.org/10.1016%2FS1364-6613%2802%2901992-7). PMID 12457899 (https://pubmed.n
+cbi.nlm.nih.gov/12457899). S2CID 5530174 (https://api.semanticscholar.org/CorpusID:5530
+174).
+34. Mitchell JP, Heatherton TF, Macrae CN (November 2002). "Distinct neural systems subserve
+person and object knowledge" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC137574).
+Proceedings of the National Academy of Sciences of the United States of America. 99 (23):
+15238–15243. Bibcode:2002PNAS...9915238M (https://ui.adsabs.harvard.edu/abs/2002PN
+AS...9915238M). doi:10.1073/pnas.232395699 (https://doi.org/10.1073%2Fpnas.23239569
+9). PMC 137574 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC137574). PMID 12417766
+(https://pubmed.ncbi.nlm.nih.gov/12417766).
+35. Wang Y, Hamilton AF (April 2015). "Anterior medial prefrontal cortex implements social
+priming of mimicry" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381231). Social
+Cognitive and Affective Neuroscience. 10 (4): 486–493. doi:10.1093/scan/nsu076 (https://do
+i.org/10.1093%2Fscan%2Fnsu076). PMC 4381231 (https://www.ncbi.nlm.nih.gov/pmc/article
+s/PMC4381231). PMID 25009194 (https://pubmed.ncbi.nlm.nih.gov/25009194).
+36. Schacter, Daniel L., Daniel Todd Gilbert, and Daniel M. Wegner. Psychology. 2nd ed, pages
+364–366 New York, NY: Worth Publishers, 2011. Print.
+37. Yuan P, Raz N (May 2014). "Prefrontal cortex and executive functions in healthy adults: a
+meta-analysis of structural neuroimaging studies" (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC4011981). Neuroscience and Biobehavioral Reviews. 42: 180–192.
+doi:10.1016/j.neubiorev.2014.02.005 (https://doi.org/10.1016%2Fj.neubiorev.2014.02.005).
+PMC 4011981 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4011981). PMID 24568942 (h
+ttps://pubmed.ncbi.nlm.nih.gov/24568942).
+38. Lebedev MA, Messinger A, Kralik JD, Wise SP (November 2004). "Representation of
+attended versus remembered locations in prefrontal cortex" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC524249). PLOS Biology. 2 (11): e365. doi:10.1371/journal.pbio.0020365 (http
+s://doi.org/10.1371%2Fjournal.pbio.0020365). PMC 524249 (https://www.ncbi.nlm.nih.gov/p
+mc/articles/PMC524249). PMID 15510225 (https://pubmed.ncbi.nlm.nih.gov/15510225). 
+39. Jacobsen C.F. (1936) Studies of cerebral function in primates. I. The functions of the frontal
+associations areas in monkeys. Comp Psychol Monogr 13: 3–60.
+40. Pribram KH, Mishkin M, Rosvold HE, Kaplan SJ (December 1952). "Effects on delayed-
+response performance of lesions of dorsolateral and ventromedial frontal cortex of baboons".
+Journal of Comparative and Physiological Psychology. 45 (6): 565–575.
+doi:10.1037/h0061240 (https://doi.org/10.1037%2Fh0061240). PMID 13000029 (https://pub
+med.ncbi.nlm.nih.gov/13000029).
+41. Funahashi S, Bruce CJ, Goldman-Rakic PS (April 1993). "Dorsolateral prefrontal lesions
+and oculomotor delayed-response performance: evidence for mnemonic "scotomas" " (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC6576716). The Journal of Neuroscience. 13 (4):
+1479–1497. doi:10.1523/JNEUROSCI.13-04-01479.1993 (https://doi.org/10.1523%2FJNEU
+ROSCI.13-04-01479.1993). PMC 6576716 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6
+576716). PMID 8463830 (https://pubmed.ncbi.nlm.nih.gov/8463830).
+42. Baddeley A. (1986) Working memory. Oxford: Oxford University Press. p.289
+43. Bedini M, Baldauf D (August 2021). "Structure, function and connectivity fingerprints of the
+frontal eye field versus the inferior frontal junction: A comprehensive comparison" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC9291791). The European Journal of Neuroscience. 54
+(4): 5462–5506. doi:10.1111/ejn.15393 (https://doi.org/10.1111%2Fejn.15393).
+PMC 9291791 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9291791). PMID 34273134 (h
+ttps://pubmed.ncbi.nlm.nih.gov/34273134). S2CID 235999643 (https://api.semanticscholar.or
+g/CorpusID:235999643).
+44. Liston C, Miller MM, Goldwater DS, Radley JJ, Rocher AB, Hof PR, et al. (July 2006).
+"Stress-induced alterations in prefrontal cortical dendritic morphology predict selective
+impairments in perceptual attentional set-shifting" (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC6674229). The Journal of Neuroscience. 26 (30): 7870–7874.
+doi:10.1523/JNEUROSCI.1184-06.2006 (https://doi.org/10.1523%2FJNEUROSCI.1184-06.
+2006). PMC 6674229 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6674229).
+PMID 16870732 (https://pubmed.ncbi.nlm.nih.gov/16870732).
+45. "Viewers of pornography have a smaller reward system" (https://www.mpg.de/8269068/porn
+ography-consumption-reward_system). MAX-PLANCK-GESELLSCHAFT. 2 June 2014.
+Retrieved 2 July 2018.
+46. Rajkowska G (December 1997). "Morphometric methods for studying the prefrontal cortex in
+suicide victims and psychiatric patients". Annals of the New York Academy of Sciences. 836
+(1): 253–268. Bibcode:1997NYASA.836..253R (https://ui.adsabs.harvard.edu/abs/1997NYA
+SA.836..253R). doi:10.1111/j.1749-6632.1997.tb52364.x (https://doi.org/10.1111%2Fj.1749-
+6632.1997.tb52364.x). PMID 9616803 (https://pubmed.ncbi.nlm.nih.gov/9616803).
+S2CID 32947726 (https://api.semanticscholar.org/CorpusID:32947726).
+47. Cecil KM, Brubaker CJ, Adler CM, Dietrich KN, Altaye M, Egelhoff JC, et al. (May 2008).
+Balmes J (ed.). "Decreased brain volume in adults with childhood lead exposure" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC2689675). PLOS Medicine. 5 (5): e112.
+doi:10.1371/journal.pmed.0050112 (https://doi.org/10.1371%2Fjournal.pmed.0050112).
+PMC 2689675 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689675). PMID 18507499 (h
+ttps://pubmed.ncbi.nlm.nih.gov/18507499). 
+48. Anderson SW, Bechara A, Damasio H, Tranel D, Damasio AR (November 1999).
+"Impairment of social and moral behavior related to early damage in human prefrontal
+cortex". Nature Neuroscience. 2 (11): 1032–1037. doi:10.1038/14833 (https://doi.org/10.103
+8%2F14833). PMID 10526345 (https://pubmed.ncbi.nlm.nih.gov/10526345).
+S2CID 204990285 (https://api.semanticscholar.org/CorpusID:204990285).
+49. Fariba K, Gokarakonda SB (2021). "Impulse Control Disorders" (http://www.ncbi.nlm.nih.gov/
+books/NBK562279/). StatPearls. Treasure Island (FL): StatPearls Publishing.
+PMID 32965950 (https://pubmed.ncbi.nlm.nih.gov/32965950). Retrieved 2021-05-04.
+50. Schoenemann PT, Budinger TF, Sarich VM, Wang WS (April 2000). "Brain size does not
+predict general cognitive ability within families" (https://www.ncbi.nlm.nih.gov/pmc/articles/P
+MC18335). Proceedings of the National Academy of Sciences of the United States of
+America. 97 (9): 4932–4937. Bibcode:2000PNAS...97.4932S (https://ui.adsabs.harvard.edu/
+abs/2000PNAS...97.4932S). doi:10.1073/pnas.97.9.4932 (https://doi.org/10.1073%2Fpnas.9
+7.9.4932). PMC 18335 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC18335).
+PMID 10781101 (https://pubmed.ncbi.nlm.nih.gov/10781101).
+51. Cascio T. "House & Psychology, Episode 14" (https://archive.today/20130408080640/http://w
+ww.psychologytoday.com/blog/hollywood-phd/201109/house-psychology-episode-14).
+Psychology Today. Archived from the original (http://www.psychologytoday.com/blog/hollywo
+od-phd/201109/house-psychology-episode-14) on 2013-04-08. Retrieved 2011-11-15.
+52. Guiney H, Machado L (February 2013). "Benefits of regular aerobic exercise for executive
+functioning in healthy populations" (https://doi.org/10.3758%2Fs13423-012-0345-4).
+Psychonomic Bulletin & Review. 20 (1): 73–86. doi:10.3758/s13423-012-0345-4 (https://doi.
+org/10.3758%2Fs13423-012-0345-4). PMID 23229442 (https://pubmed.ncbi.nlm.nih.gov/232
+29442). S2CID 24190840 (https://api.semanticscholar.org/CorpusID:24190840).
+53. Erickson KI, Leckie RL, Weinstein AM (September 2014). "Physical activity, fitness, and gray
+matter volume" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4094356). Neurobiology of
+Aging. 35 (Suppl 2): S20–S28. doi:10.1016/j.neurobiolaging.2014.03.034 (https://doi.org/10.
+1016%2Fj.neurobiolaging.2014.03.034). PMC 4094356 (https://www.ncbi.nlm.nih.gov/pmc/a
+rticles/PMC4094356). PMID 24952993 (https://pubmed.ncbi.nlm.nih.gov/24952993).
+54. Valkanova V, Eguia Rodriguez R, Ebmeier KP (June 2014). "Mind over matter--what do we
+know about neuroplasticity in adults?". International Psychogeriatrics. 26 (6): 891–909.
+doi:10.1017/S1041610213002482 (https://doi.org/10.1017%2FS1041610213002482).
+PMID 24382194 (https://pubmed.ncbi.nlm.nih.gov/24382194). S2CID 20765865 (https://api.s
+emanticscholar.org/CorpusID:20765865).
+55. Fowler AK, Thompson J, Chen L, Dagda M, Dertien J, Dossou KS, et al. (2014). "Differential
+sensitivity of prefrontal cortex and hippocampus to alcohol-induced toxicity" (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC4154772). PLOS ONE. 9 (9): e106945.
+Bibcode:2014PLoSO...9j6945F (https://ui.adsabs.harvard.edu/abs/2014PLoSO...9j6945F).
+doi:10.1371/journal.pone.0106945 (https://doi.org/10.1371%2Fjournal.pone.0106945).
+PMC 4154772 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154772). PMID 25188266 (h
+ttps://pubmed.ncbi.nlm.nih.gov/25188266).
+56. Antonio Damasio, Descartes' Error. Penguin Putman Pub., 1994
+57. Malcolm Macmillan, An Odd Kind of Fame: Stories of Phineas Gage (MIT Press, 2000),
+pp.116–119, 307–333, esp. pp.11,333.
+58. Macmillan M (2008). "Phineas Gage – Unravelling the myth" (https://web.archive.org/web/20
+100903034625/http://www.thepsychologist.org.uk/archive/archive_home.cfm?volumeID=21&
+editionID=164&ArticleID=1399). The Psychologist. 21 (9). British Psychological Society:
+828–831. Archived from the original (http://www.thepsychologist.org.uk/archive/archive_hom
+e.cfm?volumeID=21&editionID=164&ArticleID=1399) on 2010-09-03. Retrieved 2014-06-21.
+59. Wang M, Ramos BP, Paspalas CD, Shu Y, Simen A, Duque A, et al. (April 2007). "Alpha2A-
+adrenoceptors strengthen working memory networks by inhibiting cAMP-HCN channel
+signaling in prefrontal cortex" (https://doi.org/10.1016%2Fj.cell.2007.03.015). Cell. 129 (2):
+397–410. doi:10.1016/j.cell.2007.03.015 (https://doi.org/10.1016%2Fj.cell.2007.03.015).
+PMID 17448997 (https://pubmed.ncbi.nlm.nih.gov/17448997). S2CID 741677 (https://api.se
+manticscholar.org/CorpusID:741677).
+Diagram (ua.edu) (https://web.archive.org/web/20060617160547/http://bama.ua.edu/~sprenti
+c/672%20aggression-brain.jpg)
+Diagram (universe-review.ca) (http://universe-review.ca/I10-80-prefrontal.jpg)
+Stained brain slice images which include the "Prefrontal cortex" (http://brainmaps.org/index.p
+hp?q=Prefrontal%20cortex) at the BrainMaps project
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Prefrontal_cortex&oldid=1226045244"
+External links

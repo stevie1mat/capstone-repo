@@ -1,0 +1,768 @@
+Axon
+An axon of a multipolar neuron
+Identifiers
+MeSH D001369 (https://meshb.nlm.ni
+h.gov/record/ui?ui=D001369)
+FMA
+67308 (https://bioportal.bioontol
+ogy.org/ontologies/FMA/?p=cla
+sses&conceptid=http%3A%2F%
+2Fpurl.org%2Fsig%2Font%2Ff
+ma%2Ffma67308)
+Anatomical terminology
+A typical myelinated axon
+Axon
+An axon (from Greek ἄξων áxōn, axis) or nerve fiber (or nerve fibre: see spelling
+differences) is a long, slender projection of a nerve cell, or neuron, in vertebrates, that
+typically conducts electrical impulses known as action potentials away from the nerve
+cell body. The function of the axon is to transmit information to different neurons,
+muscles, and glands. In certain sensory neurons (pseudounipolar neurons), such as
+those for touch and warmth, the axons are called afferent nerve fibers and the electrical
+impulse travels along these from the periphery to the cell body and from the cell body
+to the spinal cord along another branch of the same axon. Axon dysfunction can be the
+cause of many inherited and acquired neurological disorders that affect both the
+peripheral and central neurons. Nerve fibers are classed into three types  – group A
+nerve fibers, group B nerve fibers, and group C nerve fibers. Groups A and B are
+myelinated, and group C are unmyelinated. These groups include both sensory fibers
+and motor fibers. Another classification groups only the sensory fibers as Type I, Type
+II, Type III, and Type IV.
+An axon is one of two types of cytoplasmic protrusions from the cell body of a neuron;
+the other type is a dendrite. Axons are distinguished from dendrites by several features,
+including shape (dendrites often taper while axons usually maintain a constant radius),
+length (dendrites are restricted to a small region around the cell body while axons can
+be much longer), and function (dendrites receive signals whereas axons transmit them).
+Some types of neurons have no axon and transmit signals from their dendrites. In some
+species, axons can emanate from dendrites known as axon-carrying dendrites.[1] No neuron ever has more than one axon; however
+in invertebrates such as insects or leeches the axon sometimes consists of several regions that function more or less independently of
+each other.[2]
+Axons are covered by a membrane known as an axolemma; the cytoplasm of an axon is called axoplasm. Most axons branch, in
+some cases very profusely. The end branches of an axon are called telodendria. The swollen end of a telodendron is known as the
+axon terminal which joins the dendrite or cell body of another neuron forming a synaptic connection. Axons make contact with
+other cells – usually other neurons but sometimes muscle or gland cells – at junctions called synapses. In some circumstances, the
+axon of one neuron may form a synapse with the dendrites of the same neuron, resulting in an autapse. At a synapse, the membrane
+of the axon closely adjoins the membrane of the target cell, and special molecular structures serve to transmit electrical or
+electrochemical signals across the gap. Some synaptic junctions appear along the length of an axon as it extends; these are called en
+passant ("in passing") synapses and can be in the hundreds or even the thousands along one axon.[3] Other synapses appear as
+terminals at the ends of axonal branches.
+A single axon, with all its branches taken together, can target multiple parts of the brain and generate thousands of synaptic
+terminals. A bundle of axons make a nerve tract in the central nervous system,[4] and a fascicle in the peripheral nervous system. In
+placental mammals the largest white matter tract in the brain is the corpus callosum, formed of some 200 million axons in the human
+brain.[4]
+Axons are the primary transmission lines of the nervous system, and as bundles they form
+nerves. Some axons can extend up to one meter or more while others extend as little as one
+millimeter. The longest axons in the human body are those of the sciatic nerve, which run
+from the base of the spinal cord to the big toe of each foot. The diameter of axons is also
+variable. Most individual axons are microscopic in diameter (typically about one
+micrometer (μm) across). The largest mammalian axons can reach a diameter of up to
+20 μm. The squid giant axon, which is specialized to conduct signals very rapidly, is close
+to 1 millimeter in diameter, the size of a small pencil lead. The numbers of axonal
+telodendria (the branching structures at the end of the axon) can also differ from one nerve
+fiber to the next. Axons in the central nervous system (CNS) typically show multiple telodendria, with many synaptic end points. In
+Anatomy
+A dissected human brain, showing
+grey matter and white matter
+Detail showing microtubules at axon hillock and initial segment.
+comparison, the cerebellar granule cell axon is characterized by a single T-shaped branch
+node from which two parallel fibers extend. Elaborate branching allows for the
+simultaneous transmission of messages to a large number of target neurons within a single
+region of the brain.
+There are two types of axons in the nervous system: myelinated and unmyelinated axons.[5]
+Myelin is a layer of a fatty insulating substance, which is formed by two types of glial cells:
+Schwann cells and oligodendrocytes. In the peripheral nervous system Schwann cells form
+the myelin sheath of a myelinated axon. Oligodendrocytes form the insulating myelin in the
+CNS. Along myelinated nerve fibers, gaps in the myelin sheath known as nodes of Ranvier
+occur at evenly spaced intervals. The myelination enables an especially rapid mode of
+electrical impulse propagation called saltatory conduction.
+The myelinated axons from the cortical neurons form the bulk of the neural tissue called white matter in the brain. The myelin gives
+the white appearance to the tissue in contrast to the grey matter of the cerebral cortex which contains the neuronal cell bodies. A
+similar arrangement is seen in the cerebellum. Bundles of myelinated axons make up the nerve tracts in the CNS. Where these tracts
+cross the midline of the brain to connect opposite regions they are called commissures. The largest of these is the corpus callosum
+that connects the two cerebral hemispheres, and this has around 20 million axons.[4]
+The structure of a neuron is seen to consist of two separate functional regions, or compartments – the cell body together with the
+dendrites as one region, and the axonal region as the other.
+The axonal region or compartment, includes the axon hillock, the initial segment, the rest of the axon, and the axon telodendria, and
+axon terminals. It also includes the myelin sheath. The Nissl bodies that produce the neuronal proteins are absent in the axonal
+region.[3] Proteins needed for the growth of the axon, and the removal of waste materials, need a framework for transport. This
+axonal transport is provided for in the axoplasm by arrangements of microtubules and intermediate filaments known as
+neurofilaments.
+The axon hillock is the area formed from the cell body of the
+neuron as it extends to become the axon. It precedes the initial
+segment. The received action potentials that are summed in the
+neuron are transmitted to the axon hillock for the generation of
+an action potential from the initial segment.
+The axonal initial segment (AIS) is a structurally and
+functionally separate microdomain of the axon.[6][7] One
+function of the initial segment is to separate the main part of an
+axon from the rest of the neuron; another function is to help
+initiate action potentials.[8] Both of these functions support
+neuron cell polarity, in which dendrites (and, in some cases the
+soma) of a neuron receive input signals at the basal region, and at the apical region the neuron's axon provides output signals.[9]
+The axon initial segment is unmyelinated and contains a specialized complex of proteins. It is between approximately 20 and 60 μm
+in length and functions as the site of action potential initiation.[10][11] Both the position on the axon and the length of the AIS can
+change showing a degree of plasticity that can fine-tune the neuronal output.[10][12] A longer AIS is associated with a greater
+excitability.[12] Plasticity is also seen in the ability of the AIS to change its distribution and to maintain the activity of neural circuitry
+at a constant level.[13]
+Axonal region
+Axon hillock
+Axonal initial segment
+TEM of a myelinated axon in cross-
+section.
+Cross section of an axon:
+(1) Axon (2) Nucleus (3)
+Schwann cell (4) Myelin
+sheath (5) Neurilemma
+The AIS is highly specialized for the fast conduction of nerve impulses. This is achieved by a high concentration of voltage-gated
+sodium channels in the initial segment where the action potential is initiated.[13] The ion channels are accompanied by a high
+number of cell adhesion molecules and scaffold proteins that anchor them to the cytoskeleton.[10] Interactions with ankyrin-G are
+important as it is the major organizer in the AIS.[10]
+The axoplasm is the equivalent of cytoplasm in the cell. Microtubules form in the axoplasm at the axon hillock. They are arranged
+along the length of the axon, in overlapping sections, and all point in the same direction – towards the axon terminals.[14] This is
+noted by the positive endings of the microtubules. This overlapping arrangement provides the routes for the transport of different
+materials from the cell body.[14] Studies on the axoplasm has shown the movement of numerous vesicles of all sizes to be seen
+along cytoskeletal filaments – the microtubules, and neurofilaments, in both directions between the axon and its terminals and the
+cell body.
+Outgoing anterograde transport from the cell body along the axon, carries mitochondria and membrane proteins needed for growth
+to the axon terminal. Ingoing retrograde transport carries cell waste materials from the axon terminal to the cell body.[15] Outgoing
+and ingoing tracks use different sets of motor proteins.[14] Outgoing transport is provided by kinesin, and ingoing return traffic is
+provided by dynein. Dynein is minus-end directed.[15] There are many forms of kinesin and dynein motor proteins, and each is
+thought to carry a different cargo.[14] The studies on transport in the axon led to the naming of kinesin.[14]
+In the nervous system, axons may be myelinated, or
+unmyelinated. This is the provision of an insulating layer,
+called a myelin sheath. The myelin membrane is unique in
+its relatively high lipid to protein ratio.[16]
+In the peripheral nervous system axons are myelinated by
+glial cells known as Schwann cells. In the central nervous
+system the myelin sheath is provided by another type of
+glial cell, the oligodendrocyte. Schwann cells myelinate a
+single axon. An oligodendrocyte can myelinate up to 50
+axons.[17]
+The composition of myelin is different in the two types. In
+the CNS the major myelin protein is proteolipid protein, and
+in the PNS it is myelin basic protein.
+Nodes of Ranvier (also known as myelin sheath gaps) are short unmyelinated segments of a myelinated axon, which are found
+periodically interspersed between segments of the myelin sheath. Therefore, at the point of the node of Ranvier, the axon is reduced
+in diameter.[18] These nodes are areas where action potentials can be generated. In saltatory conduction, electrical currents produced
+at each node of Ranvier are conducted with little attenuation to the next node in line, where they remain strong enough to generate
+another action potential. Thus in a myelinated axon, action potentials effectively "jump" from node to node, bypassing the
+myelinated stretches in between, resulting in a propagation speed much faster than even the fastest unmyelinated axon can sustain.
+An axon can divide into many branches called telodendria (Greek for 'end of tree'). At the end of each telodendron is an axon
+terminal (also called a synaptic bouton, or terminal bouton). Axon terminals contain synaptic vesicles that store the neurotransmitter
+for release at the synapse. This makes multiple synaptic connections with other neurons possible. Sometimes the axon of a neuron
+may synapse onto dendrites of the same neuron, when it is known as an autapse.
+Axonal transport
+Myelination
+Nodes of Ranvier
+Axon terminals
+Axonal varicosities
+Structure of a typical chemical synapse
+In the normally developed brain, along the shaft of some axons are located pre-synaptic boutons also known as axonal varicosities
+and these have been found in regions of the hippocampus that function in the release of neurotransmitters.[19] However, axonal
+varicosities are also present in neurodegenerative diseases where they interfere with the conduction of an action potential. Axonal
+varicosities are also the hallmark of traumatic brain injuries.[19][20] Axonal damage is usually to the axon cytoskeleton disrupting
+transport. As a consequence protein accumulations such as amyloid-beta precursor protein can build up in a swelling resulting in a
+number of varicosities along the axon.[19][20]
+Most axons carry signals in the form of action potentials,
+which are discrete electrochemical impulses that travel rapidly
+along an axon, starting at the cell body and terminating at
+points where the axon makes synaptic contact with target cells.
+The defining characteristic of an action potential is that it is
+"all-or-nothing" – every action potential that an axon generates
+has essentially the same size and shape. This all-or-nothing
+characteristic allows action potentials to be transmitted from
+one end of a long axon to the other without any reduction in
+size. There are, however, some types of neurons with short
+axons that carry graded electrochemical signals, of variable
+amplitude.
+When an action potential reaches a presynaptic terminal, it
+activates the synaptic transmission process. The first step is rapid opening of calcium ion channels in the membrane of the axon,
+allowing calcium ions to flow inward across the membrane. The resulting increase in intracellular calcium concentration causes
+synaptic vesicles (tiny containers enclosed by a lipid membrane) filled with a neurotransmitter chemical to fuse with the axon's
+membrane and empty their contents into the extracellular space. The neurotransmitter is released from the presynaptic nerve through
+exocytosis. The neurotransmitter chemical then diffuses across to receptors located on the membrane of the target cell. The
+neurotransmitter binds to these receptors and activates them. Depending on the type of receptors that are activated, the effect on the
+target cell can be to excite the target cell, inhibit it, or alter its metabolism in some way. This entire sequence of events often takes
+place in less than a thousandth of a second. Afterward, inside the presynaptic terminal, a new set of vesicles is moved into position
+next to the membrane, ready to be released when the next action potential arrives. The action potential is the final electrical step in
+the integration of synaptic messages at the scale of the neuron.[5]
+Extracellular recordings of action potential propagation in axons has been demonstrated in freely moving animals. While
+extracellular somatic action potentials have been used to study cellular activity in freely moving animals such as place cells, axonal
+activity in both white and gray matter can also be recorded. Extracellular recordings of axon action potential propagation is distinct
+from somatic action potentials in three ways: 1. The signal has a shorter peak-trough duration (~150μs) than of pyramidal cells
+(~500μs) or interneurons (~250μs). 2. The voltage change is triphasic. 3. Activity recorded on a tetrode is seen on only one of the
+four recording wires. In recordings from freely moving rats, axonal signals have been isolated in white matter tracts including the
+alveus and the corpus callosum as well hippocampal gray matter.[21]
+In fact, the generation of action potentials in vivo is sequential in nature, and these sequential spikes constitute the digital codes in
+the neurons. Although previous studies indicate an axonal origin of a single spike evoked by short-term pulses, physiological
+signals in vivo trigger the initiation of sequential spikes at the cell bodies of the neurons.[22][23]
+In addition to propagating action potentials to axonal terminals, the axon is able to amplify the action potentials, which makes sure a
+secure propagation of sequential action potentials toward the axonal terminal. In terms of molecular mechanisms, voltage-gated
+sodium channels in the axons possess lower threshold and shorter refractory period in response to short-term pulses.[24]
+The development of the axon to its target, is one of the six major stages in the overall development of the nervous system.[25]
+Studies done on cultured hippocampal neurons suggest that neurons initially produce multiple neurites that are equivalent, yet only
+one of these neurites is destined to become the axon.[26] It is unclear whether axon specification precedes axon elongation or vice
+Action potentials
+Postsynaptic
+density
+Voltage-
+gated Ca++
+channel
+Synaptic
+vesicle
+Neurotransmitter
+transporter
+Receptor
+Neurotransmitter
+Axon
+terminal
+Synaptic
+cleft
+Dendrite
+Development and growth
+Development
+(A) pyramidal cell, interneuron, and
+short duration waveform (Axon),
+overlay of the three average
+waveforms;
+(B) Average and standard error of
+peak-trough time for pyramidal cells
+interneurons, and putative axons;
+(C) Scatter plot of signal to noise
+ratios for individual units
+againstpeak-trough time for axons,
+pyramidal cells (PYRs) and
+interneurons (INTs).
+Axon of nine-day-old mouse
+with growth cone visible
+versa,[27] although recent evidence points to the latter. If an axon that is not fully developed
+is cut, the polarity can change and other neurites can potentially become the axon. This
+alteration of polarity only occurs when the axon is cut at least 10 μm shorter than the other
+neurites. After the incision is made, the longest neurite will become the future axon and all
+the other neurites, including the original axon, will turn into dendrites.[28] Imposing an
+external force on a neurite, causing it to elongate, will make it become an axon.[29]
+Nonetheless, axonal development is achieved through a complex interplay between
+extracellular signaling, intracellular signaling and cytoskeletal dynamics.
+The extracellular signals that propagate through the extracellular matrix surrounding
+neurons play a prominent role in axonal development.[30] These signaling molecules
+include proteins, neurotrophic factors, and extracellular matrix and adhesion molecules.
+Netrin (also known as UNC-6) a secreted protein, functions in axon formation. When the
+UNC-5 netrin receptor is mutated, several neurites are irregularly projected out of neurons
+and finally a single axon is extended anteriorly.[31][32][33][34] The neurotrophic factors –
+nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF) and neurotrophin-3
+(NTF3) are also involved in axon development and bind to Trk receptors.[35]
+The ganglioside-converting enzyme plasma membrane ganglioside sialidase (PMGS),
+which is involved in the activation of TrkA at the tip of neutrites, is required for the
+elongation of axons. PMGS asymmetrically distributes to the tip of the neurite that is
+destined to become the future axon.[36]
+During axonal development, the activity of PI3K is increased at the tip of destined axon. Disrupting the activity of PI3K inhibits
+axonal development. Activation of PI3K results in the production of phosphatidylinositol (3,4,5)-trisphosphate (PtdIns) which can
+cause significant elongation of a neurite, converting it into an axon. As such, the overexpression of phosphatases that
+dephosphorylate PtdIns leads into the failure of polarization.[30]
+The neurite with the lowest actin filament content will become the axon. PGMS concentration and f-actin content are inversely
+correlated; when PGMS becomes enriched at the tip of a neurite, its f-actin content is substantially decreased.[36] In addition,
+exposure to actin-depolimerizing drugs and toxin B (which inactivates Rho-signaling) causes the formation of multiple axons.
+Consequently, the interruption of the actin network in a growth cone will promote its neurite to become the axon.[37]
+Growing axons move through their environment via the growth cone, which is at the tip of the
+axon. The growth cone has a broad sheet-like extension called a lamellipodium which contain
+protrusions called filopodia. The filopodia are the mechanism by which the entire process adheres
+to surfaces and explores the surrounding environment. Actin plays a major role in the mobility of
+this system. Environments with high levels of cell adhesion molecules (CAMs) create an ideal
+environment for axonal growth. This seems to provide a "sticky" surface for axons to grow along.
+Examples of CAMs specific to neural systems include N-CAM, TAG-1  – an axonal
+glycoprotein[38] – and MAG, all of which are part of the immunoglobulin superfamily. Another set
+of molecules called extracellular matrix-adhesion molecules also provide a sticky substrate for
+axons to grow along. Examples of these molecules include laminin, fibronectin, tenascin, and
+perlecan. Some of these are surface bound to cells and thus act as short range attractants or
+repellents. Others are difusible ligands and thus can have long range effects.
+Cells called guidepost cells assist in the guidance of neuronal axon growth. These cells that help
+axon guidance, are typically other neurons that are sometimes immature. When the axon has
+completed its growth at its connection to the target, the diameter of the axon can increase by up to
+five times, depending on the speed of conduction required.[39]
+Extracellular signaling
+Intracellular signaling
+Cytoskeletal dynamics
+Growth
+It has also been discovered through research that if the axons of a neuron were damaged, as long as the soma (the cell body of a
+neuron) is not damaged, the axons would regenerate and remake the synaptic connections with neurons with the help of guidepost
+cells. This is also referred to as neuroregeneration.[40]
+Nogo-A is a type of neurite outgrowth inhibitory component that is present in the central nervous system myelin membranes (found
+in an axon). It has a crucial role in restricting axonal regeneration in adult mammalian central nervous system. In recent studies, if
+Nogo-A is blocked and neutralized, it is possible to induce long-distance axonal regeneration which leads to enhancement of
+functional recovery in rats and mouse spinal cord. This has yet to be done on humans.[41] A recent study has also found that
+macrophages activated through a specific inflammatory pathway activated by the Dectin-1 receptor are capable of promoting axon
+recovery, also however causing neurotoxicity in the neuron.[42]
+Axons vary largely in length from a few micrometers up to meters in some animals. This emphasizes that there must be a cellular
+length regulation mechanism allowing the neurons both to sense the length of their axons and to control their growth accordingly. It
+was discovered that motor proteins play an important role in regulating the length of axons.[43] Based on this observation,
+researchers developed an explicit model for axonal growth describing how motor proteins could affect the axon length on the
+molecular level.[44][45][46][47] These studies suggest that motor proteins carry signaling molecules from the soma to the growth
+cone and vice versa whose concentration oscillates in time with a length-dependent frequency.
+The axons of neurons in the human peripheral nervous system can be classified based on their physical features and signal
+conduction properties. Axons were known to have different thicknesses (from 0.1 to 20 μm)[3] and these differences were thought
+to relate to the speed at which an action potential could travel along the axon – its conductance velocity. Erlanger and Gasser
+proved this hypothesis, and identified several types of nerve fiber, establishing a relationship between the diameter of an axon and
+its nerve conduction velocity. They published their findings in 1941 giving the first classification of axons.
+Axons are classified in two systems. The first one introduced by Erlanger and Gasser, grouped the fibers into three main groups
+using the letters A, B, and C. These groups, group A, group B, and group C include both the sensory fibers (afferents) and the
+motor fibers (efferents). The first group A, was subdivided into alpha, beta, gamma, and delta fibers – Aα, Aβ, Aγ, and Aδ. The
+motor neurons of the different motor fibers, were the lower motor neurons – alpha motor neuron, beta motor neuron, and gamma
+motor neuron having the Aα, Aβ, and Aγ nerve fibers, respectively.
+Later findings by other researchers identified two groups of Aa fibers that were sensory fibers. These were then introduced into a
+system (Lloyd classification) that only included sensory fibers (though some of these were mixed nerves and were also motor
+fibers). This system refers to the sensory groups as Types and uses Roman numerals: Type Ia, Type Ib, Type II, Type III, and Type
+IV.
+Lower motor neurons have two kind of fibers:
+Motor fiber types
+Type
+Erlanger-Gasser
+Classification
+Diameter
+(μm)
+Myelin
+Conduction velocity
+(meters/second)
+Associated muscle fibers
+Alpha (α) motor neuron
+Aα
+13–20
+Yes
+80–120
+Extrafusal muscle fibers
+Beta (β) motor neuron
+Aβ
+Gamma (γ) motor neuron
+Aγ
+5-8
+Yes
+4–24[48][49]
+Intrafusal muscle fibers
+Different sensory receptors innervate different types of nerve fibers. Proprioceptors are innervated by type Ia, Ib and II sensory
+fibers, mechanoreceptors by type II and III sensory fibers and nociceptors and thermoreceptors by type III and IV sensory fibers.
+Length regulation
+Classification
+Motor
+Sensory
+Sensory fiber types
+Type
+Erlanger-
+Gasser
+Classification
+Diameter
+(μm)
+Myelin
+Conduction
+velocity
+(m/s)
+Associated
+sensory
+receptors
+Proprioceptors
+Mechanoceptors
+Nociceptors and
+thermoreceptors
+Ia
+Aα
+13–20
+Yes
+80–120
+Primary receptors
+of muscle spindle
+(annulospiral
+ending)
+✔
+Ib
+Aα
+13–20
+Yes
+80–120
+Golgi tendon
+organ
+II
+Aβ
+6–12
+Yes
+33–75
+Secondary
+receptors of
+muscle spindle
+(flower-spray
+ending).
+All cutaneous
+mechanoreceptors
+✔
+III
+Aδ
+1–5
+Thin
+3–30
+Free nerve
+endings of touch
+and pressure
+Nociceptors of
+lateral
+spinothalamic
+tract
+Cold
+thermoreceptors
+✔
+IV
+C
+0.2–1.5
+No
+0.5–2.0
+Nociceptors of
+anterior
+spinothalamic
+tract
+Warmth receptors
+The autonomic nervous system has two kinds of peripheral fibers:
+Fiber types
+Type
+Erlanger-Gasser
+Classification
+Diameter
+(μm)
+Myelin[50]
+Conduction
+velocity (m/s)
+preganglionic fibers
+B
+1–5
+Yes
+3–15
+postganglionic fibers
+C
+0.2–1.5
+No
+0.5–2.0
+In order of degree of severity, injury to a nerve in the peripheral nervous system can be described as neurapraxia, axonotmesis, or
+neurotmesis. Concussion is considered a mild form of diffuse axonal injury.[51] Axonal injury can also cause central chromatolysis.
+The dysfunction of axons in the nervous system is one of the major causes of many inherited and acquired neurological disorders
+that affect both peripheral and central neurons.[5]
+When an axon is crushed, an active process of axonal degeneration takes place at the part of the axon furthest from the cell body.
+This degeneration takes place quickly following the injury, with the part of the axon being sealed off at the membranes and broken
+down by macrophages. This is known as Wallerian degeneration.[52] Dying back of an axon can also take place in many
+neurodegenerative diseases, particularly when axonal transport is impaired, this is known as Wallerian-like degeneration.[53] Studies
+suggest that the degeneration happens as a result of the axonal protein NMNAT2, being prevented from reaching all of the axon.[54]
+Demyelination of axons causes the multitude of neurological symptoms found in the disease multiple sclerosis.
+Dysmyelination is the abnormal formation of the myelin sheath. This is implicated in several leukodystrophies, and also in
+schizophrenia.[55][56][57]
+A severe traumatic brain injury can result in widespread lesions to nerve tracts damaging the axons in a condition known as diffuse
+axonal injury. This can lead to a persistent vegetative state.[58] It has been shown in studies on the rat that axonal damage from a
+single mild traumatic brain injury, can leave a susceptibility to further damage, after repeated mild traumatic brain injuries.[59]
+Autonomic
+Clinical significance
+A nerve guidance conduit is an artificial means of guiding axon growth to enable neuroregeneration, and is one of the many
+treatments used for different kinds of nerve injury.
+Some general dictionaries define "nerve fiber" as any neuronal process, including both axons and dendrites.[60][61] However,
+medical sources generally use "nerve fiber" to refer to the axon only.[62][63]
+German anatomist Otto Friedrich Karl Deiters is generally credited with the discovery of the axon by distinguishing it from the
+dendrites.[5] Swiss Rüdolf Albert von Kölliker and German Robert Remak were the first to identify and characterize the axon initial
+segment. Kölliker named the axon in 1896.[64] Louis-Antoine Ranvier was the first to describe the gaps or nodes found on axons
+and for this contribution these axonal features are now commonly referred to as the nodes of Ranvier. Santiago Ramón y Cajal, a
+Spanish anatomist, proposed that axons were the output components of neurons, describing their functionality.[5] Joseph Erlanger
+and Herbert Gasser earlier developed the classification system for peripheral nerve fibers,[65] based on axonal conduction velocity,
+myelination, fiber size etc. Alan Hodgkin and Andrew Huxley also employed the squid giant axon (1939) and by 1952 they had
+obtained a full quantitative description of the ionic basis of the action potential, leading to the formulation of the Hodgkin–Huxley
+model. Hodgkin and Huxley were awarded jointly the Nobel Prize for this work in 1963. The formulae detailing axonal
+conductance were extended to vertebrates in the Frankenhaeuser–Huxley equations. The understanding of the biochemical basis for
+action potential propagation has advanced further, and includes many details about individual ion channels.
+The axons in invertebrates have been extensively studied. The longfin inshore squid, often used as a model organism has the
+longest known axon.[66] The giant squid has the largest axon known. Its size ranges from 0.5 (typically) to 1 mm in diameter and is
+used in the control of its jet propulsion system. The fastest recorded conduction speed of 210 m/s, is found in the ensheathed axons
+of some pelagic Penaeid shrimps[67] and the usual range is between 90 and 200  meters/s[68] (cf 100–120  m/s for the fastest
+myelinated vertebrate axon.)
+In other cases as seen in rat studies an axon originates from a dendrite; such axons are said to have "dendritic origin". Some axons
+with dendritic origin similarly have a "proximal" initial segment that starts directly at the axon origin, while others have a "distal"
+initial segment, discernibly separated from the axon origin.[69] In many species some of the neurons have axons that emanate from
+the dendrite and not from the cell body, and these are known as axon-carrying dendrites.[1] In many cases, an axon originates at an
+axon hillock on the soma; such axons are said to have "somatic origin". Some axons with somatic origin have a "proximal" initial
+segment adjacent the axon hillock, while others have a "distal" initial segment, separated from the soma by an extended axon
+hillock.[69]
+Electrophysiology
+Ganglionic eminence
+Giant axonal neuropathy
+Neuronal tracing
+Pioneer axon
+Single-unit recording
+1. Triarhou LC (2014). "Axons emanating from dendrites: phylogenetic repercussions with Cajalian hues" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC4235383). Frontiers in Neuroanatomy. 8: 133. doi:10.3389/fnana.2014.00133
+(https://doi.org/10.3389%2Ffnana.2014.00133). PMC 4235383 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC42
+35383). PMID 25477788 (https://pubmed.ncbi.nlm.nih.gov/25477788).
+2. Yau KW (December 1976). "Receptive fields, geometry and conduction block of sensory neurones in the central
+nervous system of the leech" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1307715). The Journal of
+Physiology. 263 (3): 513–38. doi:10.1113/jphysiol.1976.sp011643 (https://doi.org/10.1113%2Fjphysiol.1976.sp01
+1643). PMC 1307715 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1307715). PMID 1018277 (https://pubmed.n
+cbi.nlm.nih.gov/1018277).
+Terminology
+History
+Other animals
+See also
+References
+3. Squire, Larry (2013). Fundamental neuroscience (4th ed.). Amsterdam: Elsevier/Academic Press. pp. 61–65.
+ISBN 978-0-12-385-870-2.
+4. Luders E, Thompson PM, Toga AW (August 2010). "The development of the corpus callosum in the healthy
+human brain" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3197828). The Journal of Neuroscience. 30 (33):
+10985–90. doi:10.1523/JNEUROSCI.5122-09.2010 (https://doi.org/10.1523%2FJNEUROSCI.5122-09.2010).
+PMC 3197828 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3197828). PMID 20720105 (https://pubmed.ncbi.nl
+m.nih.gov/20720105).
+5. Debanne D, Campanac E, Bialowas A, Carlier E, Alcaraz G (April 2011). "Axon physiology" (https://hal-amu.archi
+ves-ouvertes.fr/hal-01766861/file/Debanne-Physiol-Rev-2011.pdf) (PDF). Physiological Reviews. 91 (2): 555–
+602. doi:10.1152/physrev.00048.2009 (https://doi.org/10.1152%2Fphysrev.00048.2009). PMID 21527732 (https://p
+ubmed.ncbi.nlm.nih.gov/21527732). S2CID 13916255 (https://api.semanticscholar.org/CorpusID:13916255).
+6. Nelson AD, Jenkins PM (2017). "Axonal Membranes and Their Domains: Assembly and Function of the Axon
+Initial Segment and Node of Ranvier" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5422562). Frontiers in
+Cellular Neuroscience. 11: 136. doi:10.3389/fncel.2017.00136 (https://doi.org/10.3389%2Ffncel.2017.00136).
+PMC 5422562 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5422562). PMID 28536506 (https://pubmed.ncbi.nl
+m.nih.gov/28536506).
+7. Leterrier C, Clerc N, Rueda-Boroni F, Montersino A, Dargent B, Castets F (2017). "Ankyrin G Membrane Partners
+Drive the Establishment and Maintenance of the Axon Initial Segment" (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC5266712). Frontiers in Cellular Neuroscience. 11: 6. doi:10.3389/fncel.2017.00006 (https://doi.org/10.3389%
+2Ffncel.2017.00006). PMC 5266712 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5266712). PMID 28184187
+(https://pubmed.ncbi.nlm.nih.gov/28184187).
+8. Leterrier C (February 2018). "The Axon Initial Segment: An Updated Viewpoint" (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC6596274). The Journal of Neuroscience. 38 (9): 2135–2145. doi:10.1523/jneurosci.1922-17.2018
+(https://doi.org/10.1523%2Fjneurosci.1922-17.2018). PMC 6596274 (https://www.ncbi.nlm.nih.gov/pmc/articles/P
+MC6596274). PMID 29378864 (https://pubmed.ncbi.nlm.nih.gov/29378864).
+9. Rasband MN (August 2010). "The axon initial segment and the maintenance of neuronal polarity". Nature
+Reviews. Neuroscience. 11 (8): 552–62. doi:10.1038/nrn2852 (https://doi.org/10.1038%2Fnrn2852).
+PMID 20631711 (https://pubmed.ncbi.nlm.nih.gov/20631711). S2CID 23996233 (https://api.semanticscholar.org/C
+orpusID:23996233).
+10. Jones SL, Svitkina TM (2016). "Axon Initial Segment Cytoskeleton: Architecture, Development, and Role in
+Neuron Polarity" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967436). Neural Plasticity. 2016: 6808293.
+doi:10.1155/2016/6808293 (https://doi.org/10.1155%2F2016%2F6808293). PMC 4967436 (https://www.ncbi.nlm.
+nih.gov/pmc/articles/PMC4967436). PMID 27493806 (https://pubmed.ncbi.nlm.nih.gov/27493806).
+11. Clark BD, Goldberg EM, Rudy B (December 2009). "Electrogenic tuning of the axon initial segment" (https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC2951114). The Neuroscientist. 15 (6): 651–68.
+doi:10.1177/1073858409341973 (https://doi.org/10.1177%2F1073858409341973). PMC 2951114 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC2951114). PMID 20007821 (https://pubmed.ncbi.nlm.nih.gov/20007821).
+12. Yamada R, Kuba H (2016). "Structural and Functional Plasticity at the Axon Initial Segment" (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC5078684). Frontiers in Cellular Neuroscience. 10: 250. doi:10.3389/fncel.2016.00250
+(https://doi.org/10.3389%2Ffncel.2016.00250). PMC 5078684 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC507
+8684). PMID 27826229 (https://pubmed.ncbi.nlm.nih.gov/27826229).
+13. Susuki K, Kuba H (March 2016). "Activity-dependent regulation of excitable axonal domains" (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC10717305). The Journal of Physiological Sciences. 66 (2): 99–104.
+doi:10.1007/s12576-015-0413-4 (https://doi.org/10.1007%2Fs12576-015-0413-4). PMC 10717305 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC10717305). PMID 26464228 (https://pubmed.ncbi.nlm.nih.gov/26464228).
+S2CID 18862030 (https://api.semanticscholar.org/CorpusID:18862030).
+14. Alberts B (2004). Essential cell biology: an introduction to the molecular biology of the cell (https://archive.org/deta
+ils/essentialcellbio00albe/page/584) (2nd ed.). New York: Garland. pp. 584–587 (https://archive.org/details/essenti
+alcellbio00albe/page/584). ISBN 978-0-8153-3481-1.
+15. Alberts B (2002). Molecular biology of the cell (4th ed.). New York: Garland. pp. 979–981. ISBN 978-0-8153-4072-
+0.
+16. Ozgen, H; Baron, W; Hoekstra, D; Kahya, N (September 2016). "Oligodendroglial membrane dynamics in relation
+to myelin biogenesis" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967101). Cellular and Molecular Life
+Sciences. 73 (17): 3291–310. doi:10.1007/s00018-016-2228-8 (https://doi.org/10.1007%2Fs00018-016-2228-8).
+PMC 4967101 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4967101). PMID 27141942 (https://pubmed.ncbi.nl
+m.nih.gov/27141942).
+17. Sadler, T. (2010). Langman's medical embryology (https://archive.org/details/langmansmedicale00sadl_655)
+(11th ed.). Philadelphia: Lippincott William & Wilkins. p. 300 (https://archive.org/details/langmansmedicale00sadl_
+655/page/n311). ISBN 978-0-7817-9069-7.
+18. Hess A, Young JZ (November 1952). "The nodes of Ranvier". Proceedings of the Royal Society of London. Series
+B, Biological Sciences. Series B. 140 (900): 301–20. Bibcode:1952RSPSB.140..301H (https://ui.adsabs.harvard.e
+du/abs/1952RSPSB.140..301H). doi:10.1098/rspb.1952.0063 (https://doi.org/10.1098%2Frspb.1952.0063).
+JSTOR 82721 (https://www.jstor.org/stable/82721). PMID 13003931 (https://pubmed.ncbi.nlm.nih.gov/13003931).
+S2CID 11963512 (https://api.semanticscholar.org/CorpusID:11963512).
+19. Gu C (2021). "Rapid and Reversible Development of Axonal Varicosities: A New Form of Neural Plasticity" (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC7886671). Front Mol Neurosci. 14: 610857.
+doi:10.3389/fnmol.2021.610857 (https://doi.org/10.3389%2Ffnmol.2021.610857). PMC 7886671 (https://www.ncb
+i.nlm.nih.gov/pmc/articles/PMC7886671). PMID 33613192 (https://pubmed.ncbi.nlm.nih.gov/33613192).
+20. Weber MT, Arena JD, Xiao R, Wolf JA, Johnson VE (May 2019). "CLARITY reveals a more protracted temporal
+course of axon swelling and disconnection than previously described following traumatic brain injury" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC6482960). Brain Pathol. 29 (3): 437–450. doi:10.1111/bpa.12677 (https://doi.
+org/10.1111%2Fbpa.12677). PMC 6482960 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6482960).
+PMID 30444552 (https://pubmed.ncbi.nlm.nih.gov/30444552).
+21. Robbins AA, Fox SE, Holmes GL, Scott RC, Barry JM (November 2013). "Short duration waveforms recorded
+extracellularly from freely moving rats are representative of axonal activity" (https://www.ncbi.nlm.nih.gov/pmc/artic
+les/PMC3831546). Frontiers in Neural Circuits. 7 (181): 181. doi:10.3389/fncir.2013.00181 (https://doi.org/10.338
+9%2Ffncir.2013.00181). PMC 3831546 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3831546).
+PMID 24348338 (https://pubmed.ncbi.nlm.nih.gov/24348338).
+22. Rongjing Ge, Hao Qian and Jin-Hui Wang* (2011) Molecular Brain 4(19), 1~11
+23. Rongjing Ge, Hao Qian, Na Chen and Jin-Hui Wang* (2014) Molecular Brain 7(26):1-16
+24. Chen N, Yu J, Qian H, Ge R, Wang JH (July 2010). "Axons amplify somatic incomplete spikes into uniform
+amplitudes in mouse cortical pyramidal neurons" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2912328). PLOS
+ONE. 5 (7): e11868. Bibcode:2010PLoSO...511868C (https://ui.adsabs.harvard.edu/abs/2010PLoSO...511868C).
+doi:10.1371/journal.pone.0011868 (https://doi.org/10.1371%2Fjournal.pone.0011868). PMC 2912328 (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC2912328). PMID 20686619 (https://pubmed.ncbi.nlm.nih.gov/20686619).
+25. Wolpert, Lewis (2015). Principles of development (5th ed.). Oxford University Press. pp. 520–524. ISBN 978-0-19-
+967814-3.
+26. Fletcher TL, Banker GA (December 1989). "The establishment of polarity by hippocampal neurons: the
+relationship between the stage of a cell's development in situ and its subsequent development in culture".
+Developmental Biology. 136 (2): 446–54. doi:10.1016/0012-1606(89)90269-8 (https://doi.org/10.1016%2F0012-1
+606%2889%2990269-8). PMID 2583372 (https://pubmed.ncbi.nlm.nih.gov/2583372).
+27. Jiang H, Rao Y (May 2005). "Axon formation: fate versus growth". Nature Neuroscience. 8 (5): 544–6.
+doi:10.1038/nn0505-544 (https://doi.org/10.1038%2Fnn0505-544). PMID 15856056 (https://pubmed.ncbi.nlm.nih.
+gov/15856056). S2CID 27728967 (https://api.semanticscholar.org/CorpusID:27728967).
+28. Goslin K, Banker G (April 1989). "Experimental observations on the development of polarity by hippocampal
+neurons in culture" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2115496). The Journal of Cell Biology. 108 (4):
+1507–16. doi:10.1083/jcb.108.4.1507 (https://doi.org/10.1083%2Fjcb.108.4.1507). PMC 2115496 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC2115496). PMID 2925793 (https://pubmed.ncbi.nlm.nih.gov/2925793).
+29. Lamoureux P, Ruthel G, Buxbaum RE, Heidemann SR (November 2002). "Mechanical tension can specify axonal
+fate in hippocampal neurons" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2173080). The Journal of Cell
+Biology. 159 (3): 499–508. doi:10.1083/jcb.200207174 (https://doi.org/10.1083%2Fjcb.200207174).
+PMC 2173080 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2173080). PMID 12417580 (https://pubmed.ncbi.nl
+m.nih.gov/12417580).
+30. Arimura N, Kaibuchi K (March 2007). "Neuronal polarity: from extracellular signals to intracellular mechanisms".
+Nature Reviews. Neuroscience. 8 (3): 194–205. doi:10.1038/nrn2056 (https://doi.org/10.1038%2Fnrn2056).
+PMID 17311006 (https://pubmed.ncbi.nlm.nih.gov/17311006). S2CID 15556921 (https://api.semanticscholar.org/C
+orpusID:15556921).
+31. Neuroglia and pioneer neurons express UNC-6 to provide global and local netrin cues for guiding migrations in C.
+elegans
+32. Serafini T, Kennedy TE, Galko MJ, Mirzayan C, Jessell TM, Tessier-Lavigne M (August 1994). "The netrins define
+a family of axon outgrowth-promoting proteins homologous to C. elegans UNC-6". Cell. 78 (3): 409–24.
+doi:10.1016/0092-8674(94)90420-0 (https://doi.org/10.1016%2F0092-8674%2894%2990420-0). PMID 8062384
+(https://pubmed.ncbi.nlm.nih.gov/8062384). S2CID 22666205 (https://api.semanticscholar.org/CorpusID:2266620
+5).
+33. Hong K, Hinck L, Nishiyama M, Poo MM, Tessier-Lavigne M, Stein E (June 1999). "A ligand-gated association
+between cytoplasmic domains of UNC5 and DCC family receptors converts netrin-induced growth cone attraction
+to repulsion" (https://doi.org/10.1016%2FS0092-8674%2800%2980804-1). Cell. 97 (7): 927–41.
+doi:10.1016/S0092-8674(00)80804-1 (https://doi.org/10.1016%2FS0092-8674%2800%2980804-1).
+PMID 10399920 (https://pubmed.ncbi.nlm.nih.gov/10399920). S2CID 18043414 (https://api.semanticscholar.org/C
+orpusID:18043414).
+34. Hedgecock EM, Culotti JG, Hall DH (January 1990). "The unc-5, unc-6, and unc-40 genes guide circumferential
+migrations of pioneer axons and mesodermal cells on the epidermis in C. elegans". Neuron. 4 (1): 61–85.
+doi:10.1016/0896-6273(90)90444-K (https://doi.org/10.1016%2F0896-6273%2890%2990444-K). PMID 2310575
+(https://pubmed.ncbi.nlm.nih.gov/2310575). S2CID 23974242 (https://api.semanticscholar.org/CorpusID:2397424
+2).
+35. Huang EJ, Reichardt LF (2003). "Trk receptors: roles in neuronal signal transduction". Annual Review of
+Biochemistry. 72: 609–42. doi:10.1146/annurev.biochem.72.121801.161629 (https://doi.org/10.1146%2Fannurev.
+biochem.72.121801.161629). PMID 12676795 (https://pubmed.ncbi.nlm.nih.gov/12676795). S2CID 10217268 (htt
+ps://api.semanticscholar.org/CorpusID:10217268).
+36. Da Silva JS, Hasegawa T, Miyagi T, Dotti CG, Abad-Rodriguez J (May 2005). "Asymmetric membrane ganglioside
+sialidase activity specifies axonal fate". Nature Neuroscience. 8 (5): 606–15. doi:10.1038/nn1442 (https://doi.org/1
+0.1038%2Fnn1442). PMID 15834419 (https://pubmed.ncbi.nlm.nih.gov/15834419). S2CID 25227765 (https://api.s
+emanticscholar.org/CorpusID:25227765).
+37. Bradke F, Dotti CG (March 1999). "The role of local actin instability in axon formation". Science. 283 (5409): 1931–
+4. Bibcode:1999Sci...283.1931B (https://ui.adsabs.harvard.edu/abs/1999Sci...283.1931B).
+doi:10.1126/science.283.5409.1931 (https://doi.org/10.1126%2Fscience.283.5409.1931). PMID 10082468 (https://
+pubmed.ncbi.nlm.nih.gov/10082468).
+38. Furley AJ, Morton SB, Manalo D, Karagogeos D, Dodd J, Jessell TM (April 1990). "The axonal glycoprotein TAG-
+1 is an immunoglobulin superfamily member with neurite outgrowth-promoting activity" (https://doi.org/10.1016%2
+F0092-8674%2890%2990223-2). Cell. 61 (1): 157–70. doi:10.1016/0092-8674(90)90223-2 (https://doi.org/10.101
+6%2F0092-8674%2890%2990223-2). PMID 2317872 (https://pubmed.ncbi.nlm.nih.gov/2317872).
+S2CID 28813676 (https://api.semanticscholar.org/CorpusID:28813676).
+39. Alberts, Bruce (2015). Molecular biology of the cell (Sixth ed.). p. 947. ISBN 9780815344643.
+40. Kunik D, Dion C, Ozaki T, Levin LA, Costantino S (2011). "Laser-based single-axon transection for high-content
+axon injury and regeneration studies" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206876). PLOS ONE. 6
+(11): e26832. Bibcode:2011PLoSO...626832K (https://ui.adsabs.harvard.edu/abs/2011PLoSO...626832K).
+doi:10.1371/journal.pone.0026832 (https://doi.org/10.1371%2Fjournal.pone.0026832). PMC 3206876 (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC3206876). PMID 22073205 (https://pubmed.ncbi.nlm.nih.gov/22073205).
+41. Schwab ME (February 2004). "Nogo and axon regeneration". Current Opinion in Neurobiology. 14 (1): 118–24.
+doi:10.1016/j.conb.2004.01.004 (https://doi.org/10.1016%2Fj.conb.2004.01.004). PMID 15018947 (https://pubme
+d.ncbi.nlm.nih.gov/15018947). S2CID 9672315 (https://api.semanticscholar.org/CorpusID:9672315).
+42. Gensel JC, Nakamura S, Guan Z, van Rooijen N, Ankeny DP, Popovich PG (March 2009). "Macrophages promote
+axon regeneration with concurrent neurotoxicity" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2693768). The
+Journal of Neuroscience. 29 (12): 3956–68. doi:10.1523/JNEUROSCI.3992-08.2009 (https://doi.org/10.1523%2FJ
+NEUROSCI.3992-08.2009). PMC 2693768 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2693768).
+PMID 19321792 (https://pubmed.ncbi.nlm.nih.gov/19321792).
+43. Myers KA, Baas PW (September 2007). "Kinesin-5 regulates the growth of the axon by acting as a brake on its
+microtubule array" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2064629). The Journal of Cell Biology. 178 (6):
+1081–91. doi:10.1083/jcb.200702074 (https://doi.org/10.1083%2Fjcb.200702074). PMC 2064629 (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC2064629). PMID 17846176 (https://pubmed.ncbi.nlm.nih.gov/17846176).
+44. Rishal I, Kam N, Perry RB, Shinder V, Fisher EM, Schiavo G, Fainzilber M (June 2012). "A motor-driven
+mechanism for cell-length sensing" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3389498). Cell Reports. 1 (6):
+608–16. doi:10.1016/j.celrep.2012.05.013 (https://doi.org/10.1016%2Fj.celrep.2012.05.013). PMC 3389498 (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC3389498). PMID 22773964 (https://pubmed.ncbi.nlm.nih.gov/2277396
+4).
+45. Karamched BR, Bressloff PC (May 2015). "Delayed feedback model of axonal length sensing" (https://www.ncbi.n
+lm.nih.gov/pmc/articles/PMC4423051). Biophysical Journal. 108 (9): 2408–19. Bibcode:2015BpJ...108.2408K (htt
+ps://ui.adsabs.harvard.edu/abs/2015BpJ...108.2408K). doi:10.1016/j.bpj.2015.03.055 (https://doi.org/10.1016%2F
+j.bpj.2015.03.055). PMC 4423051 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4423051). PMID 25954897 (htt
+ps://pubmed.ncbi.nlm.nih.gov/25954897).
+46. Bressloff PC, Karamched BR (2015). "A frequency-dependent decoding mechanism for axonal length sensing" (ht
+tps://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508512). Frontiers in Cellular Neuroscience. 9: 281.
+doi:10.3389/fncel.2015.00281 (https://doi.org/10.3389%2Ffncel.2015.00281). PMC 4508512 (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC4508512). PMID 26257607 (https://pubmed.ncbi.nlm.nih.gov/26257607).
+47. Folz F, Wettmann L, Morigi G, Kruse K (May 2019). "Sound of an axon's growth". Physical Review E. 99 (5–1):
+050401. arXiv:1807.04799 (https://arxiv.org/abs/1807.04799). Bibcode:2019PhRvE..99e0401F (https://ui.adsabs.h
+arvard.edu/abs/2019PhRvE..99e0401F). doi:10.1103/PhysRevE.99.050401 (https://doi.org/10.1103%2FPhysRev
+E.99.050401). PMID 31212501 (https://pubmed.ncbi.nlm.nih.gov/31212501). S2CID 118682719 (https://api.sema
+nticscholar.org/CorpusID:118682719).
+48. Andrew BL, Part NJ (April 1972). "Properties of fast and slow motor units in hind limb and tail muscles of the rat"
+(https://doi.org/10.1113%2Fexpphysiol.1972.sp002151). Quarterly Journal of Experimental Physiology and
+Cognate Medical Sciences. 57 (2): 213–25. doi:10.1113/expphysiol.1972.sp002151 (https://doi.org/10.1113%2Fe
+xpphysiol.1972.sp002151). PMID 4482075 (https://pubmed.ncbi.nlm.nih.gov/4482075).
+49. Russell NJ (January 1980). "Axonal conduction velocity changes following muscle tenotomy or deafferentation
+during development in the rat" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1279120). The Journal of
+Physiology. 298: 347–60. doi:10.1113/jphysiol.1980.sp013085 (https://doi.org/10.1113%2Fjphysiol.1980.sp01308
+5). PMC 1279120 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1279120). PMID 7359413 (https://pubmed.ncbi.
+nlm.nih.gov/7359413).
+50. Pocock G, Richards CD, et al. (2004). Human Physiology (2nd ed.). New York: Oxford University Press. pp. 187–
+189. ISBN 978-0-19-858527-5.
+51. Dawodu ST (16 August 2017). "Traumatic Brain Injury (TBI) - Definition, Epidemiology, Pathophysiology" (https://e
+medicine.medscape.com/article/326510-overview). Medscape. Archived (https://web.archive.org/web/201806121
+84940/https://emedicine.medscape.com/article/326510-overview) from the original on 12 June 2018. Retrieved
+14 July 2018.
+52. Trauma and Wallerian Degeneration (http://missinglink.ucsf.edu/lm/ids_104_cns_injury/Response%20_to_Injury/
+WallerianDegeneration.htm) Archived (https://web.archive.org/web/20060502020349/http://missinglink.ucsf.edu/l
+m/ids_104_cns_injury/Response%20_to_Injury/WallerianDegeneration.htm) 2 May 2006 at the Wayback
+Machine, University of California, San Francisco
+53. Coleman MP, Freeman MR (1 June 2010). "Wallerian degeneration, wld(s), and nmnat" (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC5223592). Annual Review of Neuroscience. 33 (1): 245–67. doi:10.1146/annurev-neuro-
+060909-153248 (https://doi.org/10.1146%2Fannurev-neuro-060909-153248). PMC 5223592 (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC5223592). PMID 20345246 (https://pubmed.ncbi.nlm.nih.gov/20345246).
+54. Gilley J, Coleman MP (January 2010). "Endogenous Nmnat2 is an essential survival factor for maintenance of
+healthy axons" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2811159). PLOS Biology. 8 (1): e1000300.
+doi:10.1371/journal.pbio.1000300 (https://doi.org/10.1371%2Fjournal.pbio.1000300). PMC 2811159 (https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC2811159). PMID 20126265 (https://pubmed.ncbi.nlm.nih.gov/20126265).
+55. Krämer-Albers EM, Gehrig-Burger K, Thiele C, Trotter J, Nave KA (November 2006). "Perturbed interactions of
+mutant proteolipid protein/DM20 with cholesterol and lipid rafts in oligodendroglia: implications for dysmyelination
+in spastic paraplegia" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6674790). The Journal of Neuroscience. 26
+(45): 11743–52. doi:10.1523/JNEUROSCI.3581-06.2006 (https://doi.org/10.1523%2FJNEUROSCI.3581-06.200
+6). PMC 6674790 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6674790). PMID 17093095 (https://pubmed.ncb
+i.nlm.nih.gov/17093095).
+56. Matalon R, Michals-Matalon K, Surendran S, Tyring SK (2006). "Canavan Disease: Studies on the Knockout
+Mouse". N-Acetylaspartate. Advances in Experimental Medicine and Biology. Vol. 576. pp. 77–93, discussion
+361–3. doi:10.1007/0-387-30172-0_6 (https://doi.org/10.1007%2F0-387-30172-0_6). ISBN 978-0-387-30171-6.
+PMID 16802706 (https://pubmed.ncbi.nlm.nih.gov/16802706). S2CID 44405442 (https://api.semanticscholar.org/C
+orpusID:44405442).
+57. Tkachev D, Mimmack ML, Huffaker SJ, Ryan M, Bahn S (August 2007). "Further evidence for altered myelin
+biosynthesis and glutamatergic dysfunction in schizophrenia" (https://doi.org/10.1017%2FS1461145706007334).
+The International Journal of Neuropsychopharmacology. 10 (4): 557–63. doi:10.1017/S1461145706007334 (http
+s://doi.org/10.1017%2FS1461145706007334). PMID 17291371 (https://pubmed.ncbi.nlm.nih.gov/17291371).
+58. "Brain Injury, Traumatic" (https://archive.today/20110526162429/http://www.medcyclopaedia.com/library/topics/vol
+ume_vi_1/b/BRAIN_INJURY_TRAUMATIC.aspx). Medcyclopaedia. GE. Archived from the original (http://www.me
+dcyclopaedia.com/library/topics/volume_vi_1/b/BRAIN_INJURY_TRAUMATIC.aspx) on 26 May 2011. Retrieved
+20 June 2018.
+59. Wright DK, Brady RD, Kamnaksh A, Trezise J, Sun M, McDonald SJ, et al. (October 2019). "Repeated mild
+traumatic brain injuries induce persistent changes in plasma protein and magnetic resonance imaging biomarkers
+in the rat" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6787341). Scientific Reports. 9 (1): 14626.
+Bibcode:2019NatSR...914626W (https://ui.adsabs.harvard.edu/abs/2019NatSR...914626W). doi:10.1038/s41598-
+019-51267-w (https://doi.org/10.1038%2Fs41598-019-51267-w). PMC 6787341 (https://www.ncbi.nlm.nih.gov/pm
+c/articles/PMC6787341). PMID 31602002 (https://pubmed.ncbi.nlm.nih.gov/31602002).
+60. "nerve fiber" (https://www.merriam-webster.com/dictionary/nerve+fiber). Merriam-Webster. Retrieved 21 April
+2023.
+61. "nerve fibre" (https://www.oed.com/view/Entry/126203#eid35153231). Oxford English Dictionary. Retrieved
+21 April 2023.
+62. "nerve fiber" (https://www.tabers.com/tabersonline/view/Tabers-Dictionary/753758/all/nerve_fiber?refer=true).
+Taber's Medical Dictionary. Retrieved 21 April 2023.
+63. "nerve fiber" (https://dictionary.apa.org/). APA Dictionary of Psychology. American Psychological Association.
+Retrieved 21 April 2023.
+64. Finger S (1994). Origins of neuroscience: a history of explorations into brain function. Oxford University Press.
+p. 47. ISBN 9780195146943. OCLC 27151391 (https://www.worldcat.org/oclc/27151391). "Kölliker would give the
+"axon" its name in 1896."
+65. Grant G (December 2006). "The 1932 and 1944 Nobel Prizes in physiology or medicine: rewards for ground-
+breaking studies in neurophysiology". Journal of the History of the Neurosciences. 15 (4): 341–57.
+doi:10.1080/09647040600638981 (https://doi.org/10.1080%2F09647040600638981). PMID 16997762 (https://pu
+bmed.ncbi.nlm.nih.gov/16997762). S2CID 37676544 (https://api.semanticscholar.org/CorpusID:37676544).
+66. Hellier, Jennifer L. (16 December 2014). The Brain, the Nervous System, and Their Diseases [3 volumes] (https://b
+ooks.google.com/books?id=SDi2BQAAQBAJ&q=axon). ABC-CLIO. ISBN 9781610693387. Archived (https://web.
+archive.org/web/20180314180028/https://books.google.co.uk/books?redir_esc=y&id=SDi2BQAAQBAJ&q=axon)
+from the original on 14 March 2018.
+67. Hsu K, Terakawa S (July 1996). "Fenestration in the myelin sheath of nerve fibers of the shrimp: a novel node of
+excitation for saltatory conduction". Journal of Neurobiology. 30 (3): 397–409. doi:10.1002/(SICI)1097-
+4695(199607)30:3<397::AID-NEU8>3.0.CO;2-# (https://doi.org/10.1002%2F%28SICI%291097-4695%2819960
+7%2930%3A3%3C397%3A%3AAID-NEU8%3E3.0.CO%3B2-%23). PMID 8807532 (https://pubmed.ncbi.nlm.nih.
+gov/8807532).
+68. Salzer JL, Zalc B (October 2016). "Myelination" (https://doi.org/10.1016%2Fj.cub.2016.07.074). Current Biology.
+26 (20): R971–R975. Bibcode:2016CBio...26.R971S (https://ui.adsabs.harvard.edu/abs/2016CBio...26.R971S).
+doi:10.1016/j.cub.2016.07.074 (https://doi.org/10.1016%2Fj.cub.2016.07.074). PMID 27780071 (https://pubmed.n
+cbi.nlm.nih.gov/27780071).
+69. Höfflin F, Jack A, Riedel C, Mack-Bucher J, Roos J, Corcelli C, et al. (2017). "Heterogeneity of the Axon Initial
+Segment in Interneurons and Pyramidal Cells of Rodent Visual Cortex" (https://www.ncbi.nlm.nih.gov/pmc/article
+s/PMC5684645). Frontiers in Cellular Neuroscience. 11: 332. doi:10.3389/fncel.2017.00332 (https://doi.org/10.33
+89%2Ffncel.2017.00332). PMC 5684645 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5684645).
+PMID 29170630 (https://pubmed.ncbi.nlm.nih.gov/29170630).
+Histology image: 3_09 (http://www.ouhsc.edu/histology/Glass%20slides/3_09.jpg) at the University of Oklahoma
+Health Sciences Center – "Slide 3 Spinal cord"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Axon&oldid=1220302130"
+External links

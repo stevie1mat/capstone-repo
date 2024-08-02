@@ -1,0 +1,1011 @@
+Cerebral cortex
+The sulci and gyri (folds and ridges) of
+the cortex
+Motor and sensory areas of the
+cerebral cortex
+Details
+Part of
+Cerebrum
+Identifiers
+Latin
+cortex cerebri
+MeSH
+D002540 (https://mesh
+b.nlm.nih.gov/record/ui?
+ui=D002540)
+NeuroNames 39 (http://braininfo.rprc.
+washington.edu/central
+directory.aspx?ID=39)
+NeuroLex ID
+birnlex_1494 (http://uri.
+neuinfo.org/nif/nifstd/bir
+nlex_1494)
+TA98
+A14.1.09.003 (https://ifa
+a.unifr.ch/Public/EntryPa
+ge/TA98%20Tree/Entit
+y%20TA98%20EN/14.1.
+09.003%20Entity%20TA
+98%20EN.htm)
+Cerebral cortex
+The cerebral cortex, also known as the cerebral mantle,[1] is
+the outer layer of neural tissue of the cerebrum of the brain in
+humans and other mammals. It is the largest site of neural
+integration in the central nervous system,[2] and plays a key role
+in attention, perception, awareness, thought, memory, language,
+and consciousness. The cerebral cortex is the part of the brain
+responsible for cognition.
+The six-layered neocortex makes up approximately 90% of the
+cortex, with the allocortex making up the remainder.[3] The
+cortex is divided into left and right parts by the longitudinal
+fissure, which separates the two cerebral hemispheres that are
+joined beneath the cortex by the corpus callosum. In most
+mammals, apart from small mammals that have small brains, the
+cerebral cortex is folded, providing a greater surface area in the
+confined volume of the cranium. Apart from minimising brain
+and cranial volume, cortical folding is crucial for the brain
+circuitry and its functional organisation.[4] In mammals with
+small brains, there is no folding and the cortex is smooth.[5][6]
+A fold or ridge in the cortex is termed a gyrus (plural gyri) and
+a groove is termed a sulcus (plural sulci). These surface
+convolutions appear during fetal development and continue to
+mature after birth through the process of gyrification. In the
+human brain, the majority of the cerebral cortex is not visible
+from the outside, but buried in the sulci.[7] The major sulci and
+gyri mark the divisions of the cerebrum into the lobes of the
+brain. The four major lobes are the frontal, parietal, occipital
+and temporal lobes. Other lobes are the limbic lobe, and the
+insular cortex often referred to as the insular lobe.
+There are between 14 and 16 billion neurons in the human
+cerebral cortex.[2] These are organised into horizontal cortical
+layers, and radially into cortical columns and minicolumns.
+Cortical areas have specific functions such as movement in the
+motor cortex, and sight in the visual cortex. The motor cortex is
+primarily located in the precentral gyrus, and the visual cortex is
+located in the occipital lobe.
+Structure
+A14.1.09.301 (https://ifa
+a.unifr.ch/Public/EntryPa
+ge/TA98%20Tree/Entit
+y%20TA98%20EN/14.1.
+09.301%20Entity%20TA
+98%20EN.htm)
+TA2
+5527 (https://ta2viewer.
+openanatomy.org/?id=5
+527), 5528 (https://ta2vi
+ewer.openanatomy.or
+g/?id=5528)
+FMA
+61830 (https://bioportal.
+bioontology.org/ontologi
+es/FMA/?p=classes&co
+nceptid=http%3A%2F%
+2Fpurl.org%2Fsig%2Fo
+nt%2Ffma%2Ffma6183
+0)
+Anatomical terms of neuroanatomy
+Lateral view of cerebrum showing
+several cortices
+The cerebral cortex is the outer covering of the surfaces of the
+cerebral hemispheres and is folded into peaks called gyri, and
+grooves called sulci. In the human brain, it is between 2 and 3-4
+mm. thick,[8] and makes up 40% of the brain's mass.[2] 90% of
+the cerebral cortex is the six-layered neocortex whilst the other
+10% made up of three/four-layered allocortex.[2] There are
+between 14 and 16 billion neurons in the cortex,[2] and these
+are organized radially in cortical columns, and minicolumns, in
+the horizontally organized layers of the cortex.[9][10]
+The neocortex is separable into different regions of cortex
+known in the plural as cortices, and include the motor cortex
+and visual cortex. About two thirds of the cortical surface is
+buried in the sulci and the insular cortex is completely hidden.
+The cortex is thickest over the top of a gyrus and thinnest at the
+bottom of a sulcus.[11]
+The cerebral cortex is folded in a way that allows a large
+surface area of neural tissue to fit within the confines of the
+neurocranium. When unfolded in the human, each hemispheric
+cortex has a total surface area of about 0.12 square metres
+(1.3 sq ft).[12] The folding is inward away from the surface of the
+brain, and is also present on the medial surface of each hemisphere
+within the longitudinal fissure. Most mammals have a cerebral
+cortex that is convoluted with the peaks known as gyri and the
+troughs or grooves known as sulci. Some small mammals including
+some small rodents have smooth cerebral surfaces without
+gyrification.[6]
+The larger sulci and gyri mark the divisions of the cortex of the
+cerebrum into the lobes of the brain.[8] There are four main lobes: the frontal lobe, parietal lobe, temporal
+lobe, and occipital lobe. The insular cortex is often included as the insular lobe.[13] The limbic lobe is a rim
+of cortex on the medial side of each hemisphere and is also often included.[14] There are also three lobules
+of the brain described: the paracentral lobule, the superior parietal lobule, and the inferior parietal lobule.
+For species of mammals, larger brains (in absolute terms, not just in relation to body size) tend to have
+thicker cortices.[15] The smallest mammals, such as shrews, have a neocortical thickness of about 0.5 mm;
+the ones with the largest brains, such as humans and fin whales, have thicknesses of 2–4 mm.[2][8] There is
+an approximately logarithmic relationship between brain weight and cortical thickness.[15] Magnetic
+resonance imaging of the brain (MRI) makes it possible to get a measure for the thickness of the human
+cerebral cortex and relate it to other measures. The thickness of different cortical areas varies but in general,
+Folds
+Lobes
+Thickness
+Diagram of layers pattern. Cells
+grouped on left, axonal layers on
+right.
+sensory cortex is thinner than motor cortex.[16] One study has found some positive association between the
+cortical thickness and intelligence.[17] Another study has found that the somatosensory cortex is thicker in
+migraine patients, though it is not known if this is the result of migraine attacks, the cause of them or if both
+are the result of a shared cause.[18][19] A later study using a larger patient population reports no change in
+the cortical thickness in patients with migraine.[20] A genetic disorder of the cerebral cortex, whereby
+decreased folding in certain areas results in a microgyrus, where there are four layers instead of six, is in
+some instances seen to be related to dyslexia.[21]
+The neocortex is formed of six layers, numbered I to VI, from the
+outermost layer I – near to the pia mater, to the innermost layer VI –
+near to the underlying white matter. Each cortical layer has a
+characteristic distribution of different neurons and their connections
+with other cortical and subcortical regions. There are direct
+connections between different cortical areas and indirect
+connections via the thalamus.
+One of the clearest examples of cortical layering is the line of
+Gennari in the primary visual cortex. This is a band of whiter tissue
+that can be observed with the naked eye in the calcarine sulcus of
+the occipital lobe. The line of Gennari is composed of axons
+bringing visual information from the thalamus into layer IV of the
+visual cortex.
+Staining cross-sections of the cortex to reveal the position of
+neuronal cell bodies and the intracortical axon tracts allowed
+neuroanatomists in the early 20th century to produce a detailed
+description of the laminar structure of the cortex in different
+species. The work of Korbinian Brodmann (1909) established that
+the mammalian neocortex is consistently divided into six layers.
+Layer I is the molecular layer of cerebral cortex|molecular layer, and contains few scattered neurons,
+including GABAergic rosehip neurons.[22] Layer I consists largely of extensions of apical dendritic tufts of
+pyramidal neurons and horizontally oriented axons, as well as glial cells.[4] During development, Cajal–
+Retzius cells[23] and subpial granular layer cells[24] are present in this layer. Also, some spiny stellate cells
+can be found here. Inputs to the apical tufts are thought to be crucial for the feedback interactions in the
+cerebral cortex involved in associative learning and attention.[25] While it was once thought that the input to
+layer I came from the cortex itself,[26] it is now realized that layer I across the cerebral cortex mantle
+receives substantial input from matrix or M-type thalamus cells[27] (in contrast to core or C-type that go to
+layer IV).[28]
+Layers of neocortex
+Layer I
+Layer II
+Three drawings of cortical lamination
+by Santiago Ramon y Cajal, each
+showing a vertical cross-section,
+with the surface of the cortex at the
+top. Left: Nissl-stained visual cortex
+of a human adult. Middle: Nissl-
+stained motor cortex of a human
+adult. Right: Golgi-stained cortex of a
+11⁄2 month-old infant. The Nissl stain
+shows the cell bodies of neurons; the
+Golgi stain shows the dendrites and
+axons of a random subset of
+neurons.
+Layer II, the external granular layer, contains small pyramidal
+neurons and numerous stellate neurons.
+Layer III, the external pyramidal layer, contains predominantly
+small and medium-size pyramidal neurons, as well as non-
+pyramidal neurons with vertically oriented intracortical axons;
+layers I through III are the main target of interhemispheric
+corticocortical afferents, and layer III is the principal source of
+corticocortical efferents.
+Layer IV, the internal granular layer, contains different types of
+stellate and pyramidal cells, and is the main target of thalamocortical
+afferents from thalamus type C neurons (core-type)[28] as well as
+intra-hemispheric corticocortical afferents. The layers above layer
+IV are also referred to as supragranular layers (layers I-III), whereas
+the layers below are referred to as infragranular layers (layers V and
+VI).
+Layer V, the internal pyramidal layer, contains large pyramidal
+neurons. Axons from these leave the cortex and connect with
+subcortical structures including the basal ganglia. In the primary
+motor cortex of the frontal lobe, layer V contains giant pyramidal cells called Betz cells, whose axons travel
+through the internal capsule, the brain stem, and the spinal cord forming the corticospinal tract, which is the
+main pathway for voluntary motor control.
+Layer VI, the polymorphic layer or multiform layer, contains few large pyramidal neurons and many
+small spindle-like pyramidal and multiform neurons; layer VI sends efferent fibers to the thalamus,
+establishing a very precise reciprocal interconnection between the cortex and the thalamus.[29] That is, layer
+VI neurons from one cortical column connect with thalamus neurons that provide input to the same cortical
+column. These connections are both excitatory and inhibitory. Neurons send excitatory fibers to neurons in
+the thalamus and also send collaterals to the thalamic reticular nucleus that inhibit these same thalamus
+neurons or ones adjacent to them.[30] One theory is that because the inhibitory output is reduced by
+cholinergic input to the cerebral cortex, this provides the brainstem with adjustable "gain control for the
+relay of lemniscal inputs".[30]
+The cortical layers are not simply stacked one over the other; there exist characteristic connections between
+different layers and neuronal types, which span all the thickness of the cortex. These cortical microcircuits
+are grouped into cortical columns and minicolumns.[31] It has been proposed that the minicolumns are the
+Layer III
+Layer IV
+Layer V
+Layer VI
+Columns
+Micrograph showing the visual cortex
+(predominantly pink). Subcortical
+white matter (predominantly blue) is
+seen at the bottom of the image. HE-
+LFB stain.
+Golgi-stained neurons in the cortex
+(macaque)
+basic functional units of the cortex.[32] In 1957, Vernon
+Mountcastle showed that the functional properties of the cortex
+change abruptly between laterally adjacent points; however, they
+are continuous in the direction perpendicular to the surface. Later
+works have provided evidence of the presence of functionally
+distinct cortical columns in the visual cortex (Hubel and Wiesel,
+1959),[33] auditory cortex, and associative cortex.
+Cortical areas that lack a layer IV are called agranular. Cortical
+areas that have only a rudimentary layer IV are called
+dysgranular.[34] Information processing within each layer is
+determined by different temporal dynamics with that in layers II/III
+having a slow 2 Hz oscillation while that in layer V has a fast 10–
+15 Hz oscillation.[35]
+Based on the differences in laminar organization the cerebral cortex
+can be classified into two types, the large area of neocortex which
+has six cell layers, and the much smaller area of allocortex that has
+three or four layers:[3]
+The neocortex is also known as the isocortex or
+neopallium and is the part of the mature cerebral cortex
+with six distinct layers. Examples of neocortical areas
+include the granular primary motor cortex, and the striate
+primary visual cortex. The neocortex has two subtypes,
+the true isocortex and the proisocortex which is a
+transitional region between the isocortex and the regions
+of the periallocortex.
+The allocortex is the part of the cerebral cortex with three
+or four layers, and has three subtypes, the paleocortex
+with three cortical laminae, the archicortex which has
+four or five, and a transitional area adjacent to the
+allocortex, the periallocortex. Examples of allocortex are
+the olfactory cortex and the hippocampus.
+There is a transitional area between the neocortex and the allocortex called the paralimbic cortex, where
+layers 2, 3 and 4 are merged. This area incorporates the proisocortex of the neocortex and the periallocortex
+of the allocortex. In addition, the cerebral cortex may be classified into four lobes: the frontal lobe, temporal
+lobe, the parietal lobe, and the occipital lobe, named from their overlying bones of the skull.
+Blood supply to the cerebral cortex is part of the cerebral circulation. Cerebral arteries supply the blood that
+perfuses the cerebrum. This arterial blood carries oxygen, glucose, and other nutrients to the cortex.
+Cerebral veins drain the deoxygenated blood, and metabolic wastes including carbon dioxide, back to the
+heart.
+Types of cortex
+Blood supply and drainage
+Arterial supply showing the regions
+supplied by the posterior, middle, and
+anterior cerebral arteries.
+Cortical blood supply
+The main arteries supplying the cortex are the anterior cerebral
+artery, the middle cerebral artery, and the posterior cerebral artery.
+The anterior cerebral artery supplies the anterior portions of the
+brain, including most of the frontal lobe. The middle cerebral artery
+supplies the parietal lobes, temporal lobes, and parts of the occipital
+lobes. The middle cerebral artery splits into two branches to supply
+the left and right hemisphere, where they branch further. The
+posterior cerebral artery supplies the occipital lobes.
+The circle of Willis is the main blood system that deals with blood
+supply in the cerebrum and cerebral cortex.
+The prenatal development of the cerebral cortex is a complex and finely tuned process called corticogenesis,
+influenced by the interplay between genes and the environment.[36]
+The cerebral cortex develops from the most anterior part, the forebrain region, of the neural tube.[37][38]
+The neural plate folds and closes to form the neural tube. From the cavity inside the neural tube develops
+the ventricular system, and, from the neuroepithelial cells of its walls, the neurons and glia of the nervous
+system. The most anterior (front, or cranial) part of the neural plate, the prosencephalon, which is evident
+before neurulation begins, gives rise to the cerebral hemispheres and later cortex.[39]
+Cortical neurons are generated within the ventricular zone, next to the ventricles. At first, this zone contains
+neural stem cells, that transition to radial glial cells–progenitor cells, which divide to produce glial cells and
+neurons.[40]
+Development
+Neural tube
+Cortical neuron development
+Radial glia
+Neurogenesis is shown in red and
+lamination is shown in blue. Adapted
+from (Sur et al. 2001)
+The cerebral cortex is composed of a heterogenous population of
+cells that give rise to different cell types. The majority of these cells
+are derived from radial glia migration that form the different cell
+types of the neocortex and it is a period associated with an increase
+in neurogenesis. Similarly, the process of neurogenesis regulates
+lamination to form the different layers of the cortex. During this
+process there is an increase in the restriction of cell fate that begins
+with earlier progenitors giving rise to any cell type in the cortex and
+later progenitors giving rise only to neurons of superficial layers.
+This differential cell fate creates an inside-out topography in the
+cortex with younger neurons in superficial layers and older neurons
+in deeper layers. In addition, laminar neurons are stopped in S or G2 phase in order to give a fine distinction
+between the different cortical layers. Laminar differentiation is not fully complete until after birth since
+during development laminar neurons are still sensitive to extrinsic signals and environmental cues.[41]
+Although the majority of the cells that compose the cortex are derived locally from radial glia there is a
+subset population of neurons that migrate from other regions. Radial glia give rise to neurons that are
+pyramidal in shape and use glutamate as a neurotransmitter, however these migrating cells contribute
+neurons that are stellate-shaped and use GABA as their main neurotransmitter. These GABAergic neurons
+are generated by progenitor cells in the medial ganglionic eminence (MGE) that migrate tangentially to the
+cortex via the subventricular zone. This migration of GABAergic neurons is particularly important since
+GABA receptors are excitatory during development. This excitation is primarily driven by the flux of
+chloride ions through the GABA receptor, however in adults chloride concentrations shift causing an
+inward flux of chloride that hyperpolarizes postsynaptic neurons.[42] The glial fibers produced in the first
+divisions of the progenitor cells are radially oriented, spanning the thickness of the cortex from the
+ventricular zone to the outer, pial surface, and provide scaffolding for the migration of neurons outwards
+from the ventricular zone.[43][44]
+At birth there are very few dendrites present on the cortical neuron's cell body, and the axon is
+undeveloped. During the first year of life the dendrites become dramatically increased in number, such that
+they can accommodate up to a hundred thousand synaptic connections with other neurons. The axon can
+develop to extend a long way from the cell body.[45]
+The first divisions of the progenitor cells are symmetric, which duplicates the total number of progenitor
+cells at each mitotic cycle. Then, some progenitor cells begin to divide asymmetrically, producing one
+postmitotic cell that migrates along the radial glial fibers, leaving the ventricular zone, and one progenitor
+cell, which continues to divide until the end of development, when it differentiates into a glial cell or an
+ependymal cell. As the G1 phase of mitosis is elongated, in what is seen as selective cell-cycle lengthening,
+the newly born neurons migrate to more superficial layers of the cortex.[46] The migrating daughter cells
+become the pyramidal cells of the cerebral cortex.[47] The development process is time ordered and
+regulated by hundreds of genes and epigenetic regulatory mechanisms.[48]
+Asymmetric division
+Layer organization
+Human cortical development
+between 26 and 39 week gestational
+age
+Depicted in blue, Emx2 is highly
+expressed at the caudomedial pole
+and dissipates outward. Pax6
+expression is represented in purple
+and is highly expressed at the rostral
+lateral pole. (Adapted from Sanes,
+D., Reh, T., & Harris, W. (2012).
+Development of the Nervous System
+(3rd ed.). Burlington: Elsevier
+Science)
+The layered structure of the mature cerebral cortex is formed during
+development. The first pyramidal neurons generated migrate out of
+the ventricular zone and subventricular zone, together with reelin-
+producing Cajal–Retzius neurons, from the preplate. Next, a
+cohort of neurons migrating into the middle of the preplate divides
+this transient layer into the superficial marginal zone, which will
+become layer I of the mature neocortex, and the subplate,[49]
+forming a middle layer called the cortical plate. These cells will
+form the deep layers of the mature cortex, layers five and six. Later
+born neurons migrate radially into the cortical plate past the deep
+layer neurons, and become the upper layers (two to four). Thus, the
+layers of the cortex are created in an inside-out order.[50] The only
+exception to this inside-out sequence of neurogenesis occurs in the
+layer I of primates, in which, in contrast to rodents, neurogenesis
+continues throughout the entire period of corticogenesis.[51]
+The map of functional cortical areas, which include primary motor
+and visual cortex, originates from a 'protomap',[52] which is
+regulated by molecular signals such as fibroblast growth factor
+FGF8 early in embryonic development.[53][54] These signals
+regulate the size, shape, and position of cortical areas on the surface
+of the cortical primordium, in part by regulating gradients of
+transcription factor expression, through a process called cortical
+patterning. Examples of such transcription factors include the genes
+EMX2 and PAX6.[55] Together, both transcription factors form an
+opposing gradient of expression. Pax6 is highly expressed at the
+rostral lateral pole, while Emx2 is highly expressed in the
+caudomedial pole. The establishment of this gradient is important
+for proper development. For example, mutations in Pax6 can cause
+expression levels of Emx2 to expand out of its normal expression
+domain, which would ultimately lead to an expansion of the areas
+normally derived from the caudal medial cortex, such as the visual
+cortex. On the contrary, if mutations in Emx2 occur, it can cause the
+Pax6-expressing domain to expand and result in the frontal and
+motor cortical regions enlarging. Therefore, researchers believe that similar gradients and signaling centers
+next to the cortex could contribute to the regional expression of these transcription factors.[42] Two very
+well studied patterning signals for the cortex include FGF and retinoic acid. If FGFs are misexpressed in
+different areas of the developing cortex, cortical patterning is disrupted. Specifically, when Fgf8 is increased
+in the anterior pole, Emx2 is downregulated and a caudal shift in the cortical region occurs. This ultimately
+causes an expansion of the rostral regions. Therefore, Fgf8 and other FGFs play a role in the regulation of
+expression of Emx2 and Pax6 and represent how the cerebral cortex can become specialized for different
+functions.[42]
+Cortical patterning
+Some functional areas of cortex
+Rapid expansion of the cortical surface area is regulated by the amount of self-renewal of radial glial cells
+and is partly regulated by FGF and Notch genes.[56] During the period of cortical neurogenesis and layer
+formation, many higher mammals begin the process of gyrification, which generates the characteristic folds
+of the cerebral cortex.[57][58] Gyrification is regulated by a DNA-associated protein Trnp1[59] and by FGF
+and SHH signaling[60][61]
+Of all the different brain regions, the cerebral cortex shows the largest evolutionary variation and has
+evolved most recently.[6] In contrast to the highly conserved circuitry of the medulla oblongata, for
+example, which serves critical functions such as regulation of heart and respiration rates, many areas of the
+cerebral cortex are not strictly necessary for survival. Thus, the evolution of the cerebral cortex has seen the
+advent and modification of new functional areas—particularly association areas that do not directly receive
+input from outside the cortex.[6]
+A key theory of cortical evolution is embodied in the radial unit hypothesis and related protomap
+hypothesis, first proposed by Rakic.[62] This theory states that new cortical areas are formed by the addition
+of new radial units, which is accomplished at the stem cell level. The protomap hypothesis states that the
+cellular and molecular identity and characteristics of neurons in each cortical area are specified by cortical
+stem cells, known as radial glial cells, in a primordial map. This map is controlled by secreted signaling
+proteins and downstream transcription factors.[63][64][65]
+The cerebral cortex is connected to various subcortical structures
+such as the thalamus and the basal ganglia, sending information to
+them along efferent connections and receiving information from
+them via afferent connections. Most sensory information is routed to
+the cerebral cortex via the thalamus. Olfactory information,
+however, passes through the olfactory bulb to the olfactory cortex
+(piriform cortex). The majority of connections are from one area of
+the cortex to another, rather than from subcortical areas; Braitenberg
+and Schüz (1998) claim that in primary sensory areas, at the cortical
+level where the input fibers terminate, up to 20% of the synapses
+are supplied by extracortical afferents but that in other areas and
+other layers the percentage is likely to be much lower.[66]
+The whole of the cerebral cortex was divided into 52 different areas in an early presentation by Korbinian
+Brodmann. These areas known as Brodmann areas, are based on their cytoarchitecture but also relate to
+various functions. An example is Brodmann area 17 which is the primary visual cortex.
+Evolution
+Function
+Connections
+Cortical areas
+Motor and sensory regions of the
+cerebral cortex
+In more general terms the cortex is typically described as comprising three parts: sensory, motor, and
+association areas.
+The sensory areas are the cortical areas that receive and process
+information from the senses. Parts of the cortex that receive sensory
+inputs from the thalamus are called primary sensory areas. The
+senses of vision, hearing, and touch are served by the primary
+visual cortex, primary auditory cortex and primary somatosensory
+cortex respectively. In general, the two hemispheres receive
+information from the opposite (contralateral) side of the body. For
+example, the right primary somatosensory cortex receives
+information from the left limbs, and the right visual cortex receives
+information from the left visual field. The organization of sensory
+maps in the cortex reflects that of the corresponding sensing organ,
+in what is known as a topographic map. Neighboring points in the
+primary visual cortex, for example, correspond to neighboring
+points in the retina. This topographic map is called a retinotopic
+map. In the same way, there exists a tonotopic map in the primary auditory cortex and a somatotopic map in
+the primary sensory cortex. This last topographic map of the body onto the posterior central gyrus has been
+illustrated as a deformed human representation, the somatosensory homunculus, where the size of different
+body parts reflects the relative density of their innervation. Areas with much sensory innervation, such as
+the fingertips and the lips, require more cortical area to process finer sensation.
+The motor areas are located in both hemispheres of the cortex. The motor areas are very closely related to
+the control of voluntary movements, especially fine fragmented movements performed by the hand. The
+right half of the motor area controls the left side of the body, and vice versa.
+Two areas of the cortex are commonly referred to as motor:
+Primary motor cortex, which executes voluntary movements [67]
+Supplementary motor areas and premotor cortex, which select voluntary movements.[68]
+In addition, motor functions have been described for:
+Posterior parietal cortex, which guides voluntary movements in space
+Dorsolateral prefrontal cortex, which decides which voluntary movements to make according
+to higher-order instructions, rules, and self-generated thoughts.
+Just underneath the cerebral cortex are interconnected subcortical masses of grey matter called basal ganglia
+(or nuclei). The basal ganglia receive input from the substantia nigra of the midbrain and motor areas of the
+cerebral cortex, and send signals back to both of these locations. They are involved in motor control. They
+are found lateral to the thalamus. The main components of the basal ganglia are the caudate nucleus, the
+putamen, the globus pallidus, the substantia nigra, the nucleus accumbens, and the subthalamic nucleus.
+Sensory areas
+Motor areas
+Cortical areas involved in speech
+processing.
+The putamen and globus pallidus are also collectively known as the lentiform nucleus, because together
+they form a lens-shaped body. The putamen and caudate nucleus are also collectively called the corpus
+striatum after their striped appearance.[69][70]
+The association areas are the parts of the cerebral cortex that do not
+belong to the primary regions. They function to produce a
+meaningful perceptual experience of the world, enable us to interact
+effectively, and support abstract thinking and language. The
+parietal, temporal, and occipital lobes – all located in the posterior
+part of the cortex – integrate sensory information and information
+stored in memory. The frontal lobe or prefrontal association
+complex is involved in planning actions and movement, as well as
+abstract thought. Globally, the association areas are organized as
+distributed networks.[71] Each network connects areas distributed
+across widely spaced regions of the cortex. Distinct networks are positioned adjacent to one another
+yielding a complex series of interwoven networks. The specific organization of the association networks is
+debated with evidence for interactions, hierarchical relationships, and competition between networks.
+In humans, association networks are particularly important to language function. In the past it was theorized
+that language abilities are localized in Broca's area in areas of the left inferior frontal gyrus, BA44 and
+BA45, for language expression and in Wernicke's area BA22, for language reception. However, the
+processes of language expression and reception have been shown to occur in areas other than just those
+structures around the lateral sulcus, including the frontal lobe, basal ganglia, cerebellum, and pons.[72]
+Neurodegenerative diseases such as Alzheimer's disease, show as a marker, an atrophy of the grey matter of
+the cerebral cortex.[74]
+Other diseases of the central nervous system include neurological disorders such as epilepsy, movement
+disorders, and different types of aphasia (difficulties in speech expression or comprehension).
+Brain damage from disease or trauma, can involve damage to a specific lobe such as in frontal lobe disorder,
+and associated functions will be affected. The blood–brain barrier that serves to protect the brain from
+infection can become compromised allowing entry to pathogens.
+The developing fetus is susceptible to a range of environmental factors that can cause birth defects and
+problems in later development. Maternal alcohol consumption for example can cause fetal alcohol spectrum
+disorder.[75] Other factors that can cause neurodevelopment disorders are toxicants such as drugs, and
+exposure to radiation as from X-rays. Infections can also affect the development of the cortex. A viral
+infection is one of the causes of lissencephaly, which results in a smooth cortex without gyrification.
+Association areas
+Clinical significance
+Hemodynamic changes observed on gyrencephalic brain cortex after an arterial vessel
+occlusion in IOS. The video has a speed of 50x to better appreciate the spreading
+depolarization over the brain cortex. Pictures are dynamically subtracted to a reference
+picture 40 s before. First we see the initial are of change at the exact moment where
+the middle cerebral artery group (left) is occluded. The area is highlighted with a white
+line. Later we appreciate the signal produced by Spreading Depolarizations. We see
+markedly the front of waves.[73] https://doi.org/10.1007/s00701-019-04132-8
+A 
+type 
+of
+electrocorticography
+called 
+cortical
+stimulation 
+mapping
+is 
+an 
+invasive
+procedure 
+that
+involves 
+placing
+electrodes 
+directly
+onto 
+the 
+exposed
+brain 
+in 
+order 
+to
+localise the functions
+of specific areas of the
+cortex. It is used in
+clinical 
+and
+therapeutic
+applications including
+pre-surgical
+mapping.[76]
+There are a number of genetic mutations that can cause a wide range of genetic disorders of the cerebral
+cortex, including microcephaly, schizencephaly and types of lissencephaly.[77] Chromosome abnormalities
+can also result causing a number of neurodevelopmental disorders such as fragile X syndrome and Rett
+syndrome.
+MCPH1 codes for microcephalin, and disorders in this and in ASPM are associated with microcephaly.[77]
+Mutations in the gene NBS1 that codes for nibrin can cause Nijmegen breakage syndrome, characterised by
+microcephaly.[77]
+Mutations in EMX2,[78] and COL4A1 are associated with schizencephaly,[79] a condition marked by the
+absence of large parts of the cerebral hemispheres.
+In 1909, Korbinian Brodmann distinguished different areas of the neocortex based on cytoarchitectural
+difference and divided the cerebral cortex into 52 regions.[80]
+Rafael Lorente de Nó, a student of Santiago Ramon y Cajal identified more than 40 different types of
+cortical neurons based on the distribution of their dendrites and axons.[80]
+Genes
+associated
+with cortical
+disorders
+History
+Other animals
+The cerebral cortex is derived from the pallium, a layered structure found in the forebrain of all vertebrates.
+The basic form of the pallium is a cylindrical layer enclosing fluid-filled ventricles. Around the
+circumference of the cylinder are four zones, the dorsal pallium, medial pallium, ventral pallium, and lateral
+pallium, which are thought to be homologous to the neocortex, hippocampus, amygdala, and olfactory
+cortex, respectively.
+In avian brains, evidence suggests the avian pallium's neuroarchitecture to be reminiscent of the mammalian
+cerebral cortex.[81] The avian pallium has also been suggested to be an equivalent neural basis for
+consciousness.[82][83]
+Until recently no counterpart to the cerebral cortex had been recognized in invertebrates. However, a study
+published in the journal Cell in 2010, based on gene expression profiles, reported strong affinities between
+the cerebral cortex and the mushroom bodies of the ragworm Platynereis dumerilii.[84] Mushroom bodies
+are structures in the brains of many types of worms and arthropods that are known to play important roles in
+learning and memory; the genetic evidence indicates a common evolutionary origin, and therefore indicates
+that the origins of the earliest precursors of the cerebral cortex date back to the Precambrian era.
+Lateral surface of the
+human cerebral cortex
+ 
+Medial surface of the
+human cerebral cortex
+ 
+Tissue slice from the
+brain of an adult
+macaque monkey.
+The cerebral cortex is
+depicted in dark violet.
+Brain–computer interface
+Cortical dysplasia
+Cortical homunculus
+Eloquent cortex
+EMX1
+Gray matter heterotopia
+Limbic system
+List of regions in the human brain
+Insular cortex
+Additional images
+See also
+References
+1. "cerebral mantle" (https://www.thefreedictionary.com/cerebral+mantle).
+TheFreeDictionary.com. Retrieved 9 May 2024.
+2. Saladin, Kenneth (2011). Human anatomy (3rd ed.). McGraw-Hill. pp. 416–422.
+ISBN 9780071222075.
+3. Strominger, Norman L.; Demarest, Robert J.; Laemle, Lois B. (2012). "Cerebral Cortex".
+Noback's Human Nervous System, Seventh Edition. Humana Press. pp. 429–451.
+doi:10.1007/978-1-61779-779-8_25 (https://doi.org/10.1007%2F978-1-61779-779-8_25).
+ISBN 978-1-61779-778-1.
+4. Shipp, Stewart (17 June 2007). "Structure and function of the cerebral cortex" (https://www.nc
+bi.nlm.nih.gov/pmc/articles/PMC1870400). Current Biology. 17 (12): R443–9.
+Bibcode:2007CBio...17.R443S (https://ui.adsabs.harvard.edu/abs/2007CBio...17.R443S).
+doi:10.1016/j.cub.2007.03.044 (https://doi.org/10.1016%2Fj.cub.2007.03.044).
+PMC 1870400 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1870400). PMID 17580069 (h
+ttps://pubmed.ncbi.nlm.nih.gov/17580069).
+5. Fernández, V; Llinares-Benadero, C; Borrell, V (17 May 2016). "Cerebral cortex expansion
+and folding: what have we learned?" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC486895
+0). The EMBO Journal. 35 (10): 1021–44. doi:10.15252/embj.201593701 (https://doi.org/10.1
+5252%2Fembj.201593701). PMC 4868950 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4
+868950). PMID 27056680 (https://pubmed.ncbi.nlm.nih.gov/27056680).
+6. Rakic, P (October 2009). "Evolution of the neocortex: a perspective from developmental
+biology" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2913577). Nature Reviews
+Neuroscience. 10 (10): 724–35. doi:10.1038/nrn2719 (https://doi.org/10.1038%2Fnrn2719).
+PMC 2913577 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2913577). PMID 19763105 (h
+ttps://pubmed.ncbi.nlm.nih.gov/19763105).
+7. Principles of neural science (https://archive.org/details/isbn_9780838577011) (4th ed.).
+McGraw-Hill, Health Professions Division. 5 January 2000. ISBN 978-0838577011.
+8. Roberts, P (1992). Neuroanatomy (3rd ed.). Springer-Verlag. pp. 86–92.
+ISBN 9780387977775.
+9. Lodato, Simona; Arlotta, Paola (13 November 2015). "Generating Neuronal Diversity in the
+Mammalian Cerebral Cortex" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778709).
+Annual Review of Cell and Developmental Biology. 31 (1): 699–720. doi:10.1146/annurev-
+cellbio-100814-125353 (https://doi.org/10.1146%2Fannurev-cellbio-100814-125353).
+PMC 4778709 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4778709). PMID 26359774 (h
+ttps://pubmed.ncbi.nlm.nih.gov/26359774). "Functional columns were first defined in the
+cortex by Mountcastle (1957), who proposed the columnar hypothesis, which states that the
+cortex is composed of discrete, modular columns of neurons, characterized by a consistent
+connectivity profile."
+10. Ansen-Wilson, LJ; Lipinski, RJ (January 2017). "Gene-environment interactions in cortical
+interneuron development and dysfunction: A review of preclinical studies" (https://www.ncbi.n
+lm.nih.gov/pmc/articles/PMC5328258). Neurotoxicology. 58: 120–129.
+Bibcode:2017NeuTx..58..120A (https://ui.adsabs.harvard.edu/abs/2017NeuTx..58..120A).
+doi:10.1016/j.neuro.2016.12.002 (https://doi.org/10.1016%2Fj.neuro.2016.12.002).
+PMC 5328258 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5328258). PMID 27932026 (h
+ttps://pubmed.ncbi.nlm.nih.gov/27932026).
+11. Carpenter (1985). Core text of neuroanatomy (3rd ed.). Williams & Wilkins. pp. 348–358.
+ISBN 978-0683014556.
+12. Toro, Roberto; Perron, Michel; Pike, Bruce; Richer, Louis; Veillette, Suzanne; Pausova,
+Zdenka; Paus, Tomáš (1 October 2008). "Brain Size and Folding of the Human Cerebral
+Cortex" (https://doi.org/10.1093%2Fcercor%2Fbhm261). Cerebral Cortex. 18 (10): 2352–
+2357. doi:10.1093/cercor/bhm261 (https://doi.org/10.1093%2Fcercor%2Fbhm261).
+ISSN 1047-3211 (https://www.worldcat.org/issn/1047-3211). PMID 18267953 (https://pubme
+d.ncbi.nlm.nih.gov/18267953).
+13. Nieuwenhuys, R (2012). "The insular cortex". Evolution of the Primate Brain. Progress in
+Brain Research. Vol. 195. pp. 123–63. doi:10.1016/B978-0-444-53860-4.00007-6 (https://doi.
+org/10.1016%2FB978-0-444-53860-4.00007-6). ISBN 978-0-444-53860-4. PMID 22230626
+(https://pubmed.ncbi.nlm.nih.gov/22230626).
+14. Tortora, G; Derrickson, B (2011). Principles of anatomy & physiology (13th. ed.). Wiley.
+p. 549. ISBN 9780470646083.
+15. Nieuwenhuys R, Donkelaar HJ, Nicholson C (1998). The central nervous system of
+vertebrates, Volume 1. Springer. pp. 2011–2012. ISBN 978-3-540-56013-5.
+16. Frithjof Kruggel; Martina K. Brückner; Thomas Arendt; Christopher J. Wiggins; D. Yves von
+Cramon (2003). "Analyzing the neocortical fine-structure" (http://edoc.mpg.de/239105).
+Medical Image Analysis. 7 (3): 251–264. doi:10.1016/S1361-8415(03)00006-9 (https://doi.or
+g/10.1016%2FS1361-8415%2803%2900006-9). hdl:11858/00-001M-0000-0010-9C60-3 (htt
+ps://hdl.handle.net/11858%2F00-001M-0000-0010-9C60-3). PMID 12946467 (https://pubme
+d.ncbi.nlm.nih.gov/12946467).
+17. Katherine L. Narr; Roger P. Woods; Paul M. Thompson; Philip Szeszko; Dilbert Robinson;
+Teodora Dimtcheva; Mala Gurbani; Arthur W. Toga; Robert M. Bilder (2007). "Relationships
+between IQ and Regional Cortical Grey Matter Thickness in Healthy Adults" (https://doi.org/1
+0.1093%2Fcercor%2Fbhl125). Cerebral Cortex. 17 (9): 2163–2171.
+doi:10.1093/cercor/bhl125 (https://doi.org/10.1093%2Fcercor%2Fbhl125). PMID 17118969
+(https://pubmed.ncbi.nlm.nih.gov/17118969).
+18. Alexandre F.M. DaSilva; Cristina Granziera; Josh Snyder; Nouchine Hadjikhani (2007).
+"Thickening in the somatosensory cortex of patients with migraine" (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC3757544). Neurology. 69 (21): 1990–1995.
+doi:10.1212/01.wnl.0000291618.32247.2d (https://doi.org/10.1212%2F01.wnl.0000291618.3
+2247.2d). PMC 3757544 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757544).
+PMID 18025393 (https://pubmed.ncbi.nlm.nih.gov/18025393).
+19. Catharine Paddock (20 November 2007). "Migraine Sufferers Have Thicker Brain Cortex" (ht
+tp://www.medicalnewstoday.com/articles/89286.php). Medical News Today. Archived (https://
+web.archive.org/web/20080511153657/http://www.medicalnewstoday.com/articles/89286.ph
+p) from the original on 11 May 2008.
+20. Datte R, Detre JA, et al. (October 2011). "Absence of changes in cortical thickness in
+patients with migraine" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3512201).
+Cephalalgia. 31 (14): 1452–8. doi:10.1177/0333102411421025 (https://doi.org/10.1177%2F
+0333102411421025). PMC 3512201 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC351220
+1). PMID 21911412 (https://pubmed.ncbi.nlm.nih.gov/21911412).
+21. Habib M (2000). "The neurological basis of developmental dyslexia: an overview and
+working hypothesis" (https://doi.org/10.1093%2Fbrain%2F123.12.2373). Brain. 123 (12):
+2373–99. doi:10.1093/brain/123.12.2373 (https://doi.org/10.1093%2Fbrain%2F123.12.237
+3). PMID 11099442 (https://pubmed.ncbi.nlm.nih.gov/11099442).
+22. "Scientists identify a new kind of human brain cell" (https://www.alleninstitute.org/what-we-d
+o/brain-science/news-press/articles/scientists-identify-new-kind-human-brain-cell). Allen
+Institute. 27 August 2018.
+23. Meyer, Gundela; Goffinet, André M.; Fairén, Alfonso (1999). "Feature Article: What is a Cajal–
+Retzius cell? A Reassessment of a Classical Cell Type Based on Recent Observations in
+the Developing Neocortex". Cerebral Cortex. 9 (8): 765–775. doi:10.1093/cercor/9.8.765 (htt
+ps://doi.org/10.1093%2Fcercor%2F9.8.765). PMID 10600995 (https://pubmed.ncbi.nlm.nih.g
+ov/10600995).
+24. Judaš, Miloš; Pletikos, Mihovil (2010). "The discovery of the subpial granular layer in the
+human cerebral cortex" (https://doi.org/10.2478%2Fv10134-010-0037-4). Translational
+Neuroscience. 1 (3): 255–260. doi:10.2478/v10134-010-0037-4 (https://doi.org/10.2478%2Fv
+10134-010-0037-4). S2CID 143409890 (https://api.semanticscholar.org/CorpusID:14340989
+0).
+25. Gilbert CD, Sigman M (2007). "Brain states: top-down influences in sensory processing" (htt
+ps://doi.org/10.1016%2Fj.neuron.2007.05.019). Neuron. 54 (5): 677–96.
+doi:10.1016/j.neuron.2007.05.019 (https://doi.org/10.1016%2Fj.neuron.2007.05.019).
+hdl:11336/67502 (https://hdl.handle.net/11336%2F67502). PMID 17553419 (https://pubmed.
+ncbi.nlm.nih.gov/17553419).
+26. Cauller L (1995). "Layer I of primary sensory neocortex: where top-down converges upon
+bottom-up". Behav Brain Res. 71 (1–2): 163–70. doi:10.1016/0166-4328(95)00032-1 (https://
+doi.org/10.1016%2F0166-4328%2895%2900032-1). PMID 8747184 (https://pubmed.ncbi.nl
+m.nih.gov/8747184). S2CID 4015532 (https://api.semanticscholar.org/CorpusID:4015532).
+27. Rubio-Garrido P, Pérez-de-Manzo F, Porrero C, Galazo MJ, Clascá F (2009). "Thalamic
+input to distal apical dendrites in neocortical layer 1 is massive and highly convergent" (http
+s://doi.org/10.1093%2Fcercor%2Fbhn259). Cereb Cortex. 19 (10): 2380–95.
+doi:10.1093/cercor/bhn259 (https://doi.org/10.1093%2Fcercor%2Fbhn259). PMID 19188274
+(https://pubmed.ncbi.nlm.nih.gov/19188274).
+28. Jones EG (1998). "Viewpoint: the core and matrix of thalamic organization". Neuroscience.
+85 (2): 331–45. doi:10.1016/S0306-4522(97)00581-2 (https://doi.org/10.1016%2FS0306-452
+2%2897%2900581-2). PMID 9622234 (https://pubmed.ncbi.nlm.nih.gov/9622234).
+S2CID 17846130 (https://api.semanticscholar.org/CorpusID:17846130).
+29. Creutzfeldt, O. 1995. Cortex Cerebri. Springer-Verlag.
+30. Lam YW, Sherman SM (2010). "Functional Organization of the Somatosensory Cortical
+Layer 6 Feedback to the Thalamus" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC279218
+6). Cereb Cortex. 20 (1): 13–24. doi:10.1093/cercor/bhp077 (https://doi.org/10.1093%2Fcerc
+or%2Fbhp077). PMC 2792186 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2792186).
+PMID 19447861 (https://pubmed.ncbi.nlm.nih.gov/19447861).
+31. Suzuki, IK; Hirata, T (January 2013). "Neocortical neurogenesis is not really "neo": a new
+evolutionary model derived from a comparative study of chick pallial development" (https://di
+pot.ulb.ac.be/dspace/bitstream/2013/183204/3/183204.pdf) (PDF). Development, Growth &
+Differentiation. 55 (1): 173–87. doi:10.1111/dgd.12020 (https://doi.org/10.1111%2Fdgd.1202
+0). PMID 23230908 (https://pubmed.ncbi.nlm.nih.gov/23230908). S2CID 36706690 (https://a
+pi.semanticscholar.org/CorpusID:36706690).
+32. Mountcastle V (1997). "The columnar organization of the neocortex" (https://doi.org/10.109
+3%2Fbrain%2F120.4.701). Brain. 120 (4): 701–722. doi:10.1093/brain/120.4.701 (https://doi.
+org/10.1093%2Fbrain%2F120.4.701). PMID 9153131 (https://pubmed.ncbi.nlm.nih.gov/9153
+131).
+33. Hubel DH, Wiesel TN (October 1959). "Receptive fields of single neurones in the cat's striate
+cortex" (http://www.jphysiol.org/cgi/pmidlookup?view=long&pmid=14403679). The Journal of
+Physiology. 148 (3): 574–91. doi:10.1113/jphysiol.1959.sp006308 (https://doi.org/10.1113%
+2Fjphysiol.1959.sp006308). PMC 1363130 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1
+363130). PMID 14403679 (https://pubmed.ncbi.nlm.nih.gov/14403679).
+34. S.M. Dombrowski, C.C. Hilgetag, and H. Barbas. Quantitative Architecture Distinguishes
+Prefrontal Cortical Systems in the Rhesus Monkey (http://cercor.oxfordjournals.org/cgi/conte
+nt/full/11/10/975) Archived (https://web.archive.org/web/20080829143033/http://cercor.oxfordj
+ournals.org/cgi/content/full/11/10/975) 2008-08-29 at the Wayback Machine.Cereb. Cortex
+11: 975–988. "...they either lack (agranular) or have only a rudimentary granular layer IV
+(dysgranular)."
+35. Sun W, Dan Y (2009). "Layer-specific network oscillation and spatiotemporal receptive field
+in the visual cortex" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2764922). Proc Natl
+Acad Sci U S A. 106 (42): 17986–17991. Bibcode:2009PNAS..10617986S (https://ui.adsab
+s.harvard.edu/abs/2009PNAS..10617986S). doi:10.1073/pnas.0903962106 (https://doi.org/1
+0.1073%2Fpnas.0903962106). PMC 2764922 (https://www.ncbi.nlm.nih.gov/pmc/articles/P
+MC2764922). PMID 19805197 (https://pubmed.ncbi.nlm.nih.gov/19805197).
+36. Pletikos, Mihovil; Sousa, Andre MM; et al. (22 January 2014). "Temporal Specification and
+Bilaterality of Human Neocortical Topographic Gene Expression" (https://www.ncbi.nlm.nih.g
+ov/pmc/articles/PMC3931000). Neuron. 81 (2): 321–332. doi:10.1016/j.neuron.2013.11.018
+(https://doi.org/10.1016%2Fj.neuron.2013.11.018). PMC 3931000 (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC3931000). PMID 24373884 (https://pubmed.ncbi.nlm.nih.gov/2437388
+4).
+37. Wolpert, Lewis (2015). Principles of development (Fifth ed.). UK: Oxford University Press.
+p. 533. ISBN 9780199678143.
+38. Warren N, Caric D, Pratt T, Clausen JA, Asavaritikrai P, Mason JO, Hill RE, Price DJ (1999).
+"The transcription factor, Pax6, is required for cell proliferation and differentiation in the
+developing cerebral cortex" (https://doi.org/10.1093%2Fcercor%2F9.6.627). Cerebral Cortex.
+9 (6): 627–35. doi:10.1093/cercor/9.6.627 (https://doi.org/10.1093%2Fcercor%2F9.6.627).
+PMID 10498281 (https://pubmed.ncbi.nlm.nih.gov/10498281).
+39. Larsen, W J. Human Embryology 3rd edition 2001. pp 421-422 ISBN 0-443-06583-7
+40. Stephen C. Noctor; Alexander C. Flint; Tamily A. Weissman; Ryan S. Dammerman & Arnold
+R. Kriegstein (2001). "Neurons derived from radial glial cells establish radial units in
+neocortex". Nature. 409 (6821): 714–720. Bibcode:2001Natur.409..714N (https://ui.adsabs.h
+arvard.edu/abs/2001Natur.409..714N). doi:10.1038/35055553 (https://doi.org/10.1038%2F35
+055553). PMID 11217860 (https://pubmed.ncbi.nlm.nih.gov/11217860). S2CID 3041502 (htt
+ps://api.semanticscholar.org/CorpusID:3041502).
+41. Sur, Mriganka; Leamey, Catherine A. (2001). "Development and Plasticity of Cortical Areas
+and Networks". Nature Reviews Neuroscience. 2 (4): 251–262. doi:10.1038/35067562 (http
+s://doi.org/10.1038%2F35067562). PMID 11283748 (https://pubmed.ncbi.nlm.nih.gov/11283
+748). S2CID 893478 (https://api.semanticscholar.org/CorpusID:893478).
+42. Sanes, Dan H.; Reh, Thomas A.; Harris, William A. (2012). Development of the Nervous
+System. Elsevier Inc. ISBN 978-0-12-374539-2.
+43. Rakic, P (October 2009). "Evolution of the neocortex: a perspective from developmental
+biology" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2913577). Nature Reviews
+Neuroscience. 10 (10): 724–35. doi:10.1038/nrn2719 (https://doi.org/10.1038%2Fnrn2719).
+PMC 2913577 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2913577). PMID 19763105 (h
+ttps://pubmed.ncbi.nlm.nih.gov/19763105).
+44. Rakic, P (November 1972). "Extrinsic cytological determinants of basket and stellate cell
+dendritic pattern in the cerebellar molecular layer". The Journal of Comparative Neurology.
+146 (3): 335–54. doi:10.1002/cne.901460304 (https://doi.org/10.1002%2Fcne.901460304).
+PMID 4628749 (https://pubmed.ncbi.nlm.nih.gov/4628749). S2CID 31900267 (https://api.se
+manticscholar.org/CorpusID:31900267).
+45. Gilbert, Scott (2006). Developmental biology (8th ed.). Sinauer Associates Publishers.
+pp. 394–395. ISBN 9780878932504.
+46. Calegari, F; Haubensack W; Haffner C; Huttner WB (2005). "Selective lengthening of the cell
+cycle in the neurogenic subpopulation of neural progenitor cells during mouse brain
+development" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6725437). The Journal of
+Neuroscience. 25 (28): 6533–8. doi:10.1523/jneurosci.0778-05.2005 (https://doi.org/10.152
+3%2Fjneurosci.0778-05.2005). PMC 6725437 (https://www.ncbi.nlm.nih.gov/pmc/articles/PM
+C6725437). PMID 16014714 (https://pubmed.ncbi.nlm.nih.gov/16014714).
+47. P. Rakic (1988). "Specification of cerebral cortical areas". Science. 241 (4862): 170–176.
+Bibcode:1988Sci...241..170R (https://ui.adsabs.harvard.edu/abs/1988Sci...241..170R).
+doi:10.1126/science.3291116 (https://doi.org/10.1126%2Fscience.3291116). PMID 3291116
+(https://pubmed.ncbi.nlm.nih.gov/3291116).
+48. Hu, X.L.; Wang, Y.; Shen, Q. (2012). "Epigenetic control on cell fate choice in neural stem
+cells" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729703). Protein & Cell. 3 (4): 278–
+290. doi:10.1007/s13238-012-2916-6 (https://doi.org/10.1007%2Fs13238-012-2916-6).
+PMC 4729703 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729703). PMID 22549586 (h
+ttps://pubmed.ncbi.nlm.nih.gov/22549586).
+49. Kostović, Ivica (1990). "Developmental history of the transient subplate zone in the visual
+and somatosensory cortex of the macaque monkey and human brain". Journal of
+Comparative Neurology. 297 (3): 441–470. doi:10.1002/cne.902970309 (https://doi.org/10.10
+02%2Fcne.902970309). PMID 2398142 (https://pubmed.ncbi.nlm.nih.gov/2398142).
+S2CID 21371568 (https://api.semanticscholar.org/CorpusID:21371568).
+50. Rakic, P (1 February 1974). "Neurons in rhesus monkey visual cortex: systematic relation
+between time of origin and eventual disposition". Science. 183 (4123): 425–7.
+Bibcode:1974Sci...183..425R (https://ui.adsabs.harvard.edu/abs/1974Sci...183..425R).
+doi:10.1126/science.183.4123.425 (https://doi.org/10.1126%2Fscience.183.4123.425).
+PMID 4203022 (https://pubmed.ncbi.nlm.nih.gov/4203022). S2CID 10881759 (https://api.se
+manticscholar.org/CorpusID:10881759).
+51. Zecevic N, Rakic P (2001). "Development of layer I neurons in the primate cerebral cortex"
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6762645). The Journal of Neuroscience. 21
+(15): 5607–19. doi:10.1523/JNEUROSCI.21-15-05607.2001 (https://doi.org/10.1523%2FJN
+EUROSCI.21-15-05607.2001). PMC 6762645 (https://www.ncbi.nlm.nih.gov/pmc/articles/PM
+C6762645). PMID 11466432 (https://pubmed.ncbi.nlm.nih.gov/11466432).
+52. Rakic, P (8 July 1988). "Specification of cerebral cortical areas". Science. 241 (4862): 170–
+6. Bibcode:1988Sci...241..170R (https://ui.adsabs.harvard.edu/abs/1988Sci...241..170R).
+doi:10.1126/science.3291116 (https://doi.org/10.1126%2Fscience.3291116). PMID 3291116
+(https://pubmed.ncbi.nlm.nih.gov/3291116).
+53. Fukuchi-Shimogori, T; Grove, EA (2 November 2001). "Neocortex patterning by the secreted
+signaling molecule FGF8" (https://doi.org/10.1126%2Fscience.1064252). Science. 294
+(5544): 1071–4. Bibcode:2001Sci...294.1071F (https://ui.adsabs.harvard.edu/abs/2001Sci...
+294.1071F). doi:10.1126/science.1064252 (https://doi.org/10.1126%2Fscience.1064252).
+PMID 11567107 (https://pubmed.ncbi.nlm.nih.gov/11567107). S2CID 14807054 (https://api.s
+emanticscholar.org/CorpusID:14807054).
+54. Garel, S; Huffman, KJ; Rubenstein, JL (May 2003). "Molecular regionalization of the
+neocortex is disrupted in Fgf8 hypomorphic mutants". Development. 130 (9): 1903–14.
+doi:10.1242/dev.00416 (https://doi.org/10.1242%2Fdev.00416). PMID 12642494 (https://pub
+med.ncbi.nlm.nih.gov/12642494). S2CID 6533589 (https://api.semanticscholar.org/CorpusI
+D:6533589).
+55. Bishop, KM; Goudreau, G; O'Leary, DD (14 April 2000). "Regulation of area identity in the
+mammalian neocortex by Emx2 and Pax6". Science. 288 (5464): 344–9.
+Bibcode:2000Sci...288..344B (https://ui.adsabs.harvard.edu/abs/2000Sci...288..344B).
+doi:10.1126/science.288.5464.344 (https://doi.org/10.1126%2Fscience.288.5464.344).
+PMID 10764649 (https://pubmed.ncbi.nlm.nih.gov/10764649).
+56. Rash, BG; Lim, HD; Breunig, JJ; Vaccarino, FM (26 October 2011). "FGF signaling expands
+embryonic cortical surface area by regulating Notch-dependent neurogenesis" (https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC3235689). The Journal of Neuroscience. 31 (43): 15604–
+17. doi:10.1523/jneurosci.4439-11.2011 (https://doi.org/10.1523%2Fjneurosci.4439-11.201
+1). PMC 3235689 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3235689).
+PMID 22031906 (https://pubmed.ncbi.nlm.nih.gov/22031906).
+57. Rajagopalan, V; Scott, J; Habas, PA; Kim, K; Corbett-Detig, J; Rousseau, F; Barkovich, AJ;
+Glenn, OA; Studholme, C (23 February 2011). "Local tissue growth patterns underlying
+normal fetal human brain gyrification quantified in utero" (https://www.ncbi.nlm.nih.gov/pmc/a
+rticles/PMC3093305). The Journal of Neuroscience. 31 (8): 2878–87.
+doi:10.1523/jneurosci.5458-10.2011 (https://doi.org/10.1523%2Fjneurosci.5458-10.2011).
+PMC 3093305 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093305). PMID 21414909 (h
+ttps://pubmed.ncbi.nlm.nih.gov/21414909).
+58. Lui, Jan H.; Hansen, David V.; Kriegstein, Arnold R. (8 July 2011). "Development and
+evolution of the human neocortex" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3610574).
+Cell. 146 (1): 18–36. doi:10.1016/j.cell.2011.06.030 (https://doi.org/10.1016%2Fj.cell.2011.0
+6.030). ISSN 1097-4172 (https://www.worldcat.org/issn/1097-4172). PMC 3610574 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3610574). PMID 21729779 (https://pubmed.ncbi.nlm.
+nih.gov/21729779).
+59. Stahl, Ronny; Walcher, Tessa; De Juan Romero, Camino; Pilz, Gregor Alexander; Cappello,
+Silvia; Irmler, Martin; Sanz-Aquela, José Miguel; Beckers, Johannes; Blum, Robert (25 April
+2013). "Trnp1 regulates expansion and folding of the mammalian cerebral cortex by control
+of radial glial fate" (https://doi.org/10.1016%2Fj.cell.2013.03.027). Cell. 153 (3): 535–549.
+doi:10.1016/j.cell.2013.03.027 (https://doi.org/10.1016%2Fj.cell.2013.03.027).
+hdl:10261/338716 (https://hdl.handle.net/10261%2F338716). ISSN 1097-4172 (https://www.
+worldcat.org/issn/1097-4172). PMID 23622239 (https://pubmed.ncbi.nlm.nih.gov/23622239).
+60. Wang, Lei; Hou, Shirui; Han, Young-Goo (23 May 2016). "Hedgehog signaling promotes
+basal progenitor expansion and the growth and folding of the neocortex" (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC4925239). Nature Neuroscience. 19 (7): 888–96.
+doi:10.1038/nn.4307 (https://doi.org/10.1038%2Fnn.4307). ISSN 1546-1726 (https://www.wo
+rldcat.org/issn/1546-1726). PMC 4925239 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC49
+25239). PMID 27214567 (https://pubmed.ncbi.nlm.nih.gov/27214567).
+61. Rash, Brian G.; Tomasi, Simone; Lim, H. David; Suh, Carol Y.; Vaccarino, Flora M. (26 June
+2013). "Cortical gyrification induced by fibroblast growth factor 2 in the mouse brain" (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC3693057). The Journal of Neuroscience. 33 (26):
+10802–10814. doi:10.1523/JNEUROSCI.3621-12.2013 (https://doi.org/10.1523%2FJNEUR
+OSCI.3621-12.2013). ISSN 1529-2401 (https://www.worldcat.org/issn/1529-2401).
+PMC 3693057 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3693057). PMID 23804101 (h
+ttps://pubmed.ncbi.nlm.nih.gov/23804101).
+62. Rakic, P (8 July 1988). "Specification of cerebral cortical areas". Science. 241 (4862): 170–
+6. Bibcode:1988Sci...241..170R (https://ui.adsabs.harvard.edu/abs/1988Sci...241..170R).
+doi:10.1126/science.3291116 (https://doi.org/10.1126%2Fscience.3291116). PMID 3291116
+(https://pubmed.ncbi.nlm.nih.gov/3291116).
+63. Fukuchi-Shimogori, T; Grove, EA (2 November 2001). "Neocortex patterning by the secreted
+signaling molecule FGF8" (https://doi.org/10.1126%2Fscience.1064252). Science. 294
+(5544): 1071–4. Bibcode:2001Sci...294.1071F (https://ui.adsabs.harvard.edu/abs/2001Sci...
+294.1071F). doi:10.1126/science.1064252 (https://doi.org/10.1126%2Fscience.1064252).
+PMID 11567107 (https://pubmed.ncbi.nlm.nih.gov/11567107). S2CID 14807054 (https://api.s
+emanticscholar.org/CorpusID:14807054).
+64. Bishop, KM; Goudreau, G; O'Leary, DD (14 April 2000). "Regulation of area identity in the
+mammalian neocortex by Emx2 and Pax6". Science. 288 (5464): 344–9.
+Bibcode:2000Sci...288..344B (https://ui.adsabs.harvard.edu/abs/2000Sci...288..344B).
+doi:10.1126/science.288.5464.344 (https://doi.org/10.1126%2Fscience.288.5464.344).
+PMID 10764649 (https://pubmed.ncbi.nlm.nih.gov/10764649).
+65. Grove, EA; Fukuchi-Shimogori, T (2003). "Generating the cerebral cortical area map".
+Annual Review of Neuroscience. 26: 355–80. doi:10.1146/annurev.neuro.26.041002.131137
+(https://doi.org/10.1146%2Fannurev.neuro.26.041002.131137). PMID 14527269 (https://pub
+med.ncbi.nlm.nih.gov/14527269). S2CID 12282525 (https://api.semanticscholar.org/CorpusI
+D:12282525).
+66. Braitenberg, V and Schüz, A 1998. "Cortex: Statistics and Geometry of Neuronal
+Connectivity. Second thoroughly revised edition" New York: Springer-Verlag
+67. "Cerebral cortex - ScienceDirect" (https://www.sciencedirect.com/science/article/abs/pii/B97
+80128174241000069).
+68. "Behavioral Planning: Neurophysiological Approach of the Frontal Lobe Function in
+Primates - ScienceDirect" (https://www.sciencedirect.com/science/article/abs/pii/B97800804
+5396500213X).
+69. Saladin, Kenneth. Anatomy and Physiology: The Unity of Form and Function, 5th Ed. New
+York: McGraw-Hill Companies Inc., 2010. Print.
+70. Dorland's Medical Dictionary for Health Consumers, 2008.
+71. Yeo BT, Krienen FM, Sepulcre J, Sabuncu MR, Lashkari D, Hollinshead M, Roffman JL,
+Smoller JW, Zöllei L, Polimeni JR, Fischl B, Liu H, Buckner RL (2011). "The organization of
+the human cerebral cortex estimated by intrinsic functional connectivity" (https://www.ncbi.nl
+m.nih.gov/pmc/articles/PMC3174820). Journal of Neurophysiology. 106 (3): 1125–1165.
+doi:10.1152/jn.00338.2011 (https://doi.org/10.1152%2Fjn.00338.2011). PMC 3174820 (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC3174820). PMID 21653723 (https://pubmed.ncbi.
+nlm.nih.gov/21653723).
+72. Cathy J. Price (2000). "The anatomy of language: contributions from functional
+neuroimaging" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1468137). Journal of
+Anatomy. 197 (3): 335–359. doi:10.1046/j.1469-7580.2000.19730335.x (https://doi.org/10.10
+46%2Fj.1469-7580.2000.19730335.x). PMC 1468137 (https://www.ncbi.nlm.nih.gov/pmc/arti
+cles/PMC1468137). PMID 11117622 (https://pubmed.ncbi.nlm.nih.gov/11117622).
+73. Kentar, Modar; Mann, Martina; Sahm, Felix; Olivares-Rivera, Arturo; Sanchez-Porras, Renan;
+Zerelles, Roland; Sakowitz, Oliver W.; Unterberg, Andreas W.; Santos, Edgar (15 January
+2020). "Detection of spreading depolarizations in a middle cerebral artery occlusion model in
+swine". Acta Neurochirurgica. 162 (3): 581–592. doi:10.1007/s00701-019-04132-8 (https://do
+i.org/10.1007%2Fs00701-019-04132-8). ISSN 0942-0940 (https://www.worldcat.org/issn/094
+2-0940). PMID 31940093 (https://pubmed.ncbi.nlm.nih.gov/31940093). S2CID 210196036 (h
+ttps://api.semanticscholar.org/CorpusID:210196036).
+74. Nakazawa T, Ohara T, Hirabayashi N, Furuta Y, Hata J, Shibata M, Honda T, Kitazono T,
+Nakao T, Ninomiya T (March 2022). "Multiple-region grey matter atrophy as a predictor for
+the development of dementia in a community: the Hisayama Study" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC8862082). J Neurol Neurosurg Psychiatry. 93 (3): 263–271.
+doi:10.1136/jnnp-2021-326611 (https://doi.org/10.1136%2Fjnnp-2021-326611).
+PMC 8862082 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8862082). PMID 34670843 (h
+ttps://pubmed.ncbi.nlm.nih.gov/34670843).
+75. Mukherjee, Raja A.S.; Hollins, Sheila (2006). "Fetal Alcohol Spectrum Disorder: An
+Overview" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472723). Journal of the Royal
+Society of Medicine. 99 (6): 298–302. doi:10.1177/014107680609900616 (https://doi.org/10.
+1177%2F014107680609900616). PMC 1472723 (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC1472723). PMID 16738372 (https://pubmed.ncbi.nlm.nih.gov/16738372).
+76. Tarapore, PE; et al. (August 2012). "Preoperative multimodal motor mapping: a comparison
+of magnetoencephalography imaging, navigated transcranial magnetic stimulation, and
+direct cortical stimulation" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060619). Journal
+of Neurosurgery. 117 (2): 354–62. doi:10.3171/2012.5.JNS112124 (https://doi.org/10.3171%
+2F2012.5.JNS112124). PMC 4060619 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060
+619). PMID 22702484 (https://pubmed.ncbi.nlm.nih.gov/22702484).
+77. Walsh, Christopher A.; Mochida, Ganeshwaran H. (1 May 2004). "Genetic Basis of
+Developmental Malformations of the Cerebral Cortex". Archives of Neurology. 61 (5): 637–
+640. doi:10.1001/archneur.61.5.637 (https://doi.org/10.1001%2Farchneur.61.5.637).
+PMID 15148137 (https://pubmed.ncbi.nlm.nih.gov/15148137).
+78. "EMX2 empty spiracles homeobox 2 [Homo sapiens (human)] – Gene – NCBI" (https://www.
+ncbi.nlm.nih.gov/gene?Db=gene&Cmd=ShowDetailView&TermToSearch=2018).
+www.ncbi.nlm.nih.gov.
+79. Smigiel, R; Cabala, M; Jakubiak, A; Kodera, H; Sasiadek, MJ; Matsumoto, N; Sasiadek, MM;
+Saitsu, H (April 2016). "Novel COL4A1 mutation in an infant with severe dysmorphic
+syndrome with schizencephaly, periventricular calcifications, and cataract resembling
+congenital infection". Birth Defects Research. Part A, Clinical and Molecular Teratology. 106
+(4): 304–7. doi:10.1002/bdra.23488 (https://doi.org/10.1002%2Fbdra.23488).
+PMID 26879631 (https://pubmed.ncbi.nlm.nih.gov/26879631).
+80. Principles of neural science. Kandel, Eric R. (5th ed.). New York. 2013. pp. 347–348.
+ISBN 9780071390118. OCLC 795553723 (https://www.worldcat.org/oclc/795553723).
+81. Stacho, Martin; Herold, Christina; Rook, Noemi; Wagner, Hermann; Axer, Markus; Amunts,
+Katrin; Güntürkün, Onur (25 September 2020). "A cortex-like canonical circuit in the avian
+forebrain" (https://www.science.org/doi/10.1126/science.abc5534). Science. 369 (6511).
+doi:10.1126/science.abc5534 (https://doi.org/10.1126%2Fscience.abc5534). ISSN 0036-
+8075 (https://www.worldcat.org/issn/0036-8075). PMID 32973004 (https://pubmed.ncbi.nlm.n
+ih.gov/32973004).
+82. Nieder, Andreas; Wagener, Lysann; Rinnert, Paul (25 September 2020). "A neural correlate
+of sensory consciousness in a corvid bird" (https://www.science.org/doi/10.1126/science.abb
+1447). Science. 369 (6511): 1626–1629. Bibcode:2020Sci...369.1626N (https://ui.adsabs.har
+vard.edu/abs/2020Sci...369.1626N). doi:10.1126/science.abb1447 (https://doi.org/10.1126%
+2Fscience.abb1447). ISSN 0036-8075 (https://www.worldcat.org/issn/0036-8075).
+PMID 32973028 (https://pubmed.ncbi.nlm.nih.gov/32973028). S2CID 221881862 (https://api.
+semanticscholar.org/CorpusID:221881862).
+83. Herculano-Houzel, Suzana (25 September 2020). "Birds do have a brain cortex—and think"
+(https://www.science.org/doi/10.1126/science.abe0536). Science. 369 (6511): 1567–1568.
+Bibcode:2020Sci...369.1567H (https://ui.adsabs.harvard.edu/abs/2020Sci...369.1567H).
+doi:10.1126/science.abe0536 (https://doi.org/10.1126%2Fscience.abe0536). ISSN 0036-
+8075 (https://www.worldcat.org/issn/0036-8075). PMID 32973020 (https://pubmed.ncbi.nlm.n
+ih.gov/32973020). S2CID 221882004 (https://api.semanticscholar.org/CorpusID:22188200
+4).
+84. Tomer, R; Denes, AS; Tessmar-Raible, K; Arendt, D; Tomer R; Denes AS; Tessmar-Raible K;
+Arendt D (2010). "Profiling by image registration reveals common origin of annelid
+mushroom bodies and vertebrate pallium" (https://doi.org/10.1016%2Fj.cell.2010.07.043).
+Cell. 142 (5): 800–809. doi:10.1016/j.cell.2010.07.043 (https://doi.org/10.1016%2Fj.cell.201
+0.07.043). PMID 20813265 (https://pubmed.ncbi.nlm.nih.gov/20813265). S2CID 917306 (htt
+ps://api.semanticscholar.org/CorpusID:917306).
+hier-20 (http://braininfo.rprc.washington.edu/Scripts/hiercentraldirectory.aspx?ID=20) at
+External links
+NeuroNames
+Stained brain slice images which include the "cerebral cortex" (http://brainmaps.org/index.ph
+p?q=cerebral%20cortex) at the BrainMaps project
+"The primary visual cortex" (https://web.archive.org/web/20041229070957/http://webvision.m
+ed.utah.edu/VisualCortex.html), Webvision: Comprehensive article about the structure and
+function of the primary visual cortex.
+"Basic cell types" (https://web.archive.org/web/20160722010322/http://webvision.med.utah.e
+du/imageswv/BasicCells.jpg), Webvision: Image of the basic cell types of the monkey
+cerebral cortex.
+Cerebral Cortex – Cell Centered Database (https://web.archive.org/web/20161117212320/ht
+tp://ccdb.ucsd.edu/sand/main?stype=lite&keyword=cerebral%20cortex&Submit=Go&event=
+display&start=1)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Cerebral_cortex&oldid=1226703028"

@@ -1,0 +1,513 @@
+Myelin formed by Schwann cells in
+the PNS
+Myelin
+Structure of simplified neuron in the
+PNS
+Neuron with oligodendrocyte and
+myelin sheath in the CNS
+Details
+System Nervous system
+Identifiers
+FMA
+62977 (https://bioportal.bioont
+ology.org/ontologies/FMA/?p=
+classes&conceptid=http%3A%
+Myelin
+Myelin (/ˈmaɪ.əlɪn/ MY-ə-lin) is a lipid-rich material that surrounds
+nerve cell axons (the nervous system's electrical wires) to insulate
+them and increase the rate at which electrical impulses (called action
+potentials) pass along the axon.[1][2] The myelinated axon can be
+likened to an electrical wire (the axon) with insulating material
+(myelin) around it. However, unlike the plastic covering on an
+electrical wire, myelin does not form a single long sheath over the
+entire length of the axon. Rather, myelin ensheaths the axon
+segmentally: in general, each axon is encased in multiple long
+sheaths with short gaps between, called nodes of Ranvier. At
+the nodes of Ranvier, which are approximately one thousandth
+of a mm in length, the axon's membrane is bare of myelin.
+Myelin's best known function is to increase the rate at which
+information, encoded as electrical charges, passes along the
+axon's length. Myelin achieves this by eliciting saltatory
+conduction,.[1] Saltatory conduction refers to the fact that
+electrical impulses 'jump' along the axon, over long myelin
+sheaths, from one node of Ranvier to the next. Thus,
+information is passed around 100 times faster along a
+myelinated axon than a non-myelinated one.
+At the molecular level, the myelin sheath increases the distance
+between extracellular and intracellular ions, reducing the
+accumulation of electrical charges. The discontinuous structure
+of the myelin sheath results in the action potential "jumping"
+from one node of Ranvier over a long (c. 0.1 mm – >1 mm, or
+100-1000  micron) myelinated stretch of the axon called the
+internodal segment or "internode", before "recharging" at the
+next node of Ranvier. This 'jumping' continues until the action
+potential reaches the axon terminal.[3][4][5] Once there, the
+electrical 
+signal 
+provokes 
+the 
+release 
+of 
+chemical
+neurotransmitters across the synapse, which bind to receptors
+on the post-synaptic cell (e.g. another neuron, myocyte or
+secretory cell).
+Myelin is made by glial cells, which are non-neuronal cells that
+provide nutritional and homeostatic support to the axons. This
+is because axons, being elongated structures, are too far from
+the soma to be supported by the neurons themselves. In the
+central nervous system (brain, spinal cord and optic nerves),
+myelination is formed by specialized glial cells called
+2F%2Fpurl.org%2Fsig%2Fon
+t%2Ffma%2Ffma62977)
+Anatomical terminology
+oligodendrocytes, each of which sends out processes (limb-like
+extensions from the cell body) to myelinate multiple nearby
+axons; while in the peripheral nervous system, myelin is formed
+by neurolemmocytes (Schwann cells), which only myelinate a
+section of one axon. In the CNS, axons carry electrical signals from one nerve cell body to another.[6][7]
+The "insulating" function for myelin is essential for efficient motor function (i.e. movement such as
+walking), sensory function (e.g. sight, hearing, smell, the feeling of touch or pain) and cognition (e.g.
+acquiring and recalling knowledge), as demonstrated by the consequence of disorders that affect
+myelination, such as the genetically determined leukodystrophies;[8] the acquired inflammatory
+demyelinating 
+disorder, 
+multiple 
+sclerosis;[9] 
+and 
+the 
+inflammatory 
+demyelinating 
+peripheral
+neuropathies.[10] Due to its high prevalence, multiple sclerosis, which specifically affects the central
+nervous system (brain, spinal cord and optic nerve), is the best known disorder of myelin.
+The process of generating myelin is called myelination or myelinogenesis. In the CNS, oligodendrocyte
+progenitor cells (OPCs) differentiate into mature oligodendrocytes, which form myelin. In humans,
+myelination begins early in the 3rd trimester,[11] although only little myelin is present in either the CNS or
+the PNS at the time of birth. During infancy, myelination progresses rapidly, with increasing numbers of
+axons acquiring myelin sheaths. This corresponds with the development of cognitive and motor skills,
+including language comprehension, speech acquisition, crawling and walking. Myelination continues
+through adolescence and early adulthood and although largely complete at this time, myelin sheaths can be
+added in grey matter regions such as the cerebral cortex, throughout life.[12][13][14]
+Myelin is considered a defining characteristic of the jawed vertebrates (gnathostomes), though axons are
+ensheathed by a type of cell, called glial cells, in invertebrates.[15][16] These glial wraps are quite different
+from vertebrate compact myelin, formed, as indicated above, by concentric wrapping of the myelinating cell
+process multiple times around the axon. Myelin was first described in 1854 by Rudolf Virchow,[17]
+although it was over a century later, following the development of electron microscopy, that its glial cell
+origin and its ultrastructure became apparent.[18]
+In vertebrates, not all axons are myelinated. For example, in the PNS, a large proportion of axons are
+unmyelinated. Instead, they are ensheathed by non-myelinating Schwann cells known as Remak SCs and
+arranged in Remak bundles.[19] In the CNS, non-myelinated axons (or intermittently myelinated axons,
+meaning axons with long non-myelinated regions between myelinated segments) intermingle with
+myelinated ones and are entwined, at least partially, by the processes of another type of glial cell the
+astrocyte.[20]
+Functionally equivalent myelin-like sheaths are found in several invertebrate taxa, including oligochaete
+annelids, and crustacean taxa such as penaeids, palaemonids, and calanoids. These myelin-like sheaths
+share several structural features with the sheaths found in vertebrates including multiplicity of membranes,
+Development
+Species distribution
+Vertebrates
+Invertebrates
+Transmission electron micrograph of
+a cross-section of a myelinated PNS
+axon, generated at the Electron
+Microscopy Facility at Trinity
+College, Hartford, Connecticut
+Diagram of a myelinated
+axon in cross-section
+1. Axon
+2. Nucleus of
+Schwann cell
+3. Schwann cell
+4. Myelin sheath
+5. Neurilemma
+condensation of membrane, and nodes.[15] However, the nodes in vertebrates are annular; i.e. they encircle
+the axon. In contrast, nodes found in the sheaths of invertebrates are either annular or fenestrated; i.e. they
+are restricted to "spots". The fastest recorded conduction speed (across both vertebrates and invertebrates) is
+found in the ensheathed axons of the Kuruma shrimp, an invertebrate,[15] ranging between 90 and
+200 m/s[16] (cf. 100–120 m/s for the fastest myelinated vertebrate axon).
+CNS myelin differs slightly in composition and configuration from
+PNS myelin, but both perform the same "insulating" function (see
+above). Being rich in lipid, myelin appears white, hence the name
+given to the "white matter" of the CNS. Both CNS white matter
+tracts (e.g. the optic nerve, corticospinal tract and corpus callosum)
+and PNS nerves (e.g. the sciatic nerve and the auditory nerve,
+which also appear white) each comprise thousands to millions of
+axons, largely aligned in parallel. Blood vessels provide the route
+for oxygen and energy substrates such as glucose to reach these
+fibre tracts, which also contain other cell types including astrocytes
+and microglia in the CNS and macrophages in the PNS.
+In terms of total mass, myelin comprises approximately 40% water;
+the dry mass comprises between 60% and 75% lipid and between
+15% and 25% protein. Protein content includes myelin basic protein
+(MBP),[21] which is abundant in the CNS where it plays a critical,
+non-redundant role in formation of compact myelin; myelin
+oligodendrocyte glycoprotein (MOG),[22] which is specific to the CNS; and
+proteolipid protein (PLP),[23] which is the most abundant protein in CNS
+myelin, but only a minor component of PNS myelin. In the PNS, myelin
+protein zero (MPZ or P0) has a similar role to that of PLP in the CNS in
+that it is involved in holding together the multiple concentric layers of glial
+cell membrane that constitute the myelin sheath. The primary lipid of
+myelin is a glycolipid called galactocerebroside. The intertwining
+hydrocarbon chains of sphingomyelin strengthen the myelin sheath.
+Cholesterol is an essential lipid component of myelin, without which myelin
+fails to form.[24]
+The main purpose of myelin is to increase the speed at which electrical
+impulses (known as action potentials) propagate along the myelinated fiber.
+In unmyelinated fibers, action potentials travel as continuous waves, but, in
+myelinated fibers, they "hop" or propagate by saltatory conduction. The
+latter is markedly faster than the former, at least for axons over a certain
+diameter. Myelin decreases capacitance and increases electrical resistance
+across the axonal membrane (the axolemma). It has been suggested that
+myelin permits larger body size by maintaining agile communication
+between distant body parts.[15]
+Composition
+Function
+Action potential propagation in
+myelinated neurons is faster than in
+unmyelinated neurons because of
+saltatory conduction.
+Myelinated fibers lack voltage-gated sodium channels along the
+myelinated internodes, exposing them only at the nodes of Ranvier.
+Here, they are highly abundant and densely packed.[25] Positively
+charged sodium ions can enter the axon through these voltage-gated
+channels, leading to depolarisation of the membrane potential at the
+node of Ranvier. The resting membrane potential is then rapidly
+restored due to positively charged potassium ions leaving the axon
+through potassium channels. The sodium ions inside the axon then
+diffuse rapidly through the axoplasm (axonal cytoplasm), to the
+adjacent myelinated internode and ultimately to the next (distal)
+node of Ranvier, triggering the opening of the voltage gated sodium
+channels and entry of sodium ions at this site. Although the sodium
+ions diffuse through the axoplasm rapidly, diffusion is decremental
+by nature, thus nodes of Ranvier have to be (relatively) closely
+spaced, to secure action potential propagation.[26] The action
+potential "recharges" at consecutive nodes of Ranvier as the
+axolemmal membrane potential depolarises to approximately +35 mV.[25] Along the myelinated internode,
+energy-dependent sodium/potassium pumps pump the sodium ions back out of the axon and potassium ions
+back into the axon to restore the balance of ions between the intracellular (inside the cell, i.e. axon in this
+case) and extracellular (outside the cell) fluids.
+Whilst the role of myelin as an "axonal insulator" is well-established, other functions of myelinating cells
+are less well known or only recently established. The myelinating cell "sculpts" the underlying axon by
+promoting the phosphorylation of neurofilaments, thus increasing the diameter or thickness of the axon at
+the internodal regions; helps cluster molecules on the axolemma (such as voltage-gated sodium channels) at
+the node of Ranvier;[27] and modulates the transport of cytoskeletal structures and organelles such as
+mitochondria, along the axon.[28] In 2012, evidence came to light to support a role for the myelinating cell
+in "feeding" the axon.[29][30] In other words, the myelinating cell seems to act as a local "fueling station"
+for the axon, which uses a great deal of energy to restore the normal balance of ions between it and its
+environment,[31][32] following the generation of action potentials.
+When a peripheral fiber is severed, the myelin sheath provides a track along which regrowth can occur.
+However, the myelin layer does not ensure a perfect regeneration of the nerve fiber. Some regenerated
+nerve fibers do not find the correct muscle fibers, and some damaged motor neurons of the peripheral
+nervous system die without regrowth. Damage to the myelin sheath and nerve fiber is often associated with
+increased functional insufficiency.
+Unmyelinated fibers and myelinated axons of the mammalian central nervous system do not regenerate.[33]
+Demyelination is the loss of the myelin sheath insulating the nerves, and is the hallmark of some
+neurodegenerative autoimmune diseases, including multiple sclerosis, acute disseminated encephalomyelitis,
+neuromyelitis optica, transverse myelitis, chronic inflammatory demyelinating polyneuropathy, Guillain–
+Barré syndrome, central pontine myelinosis, inherited demyelinating diseases such as leukodystrophy, and
+Clinical significance
+Demyelination
+Charcot–Marie–Tooth disease. People with pernicious anaemia can also develop nerve damage if the
+condition is not diagnosed quickly. Subacute combined degeneration of spinal cord secondary to pernicious
+anaemia can lead to slight peripheral nerve damage to severe damage to the central nervous system,
+affecting speech, balance, and cognitive awareness. When myelin degrades, conduction of signals along the
+nerve can be impaired or lost, and the nerve eventually withers. A more serious case of myelin deterioration
+is called Canavan disease.
+The immune system may play a role in demyelination associated with such diseases, including inflammation
+causing demyelination by overproduction of cytokines via upregulation of tumor necrosis factor[34] or
+interferon. MRI evidence that docosahexaenoic acid DHA ethyl ester improves myelination in generalized
+peroxisomal disorders.[35]
+Demyelination results in diverse symptoms determined by the functions of the affected neurons. It disrupts
+signals between the brain and other parts of the body; symptoms differ from patient to patient, and have
+different presentations upon clinical observation and in laboratory studies.
+Typical symptoms include blurriness in the central visual field that affects only one eye, may be
+accompanied by pain upon eye movement, double vision, loss of vision/hearing, odd sensation in legs,
+arms, chest, or face, such as tingling or numbness (neuropathy), weakness of arms or legs, cognitive
+disruption, including speech impairment and memory loss, heat sensitivity (symptoms worsen or reappear
+upon exposure to heat, such as a hot shower), loss of dexterity, difficulty coordinating movement or balance
+disorder, difficulty controlling bowel movements or urination, fatigue, and tinnitus.[36]
+Research to repair damaged myelin sheaths is ongoing. Techniques include surgically implanting
+oligodendrocyte precursor cells in the central nervous system and inducing myelin repair with certain
+antibodies. While results in mice have been encouraging (via stem cell transplantation), whether this
+technique can be effective in replacing myelin loss in humans is still unknown.[37] Cholinergic treatments,
+such as acetylcholinesterase inhibitors (AChEIs), may have beneficial effects on myelination, myelin repair,
+and myelin integrity. Increasing cholinergic stimulation also may act through subtle trophic effects on brain
+developmental processes and particularly on oligodendrocytes and the lifelong myelination process they
+support. Increasing oligodendrocyte cholinergic stimulation, AChEIs, and other cholinergic treatments, such
+as nicotine, possibly could promote myelination during development and myelin repair in older age.[38]
+Glycogen synthase kinase 3β inhibitors such as lithium chloride have been found to promote myelination in
+mice with damaged facial nerves.[39] Cholesterol is a necessary nutrient for the myelin sheath, along with
+vitamin B12.[40][41]
+Symptoms
+Myelin repair
+Dysmyelination
+Dysmyelination is characterized by a defective structure and function of myelin sheaths; unlike
+demyelination, it does not produce lesions. Such defective sheaths often arise from genetic mutations
+affecting the biosynthesis and formation of myelin. The shiverer mouse represents one animal model of
+dysmyelination. Human diseases where dysmyelination has been implicated include leukodystrophies
+(Pelizaeus–Merzbacher disease, Canavan disease, phenylketonuria) and schizophrenia.[42][43][44]
+Lesional demyelinations of the central nervous system
+Myelin-associated glycoprotein
+Myelin incisure
+The Myelin Project, project to regenerate myelin
+Myelin Repair Foundation, a nonprofit medical research foundation for multiple sclerosis
+drug discovery.
+Myelinoid, an in vitro model for studying human myelination and white matter diseases
+1. Bean, Bruce P. (June 2007). "The action potential in mammalian central neurons". Nature
+Reviews Neuroscience. 8 (6): 451–465. doi:10.1038/nrn2148 (https://doi.org/10.1038%2Fnrn
+2148). ISSN 1471-0048 (https://www.worldcat.org/issn/1471-0048). PMID 17514198 (https://
+pubmed.ncbi.nlm.nih.gov/17514198). S2CID 205503852 (https://api.semanticscholar.org/Cor
+pusID:205503852).
+2. Morell, Pierre; Quarles, Richard H. (1999). "The Myelin Sheath" (https://www.ncbi.nlm.nih.go
+v/books/NBK27954/). Basic Neurochemistry: Molecular, Cellular and Medical Aspects. 6th
+edition. Lippincott-Raven. Retrieved 15 December 2023.
+3. Carroll, SL (2017). "The Molecular and Morphologic Structures That Make Saltatory
+Conduction Possible in Peripheral Nerve" (https://doi.org/10.1093%2Fjnen%2Fnlx013).
+Journal of Neuropathology and Experimental Neurology. 76 (4): 255–257.
+doi:10.1093/jnen/nlx013 (https://doi.org/10.1093%2Fjnen%2Fnlx013). PMID 28340093 (http
+s://pubmed.ncbi.nlm.nih.gov/28340093).
+4. Keizer J, Smith GD, Ponce-Dawson S, Pearson JE (August 1998). "Saltatory propagation of
+Ca2+ waves by Ca2+ sparks" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1299735).
+Biophysical Journal. 75 (2): 595–600. Bibcode:1998BpJ....75..595K (https://ui.adsabs.harvar
+d.edu/abs/1998BpJ....75..595K). doi:10.1016/S0006-3495(98)77550-2 (https://doi.org/10.101
+6%2FS0006-3495%2898%2977550-2). PMC 1299735 (https://www.ncbi.nlm.nih.gov/pmc/art
+icles/PMC1299735). PMID 9675162 (https://pubmed.ncbi.nlm.nih.gov/9675162).
+5. Dawson SP, Keizer J, Pearson JE (May 1999). "Fire-diffuse-fire model of dynamics of
+intracellular calcium waves" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC26835).
+Proceedings of the National Academy of Sciences of the United States of America. 96 (11):
+6060–3. Bibcode:1999PNAS...96.6060D (https://ui.adsabs.harvard.edu/abs/1999PNAS...96.
+6060D). doi:10.1073/pnas.96.11.6060 (https://doi.org/10.1073%2Fpnas.96.11.6060).
+PMC 26835 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC26835). PMID 10339541 (https://
+pubmed.ncbi.nlm.nih.gov/10339541).
+6. Stassart, Ruth M.; Möbius, Wiebke; Nave, Klaus-Armin; Edgar, Julia M. (2018). "The Axon-
+Myelin Unit in Development and Degenerative Disease" (https://www.ncbi.nlm.nih.gov/pmc/a
+rticles/PMC6050401). Frontiers in Neuroscience. 12: 467. doi:10.3389/fnins.2018.00467 (htt
+ps://doi.org/10.3389%2Ffnins.2018.00467). ISSN 1662-4548 (https://www.worldcat.org/issn/
+1662-4548). PMC 6050401 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6050401).
+PMID 30050403 (https://pubmed.ncbi.nlm.nih.gov/30050403).
+See also
+References
+7. Stadelmann, Christine; Timmler, Sebastian; Barrantes-Freer, Alonso; Simons, Mikael (2019-
+07-01). "Myelin in the Central Nervous System: Structure, Function, and Pathology" (https://d
+oi.org/10.1152%2Fphysrev.00031.2018). Physiological Reviews. 99 (3): 1381–1431.
+doi:10.1152/physrev.00031.2018 (https://doi.org/10.1152%2Fphysrev.00031.2018).
+ISSN 1522-1210 (https://www.worldcat.org/issn/1522-1210). PMID 31066630 (https://pubme
+d.ncbi.nlm.nih.gov/31066630).
+8. van der Knaap MS, Bugiani M (September 2017). "Leukodystrophies: a proposed
+classification system based on pathological changes and pathogenetic mechanisms" (http
+s://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563342). Acta Neuropathologica. 134 (3): 351–
+382. doi:10.1007/s00401-017-1739-1 (https://doi.org/10.1007%2Fs00401-017-1739-1).
+PMC 5563342 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5563342). PMID 28638987 (h
+ttps://pubmed.ncbi.nlm.nih.gov/28638987).
+9. Compston A, Coles A (October 2008). "Multiple sclerosis". Lancet. 372 (9648): 1502–17.
+doi:10.1016/S0140-6736(08)61620-7 (https://doi.org/10.1016%2FS0140-6736%2808%2961
+620-7). PMID 18970977 (https://pubmed.ncbi.nlm.nih.gov/18970977). S2CID 195686659 (htt
+ps://api.semanticscholar.org/CorpusID:195686659).
+10. Lewis RA (October 2017). "Chronic inflammatory demyelinating polyneuropathy". Current
+Opinion in Neurology. 30 (5): 508–512. doi:10.1097/WCO.0000000000000481 (https://doi.or
+g/10.1097%2FWCO.0000000000000481). PMID 28763304 (https://pubmed.ncbi.nlm.nih.go
+v/28763304). S2CID 4961339 (https://api.semanticscholar.org/CorpusID:4961339).
+11. "Pediatric Neurologic Examination Videos & Descriptions: Developmental Anatomy" (http://li
+brary.med.utah.edu/pedineurologicexam/html/dev_anatomy.html). library.med.utah.edu.
+Retrieved 2016-08-20.
+12. Swire M, Ffrench-Constant C (May 2018). "Seeing Is Believing: Myelin Dynamics in the
+Adult CNS" (https://doi.org/10.1016%2Fj.neuron.2018.05.005). Neuron. 98 (4): 684–686.
+doi:10.1016/j.neuron.2018.05.005 (https://doi.org/10.1016%2Fj.neuron.2018.05.005).
+PMID 29772200 (https://pubmed.ncbi.nlm.nih.gov/29772200).
+13. Hill RA, Li AM, Grutzendler J (May 2018). "Lifelong cortical myelin plasticity and age-related
+degeneration in the live mammalian brain" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5
+920745). Nature Neuroscience. 21 (5): 683–695. doi:10.1038/s41593-018-0120-6 (https://do
+i.org/10.1038%2Fs41593-018-0120-6). PMC 5920745 (https://www.ncbi.nlm.nih.gov/pmc/arti
+cles/PMC5920745). PMID 29556031 (https://pubmed.ncbi.nlm.nih.gov/29556031).
+14. Hughes EG, Orthmann-Murphy JL, Langseth AJ, Bergles DE (May 2018). "Myelin
+remodeling through experience-dependent oligodendrogenesis in the adult somatosensory
+cortex" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5920726). Nature Neuroscience. 21
+(5): 696–706. doi:10.1038/s41593-018-0121-5 (https://doi.org/10.1038%2Fs41593-018-0121
+-5). PMC 5920726 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5920726).
+PMID 29556025 (https://pubmed.ncbi.nlm.nih.gov/29556025).
+15. Hartline DK (May 2008). "What is myelin?". Neuron Glia Biology. 4 (2): 153–63.
+doi:10.1017/S1740925X09990263 (https://doi.org/10.1017%2FS1740925X09990263).
+PMID 19737435 (https://pubmed.ncbi.nlm.nih.gov/19737435). S2CID 33164806 (https://api.s
+emanticscholar.org/CorpusID:33164806).
+16. Salzer JL, Zalc B (October 2016). "Myelination" (http://hal.upmc.fr/hal-01390042/file/Salzer_
+2016_Myelination.pdf) (PDF). Current Biology. 26 (20): R971–R975.
+Bibcode:2016CBio...26.R971S (https://ui.adsabs.harvard.edu/abs/2016CBio...26.R971S).
+doi:10.1016/j.cub.2016.07.074 (https://doi.org/10.1016%2Fj.cub.2016.07.074).
+PMID 27780071 (https://pubmed.ncbi.nlm.nih.gov/27780071).
+17. Virchow R (1854). "Ueber das ausgebreitete Vorkommen einer dem Nervenmark analogen
+Substanz in den thierischen Geweben" (https://zenodo.org/record/2244577). Archiv für
+Pathologische Anatomie und Physiologie und für Klinische Medicin (in German). 6 (4): 562–
+572. doi:10.1007/BF02116709 (https://doi.org/10.1007%2FBF02116709). S2CID 20120269
+(https://api.semanticscholar.org/CorpusID:20120269).
+18. Boullerne AI (September 2016). "The history of myelin" (https://www.ncbi.nlm.nih.gov/pmc/art
+icles/PMC5010938). Experimental Neurology. 283 (Pt B): 431–445.
+doi:10.1016/j.expneurol.2016.06.005 (https://doi.org/10.1016%2Fj.expneurol.2016.06.005).
+PMC 5010938 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5010938). PMID 27288241 (h
+ttps://pubmed.ncbi.nlm.nih.gov/27288241).
+19. Monk KR, Feltri ML, Taveggia C (August 2015). "New insights on Schwann cell
+development" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4470834). Glia. 63 (8): 1376–
+1393. doi:10.1002/glia.22852 (https://doi.org/10.1002%2Fglia.22852). PMC 4470834 (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC4470834). PMID 25921593 (https://pubmed.ncbi.nl
+m.nih.gov/25921593).
+20. Wang, Doris D.; Bordey, Angélique (11 December 2008). "The astrocyte odyssey" (https://ww
+w.ncbi.nlm.nih.gov/pmc/articles/PMC2613184). Progress in Neurobiology. 86 (4): 342–367.
+doi:10.1016/j.pneurobio.2008.09.015 (https://doi.org/10.1016%2Fj.pneurobio.2008.09.015).
+PMC 2613184 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2613184). PMID 18948166 (h
+ttps://pubmed.ncbi.nlm.nih.gov/18948166) – via Elsevier Science Direct.
+21. Steinman L (May 1996). "Multiple sclerosis: a coordinated immunological attack against
+myelin in the central nervous system" (https://doi.org/10.1016%2FS0092-8674%2800%2981
+107-1). Cell. 85 (3): 299–302. doi:10.1016/S0092-8674(00)81107-1 (https://doi.org/10.101
+6%2FS0092-8674%2800%2981107-1). PMID 8616884 (https://pubmed.ncbi.nlm.nih.gov/86
+16884). S2CID 18442078 (https://api.semanticscholar.org/CorpusID:18442078).
+22. Mallucci G, Peruzzotti-Jametti L, Bernstock JD, Pluchino S (April 2015). "The role of immune
+cells, glia and neurons in white and gray matter pathology in multiple sclerosis" (https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC4578232). Progress in Neurobiology. 127–128: 1–22.
+doi:10.1016/j.pneurobio.2015.02.003 (https://doi.org/10.1016%2Fj.pneurobio.2015.02.003).
+PMC 4578232 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4578232). PMID 25802011 (h
+ttps://pubmed.ncbi.nlm.nih.gov/25802011).
+23. Greer JM, Lees MB (March 2002). "Myelin proteolipid protein--the first 50 years". The
+International Journal of Biochemistry & Cell Biology. 34 (3): 211–215. doi:10.1016/S1357-
+2725(01)00136-4 (https://doi.org/10.1016%2FS1357-2725%2801%2900136-4).
+PMID 11849988 (https://pubmed.ncbi.nlm.nih.gov/11849988).
+24. Saher G, Brügger B, Lappe-Siefke C, Möbius W, Tozawa R, Wehr MC, Wieland F, Ishibashi
+S, Nave KA (April 2005). "High cholesterol level is essential for myelin membrane growth".
+Nature Neuroscience. 8 (4): 468–475. doi:10.1038/nn1426 (https://doi.org/10.1038%2Fnn14
+26). PMID 15793579 (https://pubmed.ncbi.nlm.nih.gov/15793579). S2CID 9762771 (https://a
+pi.semanticscholar.org/CorpusID:9762771).
+25. Saladin KS (2012). Anatomy & physiology: the unity of form and function (6th ed.). New York,
+NY: McGraw-Hill.
+26. Raine CS (1999). "Characteristics of Neuroglia" (https://www.ncbi.nlm.nih.gov/books/NBK28
+217/). In Siegel GJ, Agranoff BW, Albers RW, Fisher SK, Uhler MD (eds.). Basic
+Neurochemistry: Molecular, Cellular and Medical Aspects (6th ed.). Philadelphia: Lippincott-
+Raven.
+27. Brivio V, Faivre-Sarrailh C, Peles E, Sherman DL, Brophy PJ (April 2017). "Assembly of
+CNS Nodes of Ranvier in Myelinated Nerves Is Promoted by the Axon Cytoskeleton" (https://
+www.ncbi.nlm.nih.gov/pmc/articles/PMC5387178). Current Biology. 27 (7): 1068–1073.
+Bibcode:2017CBio...27.1068B (https://ui.adsabs.harvard.edu/abs/2017CBio...27.1068B).
+doi:10.1016/j.cub.2017.01.025 (https://doi.org/10.1016%2Fj.cub.2017.01.025).
+PMC 5387178 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5387178). PMID 28318976 (h
+ttps://pubmed.ncbi.nlm.nih.gov/28318976).
+28. Stassart RM, Möbius W, Nave KA, Edgar JM (2018). "The Axon-Myelin Unit in Development
+and Degenerative Disease" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6050401).
+Frontiers in Neuroscience. 12: 467. doi:10.3389/fnins.2018.00467 (https://doi.org/10.3389%2
+Ffnins.2018.00467). PMC 6050401 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC605040
+1). PMID 30050403 (https://pubmed.ncbi.nlm.nih.gov/30050403).
+29. Fünfschilling U, Supplie LM, Mahad D, Boretius S, Saab AS, Edgar J, Brinkmann BG,
+Kassmann CM, Tzvetanova ID, Möbius W, Diaz F, Meijer D, Suter U, Hamprecht B, Sereda
+MW, Moraes CT, Frahm J, Goebbels S, Nave KA (April 2012). "Glycolytic oligodendrocytes
+maintain myelin and long-term axonal integrity" (https://www.ncbi.nlm.nih.gov/pmc/articles/P
+MC3613737). Nature. 485 (7399): 517–521. Bibcode:2012Natur.485..517F (https://ui.adsab
+s.harvard.edu/abs/2012Natur.485..517F). doi:10.1038/nature11007 (https://doi.org/10.1038%
+2Fnature11007). PMC 3613737 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3613737).
+PMID 22622581 (https://pubmed.ncbi.nlm.nih.gov/22622581).
+30. Lee Y, Morrison BM, Li Y, Lengacher S, Farah MH, Hoffman PN, Liu Y, Tsingalia A, Jin L,
+Zhang PW, Pellerin L, Magistretti PJ, Rothstein JD (July 2012). "Oligodendroglia
+metabolically support axons and contribute to neurodegeneration" (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC3408792). Nature. 487 (7408): 443–448.
+Bibcode:2012Natur.487..443L (https://ui.adsabs.harvard.edu/abs/2012Natur.487..443L).
+doi:10.1038/nature11314 (https://doi.org/10.1038%2Fnature11314). PMC 3408792 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC3408792). PMID 22801498 (https://pubmed.ncbi.nlm.
+nih.gov/22801498).
+31. Engl E, Attwell D (August 2015). "Non-signalling energy use in the brain" (https://www.ncbi.n
+lm.nih.gov/pmc/articles/PMC4560575). The Journal of Physiology. 593 (16): 3417–329.
+doi:10.1113/jphysiol.2014.282517 (https://doi.org/10.1113%2Fjphysiol.2014.282517).
+PMC 4560575 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4560575). PMID 25639777 (h
+ttps://pubmed.ncbi.nlm.nih.gov/25639777).
+32. Attwell D, Laughlin SB (October 2001). "An energy budget for signaling in the grey matter of
+the brain" (https://doi.org/10.1097%2F00004647-200110000-00001). Journal of Cerebral
+Blood Flow and Metabolism. 21 (10): 1133–145. doi:10.1097/00004647-200110000-00001
+(https://doi.org/10.1097%2F00004647-200110000-00001). PMID 11598490 (https://pubmed.
+ncbi.nlm.nih.gov/11598490).
+33. Huebner, Eric A.; Strittmatter, Stephen M. (2009). "Axon Regeneration in the Peripheral and
+Central Nervous Systems" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2846285).
+Results and Problems in Cell Differentiation. 48: 339–351. doi:10.1007/400_2009_19 (http
+s://doi.org/10.1007%2F400_2009_19). ISBN 978-3-642-03018-5. ISSN 0080-1844 (https://w
+ww.worldcat.org/issn/0080-1844). PMC 2846285 (https://www.ncbi.nlm.nih.gov/pmc/articles/
+PMC2846285). PMID 19582408 (https://pubmed.ncbi.nlm.nih.gov/19582408).
+34. Ledeen RW, Chakraborty G (March 1998). "Cytokines, signal transduction, and inflammatory
+demyelination: review and hypothesis". Neurochemical Research. 23 (3): 277–289.
+doi:10.1023/A:1022493013904 (https://doi.org/10.1023%2FA%3A1022493013904).
+PMID 9482240 (https://pubmed.ncbi.nlm.nih.gov/9482240). S2CID 7499162 (https://api.sem
+anticscholar.org/CorpusID:7499162).
+35. Martinez, Manuela; Vazquez, Elida (1 July 1998). "MRI evidence that docosahexaenoic acid
+ethyl ester improves myelination in generalized peroxisomal disorders" (https://n.neurology.o
+rg/content/51/1/26). Neurology. 51 (1): 26–32. doi:10.1212/wnl.51.1.26 (https://doi.org/10.121
+2%2Fwnl.51.1.26). PMID 9674774 (https://pubmed.ncbi.nlm.nih.gov/9674774).
+S2CID 21929640 (https://api.semanticscholar.org/CorpusID:21929640).
+36. Mayo Clinic 2007 and University of Leicester Clinical Studies, 2014
+37. Windrem MS, Nunes MC, Rashbaum WK, Schwartz TH, Goodman RA, McKhann G, Roy
+NS, Goldman SA (January 2004). "Fetal and adult human oligodendrocyte progenitor cell
+isolates myelinate the congenitally dysmyelinated brain". Nature Medicine. 10 (1): 93–97.
+doi:10.1038/nm974 (https://doi.org/10.1038%2Fnm974). PMID 14702638 (https://pubmed.nc
+bi.nlm.nih.gov/14702638). S2CID 34822879 (https://api.semanticscholar.org/CorpusID:3482
+2879).
+"Stem Cell Therapy Replaces Missing Myelin In Mouse Brains" (https://web.archive.org/
+web/20110614173025/http://www.futurepundit.com/archives/001901.html). FuturePundit.
+January 20, 2004. Archived from the original (http://www.futurepundit.com/archives/0019
+01.html) on June 14, 2011. Retrieved March 22, 2007.
+38. Bartzokis G (August 2007). "Acetylcholinesterase inhibitors may improve myelin integrity".
+Biological Psychiatry. 62 (4): 294–301. doi:10.1016/j.biopsych.2006.08.020 (https://doi.org/1
+0.1016%2Fj.biopsych.2006.08.020). PMID 17070782 (https://pubmed.ncbi.nlm.nih.gov/1707
+0782). S2CID 2130691 (https://api.semanticscholar.org/CorpusID:2130691).
+39. Makoukji J, Belle M, Meffre D, Stassart R, Grenier J, Shackleford G, Fledrich R, Fonte C,
+Branchu J, Goulard M, de Waele C, Charbonnier F, Sereda MW, Baulieu EE, Schumacher M,
+Bernard S, Massaad C (March 2012). "Lithium enhances remyelination of peripheral nerves"
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309729). Proceedings of the National
+Academy of Sciences of the United States of America. 109 (10): 3973–3978.
+Bibcode:2012PNAS..109.3973M (https://ui.adsabs.harvard.edu/abs/2012PNAS..109.3973
+M). doi:10.1073/pnas.1121367109 (https://doi.org/10.1073%2Fpnas.1121367109).
+PMC 3309729 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3309729). PMID 22355115 (h
+ttps://pubmed.ncbi.nlm.nih.gov/22355115).
+40. Petrov AM, Kasimov MR, Zefirov AL (2016). "Brain Cholesterol Metabolism and Its Defects:
+Linkage to Neurodegenerative Diseases and Synaptic Dysfunction" (https://www.ncbi.nlm.ni
+h.gov/pmc/articles/PMC4837572). Acta Naturae. 8 (1): 58–73. doi:10.32607/20758251-2016-
+8-1-58-73 (https://doi.org/10.32607%2F20758251-2016-8-1-58-73). PMC 4837572 (https://w
+ww.ncbi.nlm.nih.gov/pmc/articles/PMC4837572). PMID 27099785 (https://pubmed.ncbi.nlm.
+nih.gov/27099785).
+41. Miller A, Korem M, Almog R, Galboiz Y (June 2005). "Vitamin B12, demyelination,
+remyelination and repair in multiple sclerosis". Journal of the Neurological Sciences. 233 (1–
+2): 93–97. doi:10.1016/j.jns.2005.03.009 (https://doi.org/10.1016%2Fj.jns.2005.03.009).
+PMID 15896807 (https://pubmed.ncbi.nlm.nih.gov/15896807). S2CID 6269094 (https://api.se
+manticscholar.org/CorpusID:6269094).
+42. Krämer-Albers EM, Gehrig-Burger K, Thiele C, Trotter J, Nave KA (November 2006).
+"Perturbed interactions of mutant proteolipid protein/DM20 with cholesterol and lipid rafts in
+oligodendroglia: implications for dysmyelination in spastic paraplegia" (https://www.ncbi.nlm.
+nih.gov/pmc/articles/PMC6674790). The Journal of Neuroscience. 26 (45): 11743–1752.
+doi:10.1523/JNEUROSCI.3581-06.2006 (https://doi.org/10.1523%2FJNEUROSCI.3581-06.
+2006). PMC 6674790 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6674790).
+PMID 17093095 (https://pubmed.ncbi.nlm.nih.gov/17093095).
+43. Matalon R, Michals-Matalon K, Surendran S, Tyring SK (2006). "Canavan disease: studies
+on the knockout mouse". N-Acetylaspartate. Advances in Experimental Medicine and
+Biology. Vol. 576. pp. 77–93, discussion 361–363. doi:10.1007/0-387-30172-0_6 (https://doi.
+org/10.1007%2F0-387-30172-0_6). ISBN 978-0-387-30171-6. PMID 16802706 (https://pubm
+ed.ncbi.nlm.nih.gov/16802706).
+44. Tkachev D, Mimmack ML, Huffaker SJ, Ryan M, Bahn S (August 2007). "Further evidence
+for altered myelin biosynthesis and glutamatergic dysfunction in schizophrenia" (https://doi.or
+g/10.1017%2FS1461145706007334). The International Journal of
+Neuropsychopharmacology. 10 (4): 557–563. doi:10.1017/S1461145706007334 (https://doi.
+org/10.1017%2FS1461145706007334). PMID 17291371 (https://pubmed.ncbi.nlm.nih.gov/1
+7291371).
+Fields, R. Douglas, "The Brain Learns in Unexpected Ways: Neuroscientists have
+discovered a set of unfamiliar cellular mechanisms for making fresh memories", Scientific
+American, vol. 322, no. 3 (March 2020), pp. 74–79. "Myelin, long considered inert insulation
+on axons, is now seen as making a contribution to learning by controlling the speed at which
+signals travel along neural wiring." (p. 79.)
+Swire M, Ffrench-Constant C (May 2018). "Seeing Is Believing: Myelin Dynamics in the
+Adult CNS" (https://doi.org/10.1016%2Fj.neuron.2018.05.005). Neuron. 98 (4): 684–686.
+doi:10.1016/j.neuron.2018.05.005 (https://doi.org/10.1016%2Fj.neuron.2018.05.005).
+PMID 29772200 (https://pubmed.ncbi.nlm.nih.gov/29772200).
+Waxman SG (October 1977). "Conduction in myelinated, unmyelinated, and demyelinated
+fibers". Archives of Neurology. 34 (10): 585–9. doi:10.1001/archneur.1977.00500220019003
+(https://doi.org/10.1001%2Farchneur.1977.00500220019003). PMID 907529 (https://pubme
+d.ncbi.nlm.nih.gov/907529).
+The MS Information Sourcebook, Myelin (http://www.nationalmssociety.org/about-multiple-sc
+lerosis/what-we-know-about-ms/what-is-ms/myelin/index.aspx)
+H & E Histology (https://web.archive.org/web/20061205015229/http://www-medlib.med.utah.
+edu/WebPath/HISTHTML/HISTOTCH/HISTOTCH.html)
+Luxol Fast Blue: Modified Kluver's Method to stain for Myelin Sheath (https://web.archive.org/
+web/20080821112759/http://www-medlib.med.utah.edu/WebPath/HISTHTML/MANUALS/LF
+B.PDF)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Myelin&oldid=1225396786"
+Further reading
+External links

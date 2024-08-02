@@ -1,0 +1,100 @@
+Soma
+Animation in the reference.
+Soma (biology)
+In cellular neuroscience, the soma (pl.:
+somata or somas; from Greek σῶμα
+(sôma) 
+'body'), 
+perikaryon 
+(pl.:
+perikarya), neurocyton, or cell body
+is the bulbous, non-process portion of a
+neuron or other brain cell type,
+containing the cell nucleus. Although it
+is often used to refer to neurons, it can
+also refer to other cell types as well,
+including 
+astrocytes,[1]
+oligodendrocytes,[2] and microglia.[3]
+There are many different specialized
+types of neurons, and their sizes vary
+from as small as about 5 micrometres to over 10 millimetres for some of the smallest and largest neurons of
+invertebrates, respectively.
+The soma of a neuron (i.e., the main part of the neuron in which the
+dendrites branch off of) contains many organelles, including
+granules called Nissl granules, which are composed largely of
+rough endoplasmic reticulum and free polyribosomes.[4] The cell
+nucleus is a key feature of the soma. The nucleus is the source of
+most of the RNA that is produced in neurons. In general, most
+proteins are produced from mRNAs that do not travel far from the
+cell nucleus. This creates a challenge for supplying new proteins to
+axon endings that can be a meter or more away from the soma.
+Axons contain microtubule-associated motor proteins that transport
+protein-containing vesicles between the soma and the synapses at the axon terminals. Such transport of
+molecules towards and away from the soma maintains critical cell functions. In case of neurons, the soma
+receives a large number of inhibitory synapses,[5] which can regulate the activity of these cells. It has also
+been shown that microglial processes constantly monitor neuronal functions through somatic junctions, and
+exert neuroprotection when needed.[6]
+The axon hillock is a specialized domain of the neuronal cell body from which the axon originates. A high
+amount of protein synthesis occurs in this region, as it contains many Nissl granules (which are ribosomes
+wrapped in RER) and polyribosomes. Within the axon hillock, materials are sorted as either items that will
+enter the axon (like the components of the cytoskeletal architecture of the axon, mitochondria, etc.) or will
+remain in the soma. In addition, the axon hillock also has a specialized plasma membrane that contains large
+numbers of voltage-gated ion channels, since this is most often the site of action potential initiation and
+triggering.[4]
+Dendrite
+Soma
+Axon
+Nucleus
+Node of
+Ranvier
+Axon terminal
+Schwann cell
+Myelin sheath
+The survival of some sensory neurons depends on axon terminals making contact with sources of survival
+factors that prevent apoptosis. The survival factors are neurotrophic factors, including molecules such as
+nerve growth factor (NGF). NGF interacts with receptors at axon terminals, and this produces a signal that
+must be transported up the length of the axon to the nucleus. A current theory of how such survival signals
+are sent from axon endings to the soma includes the idea that NGF receptors are endocytosed from the
+surface of axon tips and that such endocytotic vesicles are transported up the axon.[7]
+Intermediate filaments are abundant in both perikarya and axonal and dendritic processes and are called
+neurofilaments. The neurofilaments become cross linked with certain fixatives and when impregnated with
+silver, they form neuro fibrils visible with the light microscope. [8]
+1. Bazargani, N; Attwell, D (February 2016). "Astrocyte calcium signaling: the third wave" (htt
+p://discovery.ucl.ac.uk/1478400/). Nature Neuroscience. 19 (2): 182–9. doi:10.1038/nn.4201
+(https://doi.org/10.1038%2Fnn.4201). PMID 26814587 (https://pubmed.ncbi.nlm.nih.gov/268
+14587). S2CID 205438341 (https://api.semanticscholar.org/CorpusID:205438341).
+2. Baumann, N; Pham-Dinh, D (April 2001). "Biology of oligodendrocyte and myelin in the
+mammalian central nervous system". Physiological Reviews. 81 (2): 871–927.
+doi:10.1152/physrev.2001.81.2.871 (https://doi.org/10.1152%2Fphysrev.2001.81.2.871).
+PMID 11274346 (https://pubmed.ncbi.nlm.nih.gov/11274346).
+3. Kozlowski, C; Weimer, RM (2012). "An automated method to quantify microglia morphology
+and application to monitor activation state longitudinally in vivo" (https://www.ncbi.nlm.nih.go
+v/pmc/articles/PMC3294422). PLOS ONE. 7 (2): e31814. Bibcode:2012PLoSO...731814K (h
+ttps://ui.adsabs.harvard.edu/abs/2012PLoSO...731814K). doi:10.1371/journal.pone.0031814
+(https://doi.org/10.1371%2Fjournal.pone.0031814). PMC 3294422 (https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC3294422). PMID 22457705 (https://pubmed.ncbi.nlm.nih.gov/2245770
+5).
+4. Squire, Larry; Berg, Darwin; Bloom, Floyd; du Lac, Sascha; Ghosh, Anirvan; Spitzer,
+Nicholas, eds. (2008). Fundamental Neuroscience (3rd ed.). Academic Press. ISBN 978-0-
+12-374019-9.
+5. Freund and Katona, Neuron, Volume 56, Issue 1, 4 October 2007, Pages 33-42,
+https://doi.org/10.1016/j.neuron.2007.09.012
+6. Cserép C, Pósfai B, Lénárt N, Fekete R, László ZI, Lele Z, et al. (January 2020). "Microglia
+monitor and protect neuronal function through specialized somatic purinergic junctions" (http
+s://epub.ub.uni-muenchen.de/76442/1/Cserep_Posfai_et_al_accepted.pdf) (PDF). Science.
+367 (6477): 528–537. Bibcode:2020Sci...367..528C (https://ui.adsabs.harvard.edu/abs/2020
+Sci...367..528C). doi:10.1126/science.aax6752 (https://doi.org/10.1126%2Fscience.aax675
+2). PMID 31831638 (https://pubmed.ncbi.nlm.nih.gov/31831638). S2CID 209343260 (https://
+api.semanticscholar.org/CorpusID:209343260).
+7. Delcroix JD, Valletta J, Wu C, et al. (2004). "Trafficking the NGF signal: implications for
+normal and degenerating neurons". NGF and Related Molecules in Health and Disease.
+Progress in Brain Research. Vol. 146. pp. 3–23. doi:10.1016/s0079-6123(03)46001-9 (http
+s://doi.org/10.1016%2Fs0079-6123%2803%2946001-9). ISBN 9780444514721.
+PMID 14699953 (https://pubmed.ncbi.nlm.nih.gov/14699953).
+References
+8. Junqueira 12th edition.
+Histology image: 3_09 (http://www.ouhsc.edu/histology/Glass%20slides/3_09.jpg) at the
+University of Oklahoma Health Sciences Center - "Slide 3 Spinal cord"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Soma_(biology)&oldid=1211805240"
+External links
