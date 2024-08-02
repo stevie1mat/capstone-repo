@@ -78,7 +78,7 @@ interactions['next_page_encoded'] = label_encoder.transform(interactions['next_p
 
 num_pages = len(all_pages)
 
-model_path = 'https://github.com/stevie1mat/capstone-repo/blob/main/model.keras'
+model_path = 'model.keras'
 
 if os.path.exists(model_path):
     try:
