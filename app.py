@@ -117,7 +117,7 @@ ncf_model.fit(
 )
 
 # Streamlit App
-st.title('Page Recommendation System')
+st.title('Learning Path Recommender System')
 
 user_prompt = st.text_input("Enter your prompt:")
 
