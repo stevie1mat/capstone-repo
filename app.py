@@ -5,8 +5,6 @@ import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from keras.layers import Input, Embedding, Flatten, Concatenate, Dense, Dropout
-from keras.models import Model
 
 # Load your keyword data
 keywords_df = pd.read_csv('keyword.csv')
@@ -17,16 +15,16 @@ tfidf_vectorizer = TfidfVectorizer()
 # Fit and transform the "text" column to TF-IDF matrix
 tfidf_matrix = tfidf_vectorizer.fit_transform(keywords_df['Text'].fillna(''))
 
-# Function for keyword matching with multiple results
+# Example function for keyword matching with multiple results
 def match_top_pages(user_prompt, keywords_df, tfidf_matrix, top_n=5):
     processed_prompt = user_prompt.lower()  # Convert to lowercase
     keywords = processed_prompt.split()  # Simple split by whitespace
-
+    
     relevance_scores = {}
-
+    
     for keyword in keywords:
         matches = keywords_df[keywords_df.apply(lambda x: keyword in x.values, axis=1)]
-
+        
         for index, row in matches.iterrows():
             relevance_score = row[['Score1', 'Score2', 'Score3', 'Score4', 'Score5']].sum()
             page_name = row['Title']
@@ -34,20 +32,20 @@ def match_top_pages(user_prompt, keywords_df, tfidf_matrix, top_n=5):
                 relevance_scores[page_name] += relevance_score
             else:
                 relevance_scores[page_name] = relevance_score
-
+    
     if not relevance_scores:
         user_tfidf = tfidf_vectorizer.transform([user_prompt])
         cosine_similarities = cosine_similarity(user_tfidf, tfidf_matrix).flatten()
         top_indices = cosine_similarities.argsort()[-top_n:][::-1]
-
+        
         for index in top_indices:
             page_name = keywords_df.iloc[index]['Title']
             relevance_score = cosine_similarities[index]
             relevance_scores[page_name] = relevance_score
-
+    
     sorted_pages = sorted(relevance_scores.items(), key=lambda x: x[1], reverse=True)
     top_pages = sorted_pages[:top_n]
-
+    
     return top_pages
 
 # Load the user path data
@@ -76,7 +74,15 @@ label_encoder.fit(all_pages)
 interactions['current_page_encoded'] = label_encoder.transform(interactions['current_page'])
 interactions['next_page_encoded'] = label_encoder.transform(interactions['next_page'])
 
-# Define the NCF model
+from sklearn.model_selection import train_test_split
+
+train_data, test_data = train_test_split(interactions[['current_page_encoded', 'next_page_encoded', 'rating']],
+                                         test_size=0.2,
+                                         random_state=42)
+
+from tensorflow.keras.models import Model
+from tensorflow.keras.layers import Input, Embedding, Flatten, Concatenate, Dense, Dropout
+
 num_pages = len(all_pages)
 embedding_dim = 50
 
@@ -99,53 +105,34 @@ ncf_model = Model(inputs=[input_current_page, input_next_page], outputs=output_l
 
 ncf_model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
-# Load or train the model
-model_path = 'model.keras'
-try:
-    ncf_model.load_weights(model_path)
-except:
-    # Split the data into training and test sets
-    from sklearn.model_selection import train_test_split
-    train_data, test_data = train_test_split(interactions, test_size=0.2)
-    
-    ncf_model.fit(
-        [train_data['current_page_encoded'], train_data['next_page_encoded']],
-        train_data['rating'],
-        batch_size=64,
-        epochs=10,
-        validation_data=(
-            [test_data['current_page_encoded'], test_data['next_page_encoded']],
-            test_data['rating']
-        )
+ncf_model.fit(
+    [train_data['current_page_encoded'], train_data['next_page_encoded']],
+    train_data['rating'],
+    batch_size=64,
+    epochs=10,
+    validation_data=(
+        [test_data['current_page_encoded'], test_data['next_page_encoded']],
+        test_data['rating']
     )
-    ncf_model.save_weights(model_path)
+)
 
-# Streamlit app
-st.title("Keyword and Page Recommendation")
+# Streamlit App
+st.title('Page Recommendation System')
 
 user_prompt = st.text_input("Enter your prompt:")
 
-if user_prompt:
+if st.button("Get Recommendations"):
     top_n = 3
     path_length = 3
     top_pages = match_top_pages(user_prompt, keywords_df, tfidf_matrix, top_n=top_n)
 
-    results = []
     for page_name, _ in top_pages:
         prompt_page_encoded = label_encoder.transform([page_name])[0]
         predicted_pages = ncf_model.predict([prompt_page_encoded * np.ones(num_pages), np.arange(num_pages)])
         confidence_scores = predicted_pages.flatten()
         top_predicted_indices = np.argsort(confidence_scores)[::-1][:path_length]
         predicted_paths = label_encoder.inverse_transform(top_predicted_indices)
-        results.append({
-            'page_name': page_name,
-            'top_predicted_indices': top_predicted_indices.tolist(),
-            'confidence_scores': confidence_scores[top_predicted_indices].tolist(),
-            'predicted_paths': predicted_paths.tolist()
-        })
-
-    for result in results:
-        st.subheader(f"Results for page: {result['page_name']}")
-        st.write("Top predicted paths:")
-        for path, score in zip(result['predicted_paths'], result['confidence_scores']):
-            st.write(f"{path} (Confidence Score: {score:.2f})")
+        
+        st.write(f"Top page: {page_name}")
+        st.write(f"Predicted paths: {predicted_paths.tolist()}")
+        st.write(f"Confidence scores: {confidence_scores[top_predicted_indices].tolist()}")
