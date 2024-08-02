@@ -5,9 +5,7 @@ import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from tensorflow.keras.models import load_model, Model
-from tensorflow.keras.layers import Input, Embedding, Flatten, Concatenate, Dense, Dropout
-from sklearn.model_selection import train_test_split
+from tensorflow.keras.models import load_model
 import os
 
 # Load your keyword data
@@ -79,24 +77,6 @@ interactions['current_page_encoded'] = label_encoder.transform(interactions['cur
 interactions['next_page_encoded'] = label_encoder.transform(interactions['next_page'])
 
 num_pages = len(all_pages)
-embedding_dim = 50
-
-input_current_page = Input(shape=(1,))
-input_next_page = Input(shape=(1,))
-
-embedding_layer = Embedding(num_pages, embedding_dim)
-
-flattened_current_page = Flatten()(embedding_layer(input_current_page))
-flattened_next_page = Flatten()(embedding_layer(input_next_page))
-
-concatenated = Concatenate()([flattened_current_page, flattened_next_page])
-
-dense_1 = Dense(128, activation='relu')(concatenated)
-dropout = Dropout(0.5)(dense_1)
-dense_2 = Dense(64, activation='relu')(dropout)
-output_layer = Dense(1, activation='sigmoid')(dense_2)
-
-ncf_model = Model(inputs=[input_current_page, input_next_page], outputs=output_layer)
 
 model_path = 'https://github.com/stevie1mat/capstone-repo/blob/main/model.keras'
 
@@ -107,27 +87,7 @@ if os.path.exists(model_path):
     except Exception as e:
         st.write("Error loading model:", e)
 else:
-    # Split data
-    train_data, test_data = train_test_split(interactions[['current_page_encoded', 'next_page_encoded', 'rating']],
-                                             test_size=0.2,
-                                             random_state=42)
-
-    ncf_model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-
-    ncf_model.fit(
-        [train_data['current_page_encoded'], train_data['next_page_encoded']],
-        train_data['rating'],
-        batch_size=64,
-        epochs=10,
-        validation_data=(
-            [test_data['current_page_encoded'], test_data['next_page_encoded']],
-            test_data['rating']
-        )
-    )
-    
-    # Save the model after training
-    ncf_model.save(model_path)
-    st.write("Model trained and saved successfully!")
+    st.write("Model file not found. Please ensure 'model.keras' exists in the directory.")
 
 # Streamlit App
 st.title('Learning Path Recommender System')
