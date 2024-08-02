@@ -1,12 +1,19 @@
-import streamlit as st
+from flask import Flask, request, render_template
 import numpy as np
 import pandas as pd
 import tensorflow as tf
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from tensorflow.keras.models import load_model
-import os
+from keras.layers import Input
+from keras.layers import Embedding
+from keras.layers import Flatten
+from keras.layers import Concatenate
+from keras.layers import Dense
+from keras.layers import Dropout
+from keras.models import Model
+
+
 
 # Load your keyword data
 keywords_df = pd.read_csv('keyword.csv')
@@ -76,36 +83,70 @@ label_encoder.fit(all_pages)
 interactions['current_page_encoded'] = label_encoder.transform(interactions['current_page'])
 interactions['next_page_encoded'] = label_encoder.transform(interactions['next_page'])
 
+# Define the NCF model
 num_pages = len(all_pages)
+embedding_dim = 50
 
+input_current_page = Input(shape=(1,))
+input_next_page = Input(shape=(1,))
+
+embedding_layer = Embedding(num_pages, embedding_dim)
+
+flattened_current_page = Flatten()(embedding_layer(input_current_page))
+flattened_next_page = Flatten()(embedding_layer(input_next_page))
+
+concatenated = Concatenate()([flattened_current_page, flattened_next_page])
+
+dense_1 = Dense(128, activation='relu')(concatenated)
+dropout = Dropout(0.5)(dense_1)
+dense_2 = Dense(64, activation='relu')(dropout)
+output_layer = Dense(1, activation='sigmoid')(dense_2)
+
+ncf_model = Model(inputs=[input_current_page, input_next_page], outputs=output_layer)
+
+ncf_model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+
+# Load or train the model
 model_path = 'model.keras'
+try:
+    ncf_model.load_weights(model_path)
+except:
+    ncf_model.fit(
+        [train_data['current_page_encoded'], train_data['next_page_encoded']],
+        train_data['rating'],
+        batch_size=64,
+        epochs=10,
+        validation_data=(
+            [test_data['current_page_encoded'], test_data['next_page_encoded']],
+            test_data['rating']
+        )
+    )
+    ncf_model.save_weights(model_path)
 
-if os.path.exists(model_path):
-    try:
-        ncf_model = load_model(model_path)
-        st.write("Loaded pre-trained model successfully!")
-    except Exception as e:
-        st.write("Error loading model:", e)
-else:
-    st.write("Model file not found. Please ensure 'model.keras' exists in the directory.")
+app = Flask(__name__)
 
-# Streamlit App
-st.title('Learning Path Recommender System')
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    if request.method == 'POST':
+        user_prompt = request.form['user_prompt']
+        top_n = 3
+        path_length = 3
+        top_pages = match_top_pages(user_prompt, keywords_df, tfidf_matrix, top_n=top_n)
 
-user_prompt = st.text_input("Enter your prompt:")
+        results = []
+        for page_name, _ in top_pages:
+            prompt_page_encoded = label_encoder.transform([page_name])[0]
+            predicted_pages = ncf_model.predict([prompt_page_encoded * np.ones(num_pages), np.arange(num_pages)])
+            confidence_scores = predicted_pages.flatten()
+            top_predicted_indices = np.argsort(confidence_scores)[::-1][:path_length]
+            predicted_paths = label_encoder.inverse_transform(top_predicted_indices)
+            results.append({
+                'page_name': page_name,
+                'top_predicted_indices': top_predicted_indices.tolist(),
+                'confidence_scores': confidence_scores[top_predicted_indices].tolist(),
+                'predicted_paths': predicted_paths.tolist()
+            })
 
-if st.button("Get Recommendations"):
-    top_n = 3
-    path_length = 3
-    top_pages = match_top_pages(user_prompt, keywords_df, tfidf_matrix, top_n=top_n)
+        return render_template('index.html', user_prompt=user_prompt, results=results)
 
-    for page_name, _ in top_pages:
-        prompt_page_encoded = label_encoder.transform([page_name])[0]
-        predicted_pages = ncf_model.predict([prompt_page_encoded * np.ones(num_pages), np.arange(num_pages)])
-        confidence_scores = predicted_pages.flatten()
-        top_predicted_indices = np.argsort(confidence_scores)[::-1][:path_length]
-        predicted_paths = label_encoder.inverse_transform(top_predicted_indices)
-        
-        st.write(f"Top page: {page_name}")
-        st.write(f"Predicted paths: {predicted_paths.tolist()}")
-        st.write(f"Confidence scores: {confidence_scores[top_predicted_indices].tolist()}")
+    return render_template('index.html')
