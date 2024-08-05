@@ -10,3 +10,4 @@ gensim
 spacy
 pyLDAvis
 matplotlib
+wordcloud
