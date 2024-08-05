@@ -17,6 +17,10 @@ import os
 # Load spaCy model
 nlp = spacy.load('en_core_web_sm', disable=['parser', 'ner'])
 
+# Download NLTK stopwords if not already available
+import nltk
+nltk.download('stopwords')
+
 # Load stopwords
 from nltk.corpus import stopwords
 stop_words = stopwords.words('english')
@@ -87,10 +91,13 @@ if directory:
     id2word = corpora.Dictionary(data_lemmatized)
     corpus = [id2word.doc2bow(text) for text in data_lemmatized]
 
+    # User input for number of topics
+    num_topics = st.slider('Number of Topics', min_value=2, max_value=10, value=5)
+
     # Build LDA model
     lda_model = LdaModel(corpus=corpus,
                          id2word=id2word,
-                         num_topics=5,
+                         num_topics=num_topics,
                          random_state=100,
                          update_every=1,
                          chunksize=100,
