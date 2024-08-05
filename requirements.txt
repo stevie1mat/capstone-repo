@@ -9,3 +9,4 @@ keras
 gensim
 spacy
 pyLDAvis
+matplotlib
