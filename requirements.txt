@@ -1,14 +1,9 @@
-Flask
-Streamlit
-tensorflow
-numpy
-scikit-learn
+streamlit
 pandas
-werkzeug
-keras
 gensim
 spacy
+nltk
 pyLDAvis
 matplotlib
 wordcloud
-nltk
+numpy
